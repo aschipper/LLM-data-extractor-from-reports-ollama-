@@ -30,5 +30,3 @@ def save_json(data, outpath: Path, filename: Optional[str] = None, retries: int 
             time.sleep(delay)
     else:
         print(f"Failed to save data after {retries} attempts.")
-
-

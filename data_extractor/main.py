@@ -8,6 +8,7 @@ from dragon_eval import DragonEval
 
 from data_extractor.ollama_server import OllamaServerManager
 from data_extractor.prediction_task import PredictionTask
+from data_extractor.hyperparameter_tuner import HyperparameterTuner
 
 DEBUG = True
 
@@ -169,6 +170,31 @@ def parse_args_extract_data() -> argparse.Namespace:
         default=f"{Path(__file__).resolve().parents[1]}/data",
         help="Path to the data directory.",
     )
+    parser.add_argument(
+        "--tune",
+        action='store_true',
+        help="Enable hyperparameter tuning using Optuna."
+    )
+    parser.add_argument(
+        "--n_trials",
+        type=int,
+        default=10,
+        help="Number of trials for hyperparameter tuning."
+    )
+    parser.add_argument(
+        "--temperature_range",
+        nargs=2,
+        type=float,
+        default=[0.0, 0.5],
+        help="Temperature range for hyperparameter tuning."
+    )
+    parser.add_argument(
+        "--metric",
+        type=str,
+        default='macro',
+        choices=['micro', 'macro'],
+        help="Metric type for evaluation (micro or macro F1 score)."
+    )
     return parser.parse_args()
 
 
@@ -201,36 +227,34 @@ def extract_data() -> None:
     """
     args = parse_args_extract_data()
 
-    task_runner = TaskRunner(
-        model_name=args.model_name,
-        task_id=args.task_id,
-        num_examples=args.num_examples,
-        n_runs=args.n_runs,
-        temperature=args.temperature,
-        run_name=args.run_name,
-        output_dir=args.output_dir,
-        task_dir=args.task_dir,
-        log_dir=args.log_dir,
-        data_dir=args.data_dir,
-    )
-
-    task_runner.run_tasks()
-
-
-def evaluate() -> None:
-    """
-    Main function to evaluate the results of prediction tasks.
-    """
-    args = parse_args_evaluate()
-
-    evaluator = PredictionEvaluator(
-        task_ids=args.task_ids,
-        ground_truth_path=args.ground_truth_path,
-        output_path=args.output_path,
-        prediction_path=args.prediction_path,
-    )
-    evaluator.evaluate()
-
+    if args.tune:
+        tuner = HyperparameterTuner(
+            model_name=args.model_name,
+            task_id=args.task_id,
+            num_examples=args.num_examples,
+            n_trials=args.n_trials,
+            temperature_range=tuple(args.temperature_range),
+            output_dir=args.output_dir,
+            task_dir=args.task_dir,
+            data_dir=args.data_dir,
+            ground_truth_path=args.data_dir / "df_llm_GT.jsonl",
+            metric=args.metric,
+        )
+        tuner.tune()
+    else:
+        task_runner = TaskRunner(
+            model_name=args.model_name,
+            task_id=args.task_id,
+            num_examples=args.num_examples,
+            n_runs=args.n_runs,
+            temperature=args.temperature,
+            run_name=args.run_name,
+            output_dir=args.output_dir,
+            task_dir=args.task_dir,
+            log_dir=args.log_dir,
+            data_dir=args.data_dir,
+        )
+        task_runner.run_tasks()
 
 if __name__ == "__main__":
     extract_data()

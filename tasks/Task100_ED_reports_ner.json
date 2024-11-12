@@ -1,0 +1,15 @@
+{
+    "Task": "Annotate all signs and symptoms automatically in ED reports",
+    "Type": "Multi Label Named Entity Recognition",
+    "Description": "Detailed description of the task",
+    "Data_Path": "df_llm_text.jsonl",
+    "Example_Path": "df_llm_GT.jsonl",
+    "Input_Field": "text",
+    "Label_Field": "abdomen drukpijn locatie",
+    "Parser_Format": {
+        "abdomen drukpijn locatie": {
+            "type": "list",
+            "description": "Kun je mij alle abdomen drukpijn locaties geven uit het lichamelijk onderzoek, als deze gerapporteerd zijn (zonder verdere uitleg)? De antwoordopties zijn: diffuus, LOQ, LBQ, ROQ, RBQ, periumbilicaal, epigastrio en hypogastrio, of niet gerapporteerd."
+        }
+    }
+}

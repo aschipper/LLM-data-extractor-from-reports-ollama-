@@ -1,8 +1,8 @@
-from typing import List, Optional, Union, Any
+from typing import List, Optional, Union, Any, Dict, Type
 from pydantic import BaseModel, Field, field_validator
 from typing import Any, Dict, Type
 from pydantic import BaseModel, Field, create_model
-from typing import Literal, get_args
+from typing import Literal, get_args, get_origin
 
 type_mapping = {
     "str": str,
@@ -54,9 +54,10 @@ def create_pydantic_model_from_json(data: Dict[str, Any], model_name: str = 'Out
     return create_model(model_name, **fields)
         
 def load_parser(task_type: str, parser_format: Optional[Dict[str, Any]]) -> Type[BaseModel]:
-    if task_type == "Example Generation":
-        class ExampleGenerationOutput(BaseModel):
-            reasoning: str = Field(description="The thought process leading to the answer")
-        return ExampleGenerationOutput
-    else:
-        return create_pydantic_model_from_json(data=parser_format)
+   if task_type != "Example Generation":
+       return create_pydantic_model_from_json(data=parser_format)
+   else:
+       class ExampleGenerationOutput(BaseModel):
+           reasoning: str = Field(description="The thought process leading to the answer")
+
+       return ExampleGenerationOutput

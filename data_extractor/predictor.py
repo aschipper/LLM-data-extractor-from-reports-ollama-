@@ -96,15 +96,15 @@ class Predictor:
     def generate_examples(self, train_data: pd.DataFrame) -> List[Dict[str, Any]]:
         """
         Generate examples from the training data.
-        
+
         Args:
             train_data (pd.DataFrame): The training data containing text and labels.
-        
+
         Returns:
             List[Dict[str, Any]]: A list of generated examples with text, label, and reasoning.
         """
         print("Generating examples...")
-        
+
         parser_model = load_parser(task_type="Example Generation", valid_items=None, list_length=None)
         self.example_parser = JsonOutputParser(pydantic_object=parser_model)
         example_format_instructions = self.example_parser.get_format_instructions()
@@ -112,7 +112,7 @@ class Predictor:
         system_prompt = SystemMessagePromptTemplate(
             prompt=PromptTemplate(
                 template = self._load_template("example_generation/system_prompt").format(
-                    task=self.task, 
+                    task=self.task,
                     description=self.description
                 ) + '\n**Format instructions:**\n{format_instructions}',
                 input_variables=[],
@@ -121,7 +121,7 @@ class Predictor:
         )
         human_prompt = HumanMessagePromptTemplate(
             prompt=PromptTemplate(
-                template=self._load_template("example_generation/human_prompt"), 
+                template=self._load_template("example_generation/human_prompt"),
                 input_variables=["text", "label"]
             )
         )
@@ -465,4 +465,12 @@ class Predictor:
         results = chain.batch(test_data_processed, config={"callbacks": [callbacks]})
         callbacks.progress_bar.close()
 
-        return self.validate_and_fix_results(results, fixing_chain)
+        # Convert results to DataFrame
+        results_df = pd.DataFrame(results)
+
+        # Merge with test data to include 'uid'
+        results_df['uid'] = test_data['uid'].values
+
+        # Return results as a list of dictionaries
+        return results_df.to_dict(orient='records')
+        #return self.validate_and_fix_results(results, fixing_chain)

@@ -8,3 +8,5 @@ langchain-chroma
 langchain-community
 langchain-ollama
 ollama
+scikit-learn
+optuna

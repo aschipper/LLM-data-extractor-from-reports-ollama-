@@ -130,7 +130,7 @@ class PredictionTask:
         Args:
             run_idx (int): The index of the current run.
         """
-        output_path = self.output_path_base / f"{self.task_name}-fold{run_idx}"
+        output_path = self.output_path_base / f"fold{run_idx}"
         output_path.mkdir(parents=True, exist_ok=True)
 
         prediction_file = output_path / "nlp-predictions-dataset.json"

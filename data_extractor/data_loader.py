@@ -5,13 +5,17 @@ import json
 import re
 
 class DataLoader:
-    def __init__(self, train_path, test_path) -> None:
-        self.train_path = Path(train_path)
-        self.test_path = Path(test_path)
+    def __init__(self, train_path=None, test_path=None) -> None:
+        self.train_path = Path(train_path) if train_path else None
+        self.test_path = Path(test_path) if test_path else None
     
-    def load_data(self) -> pd.DataFrame:
-        train = pd.read_json(self.train_path)
-        test = pd.read_json(self.test_path)
+    def load_data(self):
+        train = None
+        test = None
+        if self.train_path and self.train_path.exists():
+            train = pd.read_json(self.train_path, lines=True)
+        if self.test_path and self.test_path.exists():
+            test = pd.read_json(self.test_path, lines=True)
         return train, test
 
 class TaskLoader:
