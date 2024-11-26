@@ -1,0 +1,483 @@
+[
+    {
+        "uid": "A4E1767A2172838D395D91CEF2006719AAED9F1C",
+        "abdomen drukpijn locatie": [
+            "ROB"
+        ],
+        "path": NaN,
+        "name": NaN,
+        "prompt": NaN
+    },
+    {
+        "uid": "78ED8848C4B9DA50B50294E589EEA650996465DC",
+        "abdomen drukpijn locatie": [
+            "diffuus",
+            "LOQ",
+            "LBQ",
+            "ROQ",
+            "RBQ",
+            "periumbilicaal"
+        ],
+        "path": NaN,
+        "name": NaN,
+        "prompt": NaN
+    },
+    {
+        "uid": "C5F50D58EDE80C17A0F30AA9FC39EB04DBD23CE6",
+        "abdomen drukpijn locatie": [
+            "diffuus"
+        ],
+        "path": NaN,
+        "name": NaN,
+        "prompt": NaN
+    },
+    {
+        "uid": "577A8164CB45513543F59B9D73881DFA94309817",
+        "abdomen drukpijn locatie": [
+            "ROQ"
+        ],
+        "path": NaN,
+        "name": NaN,
+        "prompt": NaN
+    },
+    {
+        "uid": "A2291D111D408236D3C7E709E750B962B86F3B1E",
+        "abdomen drukpijn locatie": [
+            "ROQ",
+            "RBQ"
+        ],
+        "path": NaN,
+        "name": NaN,
+        "prompt": NaN
+    },
+    {
+        "uid": "A21866261853002D8C1B024D28C6D92942AF3FAE",
+        "abdomen drukpijn locatie": [
+            "ROQ"
+        ],
+        "path": NaN,
+        "name": NaN,
+        "prompt": NaN
+    },
+    {
+        "uid": "6D9DA4ADF164E4424104DE473A7263B2C6D3FD16",
+        "abdomen drukpijn locatie": [
+            "diffuus",
+            "LOQ",
+            "RBQ"
+        ],
+        "path": NaN,
+        "name": NaN,
+        "prompt": NaN
+    },
+    {
+        "uid": "4C41D89D1D1C06225CB51028CA16D8B0CEBA9551",
+        "abdomen drukpijn locatie": [
+            "ROQ"
+        ],
+        "path": NaN,
+        "name": NaN,
+        "prompt": NaN
+    },
+    {
+        "uid": "2D6F0787085156EB7BCB6E072F1010CEDFD80FD2",
+        "abdomen drukpijn locatie": [
+            "ROQ"
+        ],
+        "path": NaN,
+        "name": NaN,
+        "prompt": NaN
+    },
+    {
+        "uid": "7E22FD0BDD343A7D205B967AA2B1184C64BD9982",
+        "abdomen drukpijn locatie": [
+            "ROQ"
+        ],
+        "path": NaN,
+        "name": NaN,
+        "prompt": NaN
+    },
+    {
+        "uid": "4662AD00E1897A9FC5570AC7918189566371AC7F",
+        "abdomen drukpijn locatie": [
+            "ROB"
+        ],
+        "path": NaN,
+        "name": NaN,
+        "prompt": NaN
+    },
+    {
+        "uid": "BC1835DE58C54933A95BB00211026D9695AE3F23",
+        "abdomen drukpijn locatie": [
+            "ROQ",
+            "RBQ"
+        ],
+        "path": NaN,
+        "name": NaN,
+        "prompt": NaN
+    },
+    {
+        "uid": "BDF1405B82EA0A6E19F19412648D21D9C80A5253",
+        "abdomen drukpijn locatie": [
+            "ROQ"
+        ],
+        "path": NaN,
+        "name": NaN,
+        "prompt": NaN
+    },
+    {
+        "uid": "D6419A0858A2AD2865E4EAA731A9B27A3BBC55D8",
+        "abdomen drukpijn locatie": [
+            "ROQ"
+        ],
+        "path": NaN,
+        "name": NaN,
+        "prompt": NaN
+    },
+    {
+        "uid": "4171A845B97024AED85520A0E270AFAA71F0CF89",
+        "abdomen drukpijn locatie": [
+            "ROQ"
+        ],
+        "path": NaN,
+        "name": NaN,
+        "prompt": NaN
+    },
+    {
+        "uid": "1A72B51A5848C32895540F00E508BAFE3DEDA5F0",
+        "abdomen drukpijn locatie": [
+            "ROQ",
+            "RBQ"
+        ],
+        "path": NaN,
+        "name": NaN,
+        "prompt": NaN
+    },
+    {
+        "uid": "B0E8A00B52B4126E8F7632214865013D0B41B714",
+        "abdomen drukpijn locatie": [
+            "periumbilicaal"
+        ],
+        "path": NaN,
+        "name": NaN,
+        "prompt": NaN
+    },
+    {
+        "uid": "22A31DAC5597F92FB6BE0F056D7227F7EABD06AB",
+        "abdomen drukpijn locatie": [
+            "epigastrio",
+            "hypogastrio"
+        ],
+        "path": NaN,
+        "name": NaN,
+        "prompt": NaN
+    },
+    {
+        "uid": "21DED51A61131E17EC6D604293E07003C9BF855A",
+        "abdomen drukpijn locatie": [
+            "diffuus",
+            "LOQ"
+        ],
+        "path": NaN,
+        "name": NaN,
+        "prompt": NaN
+    },
+    {
+        "uid": "7B02A1F3504E5A8628604F8133D180BD2BACB65C",
+        "abdomen drukpijn locatie": [
+            "ROB"
+        ],
+        "path": NaN,
+        "name": NaN,
+        "prompt": NaN
+    },
+    {
+        "uid": "B98E3C3E0632697888B0E00B50BA67119A7AB56E",
+        "abdomen drukpijn locatie": [
+            "diffuus",
+            "ROQ"
+        ],
+        "path": NaN,
+        "name": NaN,
+        "prompt": NaN
+    },
+    {
+        "uid": "031972956070C5908562CB19EA2A5017D6350421",
+        "abdomen drukpijn locatie": [
+            "ROQ"
+        ],
+        "path": NaN,
+        "name": NaN,
+        "prompt": NaN
+    },
+    {
+        "uid": "FE400923F732A2D8693120BDA3BE28D454CFA11F",
+        "abdomen drukpijn locatie": [
+            "ROQ",
+            "RBQ"
+        ],
+        "path": NaN,
+        "name": NaN,
+        "prompt": NaN
+    },
+    {
+        "uid": "A3BB6A34F0AC43784EB2BFFB8EF09A592B023918",
+        "abdomen drukpijn locatie": [
+            "epigastrio"
+        ],
+        "path": NaN,
+        "name": NaN,
+        "prompt": NaN
+    },
+    {
+        "uid": "49F76961E1EE040CD05C8E17C70FA90778FDD5A2",
+        "abdomen drukpijn locatie": [
+            "diffuus",
+            "periumbilicaal"
+        ],
+        "path": NaN,
+        "name": NaN,
+        "prompt": NaN
+    },
+    {
+        "uid": "12041F4DD5B99BD9889B64C10FC50CD7CE8133F3",
+        "abdomen drukpijn locatie": [
+            "ROQ"
+        ],
+        "path": NaN,
+        "name": NaN,
+        "prompt": NaN
+    },
+    {
+        "uid": "A6991C12F13B33D161A29A8A516563FBA187FEFC",
+        "abdomen drukpijn locatie": [
+            "ROQ"
+        ],
+        "path": NaN,
+        "name": NaN,
+        "prompt": NaN
+    },
+    {
+        "uid": "43C611149E6B13D368C256D0C8B38DE851B40FA2",
+        "abdomen drukpijn locatie": [
+            "ROQ"
+        ],
+        "path": NaN,
+        "name": NaN,
+        "prompt": NaN
+    },
+    {
+        "uid": "C9AA12F326C16FA8533835460535B94B46648A50",
+        "abdomen drukpijn locatie": [
+            "diffuus",
+            "LOQ",
+            "LBQ",
+            "ROQ",
+            "RBQ",
+            "periumbilicaal"
+        ],
+        "path": NaN,
+        "name": NaN,
+        "prompt": NaN
+    },
+    {
+        "uid": "C5F7C845935139CBC641AEBBB3972973146C7A25",
+        "abdomen drukpijn locatie": [
+            "ROQ"
+        ],
+        "path": NaN,
+        "name": NaN,
+        "prompt": NaN
+    },
+    {
+        "uid": "E07C5B3707F8FF50550201DC914B97505D8D76A8",
+        "abdomen drukpijn locatie": [
+            "diffuus",
+            "ROQ"
+        ],
+        "path": NaN,
+        "name": NaN,
+        "prompt": NaN
+    },
+    {
+        "uid": "85469694A0E11F4B0B78B9DF6C1CB480A07ECDDF",
+        "abdomen drukpijn locatie": [
+            "ROQ"
+        ],
+        "path": NaN,
+        "name": NaN,
+        "prompt": NaN
+    },
+    {
+        "uid": "FD34AC8DA4C2A2A3AA711F4A6FEB4E01672F3002",
+        "abdomen drukpijn locatie": [
+            "ROQ"
+        ],
+        "path": NaN,
+        "name": NaN,
+        "prompt": NaN
+    },
+    {
+        "uid": "60CB90BEBF3FCAEB387C8014454C9B49312E3060",
+        "abdomen drukpijn locatie": [
+            "diffuus",
+            "ROQ"
+        ],
+        "path": NaN,
+        "name": NaN,
+        "prompt": NaN
+    },
+    {
+        "uid": "F8E0DCB51E0146C0DA56837EC49C4B27E7F2B38C",
+        "abdomen drukpijn locatie": [
+            "diffuus"
+        ],
+        "path": NaN,
+        "name": NaN,
+        "prompt": NaN
+    },
+    {
+        "uid": "1D5F5FD88E0911616E433505A5FCBD1729D2A916",
+        "abdomen drukpijn locatie": [
+            "diffuus",
+            "ROQ"
+        ],
+        "path": NaN,
+        "name": NaN,
+        "prompt": NaN
+    },
+    {
+        "uid": "0EC0CC9BD874D7F19A1F162EC9A3EF4B51B0AA29",
+        "abdomen drukpijn locatie": [
+            "RBQ",
+            "epigastrio"
+        ],
+        "path": NaN,
+        "name": NaN,
+        "prompt": NaN
+    },
+    {
+        "uid": "32FA72459A99562ADAD68E4FED1E56BDF888ABE7",
+        "abdomen drukpijn locatie": [
+            "ROQ"
+        ],
+        "path": NaN,
+        "name": NaN,
+        "prompt": NaN
+    },
+    {
+        "uid": "4686E415356EA3C96AD3C0B8CEFA4839DAF72062",
+        "abdomen drukpijn locatie": [
+            "LBQ",
+            "RBQ"
+        ],
+        "path": NaN,
+        "name": NaN,
+        "prompt": NaN
+    },
+    {
+        "uid": "7D1C88791BC4B61E74DAB25784E94D29896C3A85",
+        "abdomen drukpijn locatie": [
+            "diffuus",
+            "LOQ",
+            "LBQ"
+        ],
+        "path": NaN,
+        "name": NaN,
+        "prompt": NaN
+    },
+    {
+        "uid": "DF0612111D0DA548667AA72B140C1BF54E553CF2",
+        "abdomen drukpijn locatie": [
+            "ROB"
+        ],
+        "path": NaN,
+        "name": NaN,
+        "prompt": NaN
+    },
+    {
+        "uid": "06CF92EB819DAB27CFEA13B52CD5B3DC9D44111B",
+        "abdomen drukpijn locatie": [
+            "diffuus",
+            "LOQ"
+        ],
+        "path": NaN,
+        "name": NaN,
+        "prompt": NaN
+    },
+    {
+        "uid": "79F58BEFED787751263E538B1E15B7E6A1497040",
+        "abdomen drukpijn locatie": [
+            "ROQ",
+            "RBQ"
+        ],
+        "path": NaN,
+        "name": NaN,
+        "prompt": NaN
+    },
+    {
+        "uid": "CBFFB5C86DAB81F56EEA3F16004F019F6615071A",
+        "abdomen drukpijn locatie": [
+            "diffuus",
+            "LBQ",
+            "RBQ"
+        ],
+        "path": NaN,
+        "name": NaN,
+        "prompt": NaN
+    },
+    {
+        "uid": "9083AE5FFEA051BE38471E1ADBFF909B3411C13A",
+        "abdomen drukpijn locatie": [
+            "ROQ"
+        ],
+        "path": NaN,
+        "name": NaN,
+        "prompt": NaN
+    },
+    {
+        "uid": "0A3AD34FEC0989EDCC230C83CB181F44FE955831",
+        "abdomen drukpijn locatie": NaN,
+        "path": "/anamnese",
+        "name": "Anamnese",
+        "prompt": "Anamnese van [CITY]:\n\nRelevante voorgeschiedenis:\n- 1985: M. Crohn van het terminale ileum.\n- 1990: Ileocoecaalresectie.\n- 2000: Verdenking syndroom van von Willebrand type 2, blijkt in 2016 milde hemofilie A te zijn (goede DDAVP respons: factor VIII 21% ==> 88%). Hij is goed te supporten met Advate, DDAVP en Tranexaminezuur.\n- 12-2007: Verlittekend frenulum preputi waarvoor frenulumplastiek.\n- 01-2016: Buikklachten bij 2 stenotische trajecten in het ileum met enige dilatatie waarvoor instelling op Humira (Adalimumab) en Purinethol tot feb 2017. Sindsdien geen klachten meer.\n- 03-2021: Diagnostiek van metastasering van een kolorectaal carcinoom met lever-, longen- en lyfnode-metastasen.\n\nSociale anamnese:\n- Woont samen met partner. Geen thuiszorg thuis, [CITY] vrijwel volledig zelfstandig.\n- Bij huisarts verzoek tot euthanasie, echter dochter van huisarts is overleden waardoor deze tijdelijk niet werkt. Toen bij vervangend huisarts een en ander besproken, maar toen vanwege '[CITY]endruk' weer naar nieuwe huisarts overgeplaatst. Bij deze huisarts geen klik gehad en toen afgelopen donderdag het bericht gekregen dat ze een nieuw kennismakingsgesprek moeten inplannen met een nieuwe huisarts.\n- Intussen hebben ze ook geen oncologisch hoofdbehandelaar (want in AMC is het ook afgesloten) en weten ze niet goed waar ze met hun euthanasieverzoek heen moeten. Ze vragen of het niet hier in het ziekenhuis gedaan kan worden.\n- Duidelijke wens voor kwaliteit van leven, in ieder geval geen invasieve [CITY].\n- Er is een wilsbeschikking, behandelverbod en volmachtiging voor de partner.\n\nTractus anamnese:\n- Algemeen: koorts niet gemeten maar wel klam en zweterig, geen koude rillingen, afgevallen 6 kg in ongeveer 2-3 weken\n- Circulatorius: POB , palpitaties-\n- Respiratorius: hoesten-, slijm-, dyspnoe pijn bij AH-\n- GI: zie speciale\n- Urologicus: bij zitten loopt het niet of niet goed, brandt af en toe een beetje. Wel normale kleur en frequentie.\n- Locomotorius: geen pijn in rug of extremiteiten\n\nLichamelijk onderzoek:\n- Vitale parameters:\n\t-Resp.: 16/min\n\t-Temp.: 36.9\u00b0C, oor\n\t-HR: 79 bpm Regulair\n\t-SpO2: 97%, zonder zuurstof\n\t-NIBP: 111/71\n\t-O2: 0 l/min\n\t-Pijnscore: 4, NRS\n- Lichamelijk onderzoek:\n\t-Algemene indruk: zwak, ingevallen wangen\n\t-Hoofd/hals: pupillen isocoor en lichtreactief, vochtige slijmvliezen\n\t-Cor: S1S2 regulair zonder soufffles\n\t-Pulmones: vesiculair ademgeruis zonder bijgeluiden\n\t-Abdomen: bolle buik, meerdere oude littekens, stoma oogt rustig. Hoogklinkende peristaltiek met wisselend ook gootsteengeruis, overwegend hypertympanie. Wisselend drukpijnlijk zonder loslaatpijn. Toucher van stoma is pijnlijk met wijsvinger, daarom met pink verricht: glad slijmvlies, geen duidelijk obstruerend moment, wel rondom meerdere gladde afwijken palpabel direct buiten darm (metastasen?).\n\t-Extremiteiten: slank zonder oedeem, warm"
+    },
+    {
+        "uid": "F6C92D5501176E8544CC33E1394BBE58B7544283",
+        "abdomen drukpijn locatie": [
+            "RBQ"
+        ],
+        "path": NaN,
+        "name": NaN,
+        "prompt": NaN
+    },
+    {
+        "uid": "3804C0175C9127FAC2842B96A2795B43C57D15BA",
+        "abdomen drukpijn locatie": [
+            "diffuus",
+            "ROQ"
+        ],
+        "path": NaN,
+        "name": NaN,
+        "prompt": NaN
+    },
+    {
+        "uid": "16F5DDC83D1D6E456DE3FB991911B962E99A5D32",
+        "abdomen drukpijn locatie": [
+            "ROQ",
+            "periumbilicaal"
+        ],
+        "path": NaN,
+        "name": NaN,
+        "prompt": NaN
+    },
+    {
+        "uid": "0C3E2B506B28A8C5A856F0136ADBBF44905BC0A8",
+        "abdomen drukpijn locatie": [
+            "ROQ"
+        ],
+        "path": NaN,
+        "name": NaN,
+        "prompt": NaN
+    }
+]

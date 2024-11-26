@@ -9,7 +9,7 @@
     "Parser_Format": {
         "abdomen drukpijn locatie": {
             "type": "list",
-            "description": "Kun je mij alle abdomen drukpijn locaties geven uit het lichamelijk onderzoek, als deze gerapporteerd zijn (zonder verdere uitleg)? De antwoordopties zijn: diffuus, LOQ, LBQ, ROQ, RBQ, periumbilicaal, epigastrio en hypogastrio, of niet gerapporteerd."
+            "description": "Het is jouw taak om de volgende acties uit te voeren:\n\n1. Lees het SEH-rapport, dat bestaat uit een anamnese en lichamelijk onderzoek.\n2. Zoek het onderdeel 'lichamelijk onderzoek' in het SEH-rapport.\n3. Label alle abdomen drukpijn locaties uit het lichamelijk onderzoek, indien gerapporteerd. De mogelijke antwoordopties zijn:\n   - diffuus\n   - LOQ\n   - LBQ\n   - ROQ\n   - RBQ\n   - periumbilicaal\n   - epigastrio\n   - hypogastrio\n4. Als de abdomen drukpijn locatie niet gerapporteerd is in het lichamelijk onderzoek, gebruik dan de waarde 'niet gerapporteerd'.\n5. Geef geen verdere uitleg, maar extraheer alleen de waarde(n)."
         }
     }
 }

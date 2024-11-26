@@ -9,7 +9,7 @@
     "Parser_Format": {
         "abdomen drukpijn locatie": {
             "type": "list",
-            "description": "Kun je mij alle abdomen drukpijn locaties geven uit het lichamelijk onderzoek, als deze gerapporteerd zijn (zonder verdere uitleg)? De antwoordopties zijn: diffuus, LOQ, LBQ, ROQ, RBQ, periumbilicaal, epigastrio en hypogastrio, of niet gerapporteerd."
+            "description": "Kun je mij alle abdomen drukpijn locaties geven uit het lichamelijk onderzoek, als deze gerapporteerd zijn (zonder verdere uitleg)? De antwoordopties zijn: diffuus, LOQ, LBQ, ROQ, RBQ, periumbilicaal, epigastrio en hypogastrio, of niet gerapporteerd. Als deze niet gerapporteerd vervang alle 'None' door 'niet gerapporteerd'"
         }
     }
 }

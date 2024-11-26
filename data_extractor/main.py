@@ -26,6 +26,9 @@ class TaskRunner:
         num_examples: int,
         n_runs: int,
         temperature: float,
+        top_k: int,
+        top_p: float,
+        min_p: float,
         run_name: str,
         output_dir: Path,
         task_dir: Path,
@@ -37,6 +40,9 @@ class TaskRunner:
         self.num_examples = num_examples
         self.n_runs = n_runs
         self.temperature = temperature
+        self.top_k = top_k
+        self.top_p = top_p
+        self.min_p = min_p
         self.run_name = run_name
         self.output_dir = output_dir
         self.output_path_base = self.output_dir / run_name
@@ -71,6 +77,9 @@ class TaskRunner:
                 num_examples=self.num_examples,
                 n_runs=self.n_runs,
                 temperature=self.temperature,
+                top_k=self.top_k,
+                top_p=self.top_p,
+                min_p=self.min_p,
                 task_dir=self.task_dir,
                 data_dir=self.data_dir,
             )
@@ -141,11 +150,40 @@ def parse_args_extract_data() -> argparse.Namespace:
         default=0,
         help="Number of examples to generate for each task.",
     )
-    parser.add_argument("--n_runs", type=int, default=5, help="Number of runs.")
     parser.add_argument(
-        "--temperature", type=float, default=0.3, help="Temperature for generation."
+        "--n_runs",
+        type=int,
+        default=5,
+        help="Number of runs.")
+    parser.add_argument(
+        "--temperature",
+        type=float,
+        default=0.3,
+        help="Temperature for generation."
     )
-    parser.add_argument("--run_name", type=Path, default="run", help="Name of the run.")
+    parser.add_argument(
+        "--top_k",
+        type=int,
+        default=5,
+        help="Top k for generation."
+    )
+    parser.add_argument(
+        "--top_p",
+        type=float,
+        default=0.9,
+        help="Top p for generation."
+    )
+    parser.add_argument(
+        "--min_p",
+        type=float,
+        default=0.05,
+        help="Min p for generation."
+    )
+    parser.add_argument(
+        "--run_name",
+        type=Path,
+        default="run",
+        help="Name of the run.")
     parser.add_argument(
         "--output_dir",
         type=Path,
@@ -185,8 +223,29 @@ def parse_args_extract_data() -> argparse.Namespace:
         "--temperature_range",
         nargs=2,
         type=float,
-        default=[0.0, 0.5],
+        default=[0.0, 0.7],
         help="Temperature range for hyperparameter tuning."
+    )
+    parser.add_argument(
+        "--top_k_range",
+        nargs=2,
+        type=int,
+        default=[1, 50],
+        help="Top k for hyperparameter tuning."
+    )
+    parser.add_argument(
+        "--top_p_range",
+        nargs=2,
+        type=float,
+        default=[0.8, 1.0],
+        help="Top p for hyperparameter tuning."
+    )
+    parser.add_argument(
+        "--min_p_range",
+        nargs=2,
+        type=float,
+        default=[0.0, 0.5],
+        help="Min p for hyperparameter tuning."
     )
     parser.add_argument(
         "--metric",
@@ -210,10 +269,7 @@ def parse_args_evaluate() -> argparse.Namespace:
         "--prediction_path", type=Path, required=True, help="Path to prediction data."
     )
     parser.add_argument(
-        "--ground_truth_path",
-        type=Path,
-        required=True,
-        help="Path to ground truth data.",
+        "--ground_truth_path", type=Path, required=True, help="Path to ground truth data.",
     )
     parser.add_argument(
         "--output_path", type=Path, required=True, help="Path for output file."
@@ -234,6 +290,9 @@ def extract_data() -> None:
             num_examples=args.num_examples,
             n_trials=args.n_trials,
             temperature_range=tuple(args.temperature_range),
+            top_k_range=tuple(args.top_k_range),
+            top_p_range=tuple(args.top_p_range),
+            min_p_range=tuple(args.min_p_range),
             output_dir=args.output_dir,
             task_dir=args.task_dir,
             data_dir=args.data_dir,
@@ -248,6 +307,9 @@ def extract_data() -> None:
             num_examples=args.num_examples,
             n_runs=args.n_runs,
             temperature=args.temperature,
+            top_k=args.top_k,
+            top_p=args.top_p,
+            min_p=args.min_p,
             run_name=args.run_name,
             output_dir=args.output_dir,
             task_dir=args.task_dir,

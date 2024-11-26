@@ -12,6 +12,9 @@ class HyperparameterTuner:
             num_examples: int,
             n_trials: int,
             temperature_range: tuple,
+            top_k_range: tuple,
+            top_p_range: tuple,
+            min_p_range: tuple,
             output_dir: Path,
             task_dir: Path,
             data_dir: Path,
@@ -23,6 +26,9 @@ class HyperparameterTuner:
         self.num_examples = num_examples
         self.n_trials = n_trials
         self.temperature_range = temperature_range
+        self.top_k_range = top_k_range
+        self.top_p_range = top_p_range
+        self.min_p_range = min_p_range
         self.output_dir = output_dir
         self.task_dir = task_dir
         self.data_dir = data_dir
@@ -32,6 +38,9 @@ class HyperparameterTuner:
     def objective(self, trial):
         # Suggest hyperparameters
         temperature = trial.suggest_float("temperature", *self.temperature_range)
+        top_k = trial.suggest_int("top_k", *self.top_k_range)
+        top_p = trial.suggest_float("top_p", *self.top_p_range)
+        min_p = trial.suggest_float("min_p", *self.min_p_range)
 
         # Define the output path for this trial
         trial_output_dir = self.output_dir / f"trial_{trial.number}"
@@ -45,13 +54,16 @@ class HyperparameterTuner:
             num_examples=self.num_examples,
             n_runs=1,  # Run once per trial
             temperature=temperature,
+            top_k=top_k,
+            top_p=top_p,
+            min_p=min_p,
             task_dir=self.task_dir,
             data_dir=self.data_dir,
         )
         prediction_task.run()
 
         # Evaluate the predictions
-        predictions_path = trial_output_dir / "nlp-predictions-dataset.json"
+        predictions_path = trial_output_dir / "fold0" / "nlp-predictions-dataset.json"
         evaluator = Evaluator(
             ground_truth_path=self.ground_truth_path,
             predictions_path=predictions_path,

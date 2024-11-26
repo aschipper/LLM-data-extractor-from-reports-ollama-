@@ -10,3 +10,4 @@ langchain-ollama
 ollama
 scikit-learn
 optuna
+numpy
