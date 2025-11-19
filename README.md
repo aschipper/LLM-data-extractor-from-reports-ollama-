@@ -7,14 +7,16 @@
 ```bash
 curl -fsSL https://ollama.com/install.sh | sh
 ```
+---
 ###  **Change to your project (repo) directory, e.g. **
 ```cd /path/to/your/LLM_data_extractor_optuna_repo
-
+---
 ###  **Pull a model and test**
 ``` ollama pull qwen2.5:14b-instruct ```
 ---
 ## 🧰 Basic CLI Usage
 Basic command structure:
+
 ```bash
 python -m LLM_data_extractor_optuna_repo.main --task_id 028 ---output_dir ./output --data_dir /path/to/your/LLM_data_extractor_optuna_repo/data/data_example_ed_report.jsonl
 ```
@@ -124,4 +126,5 @@ LLM_data_extractor_optuna_repo/
 └── README.md
 
 ```
+
 
