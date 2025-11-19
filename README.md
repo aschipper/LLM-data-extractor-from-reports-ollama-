@@ -55,8 +55,6 @@ python -m LLM_data_extractor_optuna_repo.main --task_id 028 ---output_dir ./outp
 | `--top_p`           | `list` | `[0.8, 1.0]`   | Top-P sampling (nucleus): consider top tokens summing to p     |
 | `--min_p`     | `list` | `[0.0, 0.2]`    | Minimum probability threshold for token selection (filters out low-probability tokens) |
 ---
-
----
 # 💡 Examples
 Run a task with default settings:
 ```bash
@@ -92,7 +90,7 @@ Each record must include:
 - A **`text`** field containing the text to process
 
 **Example:**  
-See `data/data_example_ed_report.jsonl`
+### See `data/data_example_ed_report.jsonl`
 ---
 # 🛠️ Task Configuration
 Create a JSON task file in the `tasks/` folder using the following naming format:
@@ -124,4 +122,5 @@ LLM_data_extractor_optuna_repo/
 │
 ├── run_all.sh
 └── README.md
+
 ```
