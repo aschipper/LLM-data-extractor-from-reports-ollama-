@@ -1,5 +1,5 @@
-# 💻 CLI Usage: `LLM_data_extractor_optuna_repo`
-` LLM_data_extractor_optuna_repo ` is a command-line tool for running and evaluating task-based generation experiments using customizable models, input data, and output settings.
+# 💻 CLI Usage: `LLM-data-extractor-from-reports-ollama-`
+` LLM-data-extractor-from-reports-ollama- ` is a command-line tool for running and evaluating task-based generation experiments using customizable models, input data, and output settings.
 
 # Installation
 ## **Install Ollama** on Linux
@@ -10,7 +10,7 @@ curl -fsSL https://ollama.com/install.sh | sh
 ---
 ###  Change to your project (repo) directory, e.g.
 ```bash
-cd /path/to/your/LLM_data_extractor_optuna_repo
+cd /path/to/your/LLM-data-extractor-from-reports-ollama-
 ```
 ---
 ###  **Pull a model and test**
@@ -22,7 +22,7 @@ ollama pull qwen2.5:14b-instruct
 Basic command structure:
 
 ```bash
-python -m LLM_data_extractor_optuna_repo.main --task_id 028 ---output_dir ./output --data_dir /path/to/your/LLM_data_extractor_optuna_repo/data/data_example_ed_report.jsonl
+python -m LLM-data-extractor-from-reports-ollama-.main --task_id 028 ---output_dir ./output --data_dir /path/to/your/LLM-data-extractor-from-reports-ollama-/data/data_example_ed_report.jsonl
 ```
 
 ## 🚩 Required Flags
@@ -65,15 +65,15 @@ python -m LLM_data_extractor_optuna_repo.main --task_id 028 ---output_dir ./outp
 # 💡 Examples
 Run a task with default settings:
 ```bash
-python -m LLM_data_extractor_optuna_repo.main --task_id 028 --output_dir ./output --data_dir /path/to/your/LLM_data_extractor_optuna_repo/data/data_example_ed_report.jsonl
+python -m LLM-data-extractor-from-reports-ollama-.main --task_id 028 --output_dir ./output --data_dir /path/to/your/LLM-data-extractor-from-reports-ollama-/data/data_example_ed_report.jsonl
 ```
 Run with a different temperature and model
 ```bash
-python -m LLM_data_extractor_optuna_repo.main --task_id 028 --model_name qwen2.5:14b-instruct --temperature 0.5 --output_dir ./output --data_dir /path/to/your/LLM_data_extractor_optuna_repo/data/data_example_ed_report.jsonl
+python -m LLM-data-extractor-from-reports-ollama-.main --task_id 028 --model_name qwen2.5:14b-instruct --temperature 0.5 --output_dir ./output --data_dir /path/to/your/LLM-data-extractor-from-reports-ollama-/data/data_example_ed_report.jsonl
 ```
 Run with a hyperparameter tuning
 ```bash
-python -m LLM_data_extractor_optuna_repo.main --task_id 028 --model_name qwen2.5:14b-instruct --hyperparameter_tuner --output_dir ./output --data_dir /path/to/your/LLM_data_extractor_optuna_repo/data/data_example_ed_report.jsonl
+python -m LLM-data-extractor-from-reports-ollama-.main --task_id 028 --model_name qwen2.5:14b-instruct --hyperparameter_tuner --output_dir ./output --data_dir /path/to/your/LLM-data-extractor-from-reports-ollama-/data/data_example_ed_report.jsonl
 ```
 
 Run multiple data files and multiple tasks using a shell script (see/adjust run_all.sh). 
@@ -116,7 +116,7 @@ Each task file must include the following keys (see example `Task028_Palpation_T
 ---
 ## 🧾 Example File Structure
 ```
-LLM_data_extractor_optuna_repo/
+LLM-data-extractor-from-reports-ollama-/
 │
 ├── data/
 │ └── data_example_ed_report.jsonl
@@ -131,6 +131,7 @@ LLM_data_extractor_optuna_repo/
 └── README.md
 
 ```
+
 
 
 
