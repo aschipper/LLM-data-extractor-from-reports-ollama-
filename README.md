@@ -8,7 +8,7 @@
 curl -fsSL https://ollama.com/install.sh | sh
 ```
 ---
-###  **Change to your project (repo) directory, e.g. **
+###  Change to your project (repo) directory, e.g.
 ```bash
 cd /path/to/your/LLM_data_extractor_optuna_repo
 ```
@@ -131,6 +131,7 @@ LLM_data_extractor_optuna_repo/
 └── README.md
 
 ```
+
 
 
 
