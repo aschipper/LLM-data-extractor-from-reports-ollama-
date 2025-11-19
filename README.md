@@ -8,10 +8,10 @@
 curl -fsSL https://ollama.com/install.sh | sh
 ```
 ###  **Change to your project (repo) directory, e.g. **
-```cd /path/to/your/LLM_data_extractor_optuna_repo ```
+```cd /path/to/your/LLM_data_extractor_optuna_repo
 
 ###  **Pull a model and test**
-```ollama pull qwen2.5:14b-instruct```
+``` ollama pull qwen2.5:14b-instruct ```
 ---
 ## 🧰 Basic CLI Usage
 Basic command structure:
@@ -89,8 +89,8 @@ Each record must include:
 - A **`uid`** (unique identifier)
 - A **`text`** field containing the text to process
 
-**Example:**  
-### See `data/data_example_ed_report.jsonl`
+**Example:**
+**`data/data_example_ed_report.jsonl`**
 ---
 # 🛠️ Task Configuration
 Create a JSON task file in the `tasks/` folder using the following naming format:
@@ -124,3 +124,4 @@ LLM_data_extractor_optuna_repo/
 └── README.md
 
 ```
+
