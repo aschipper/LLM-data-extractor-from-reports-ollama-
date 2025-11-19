@@ -97,7 +97,7 @@ Each record must include:
 - A **`text`** field containing the text to process
 
 **Example:**
-**`data/data_example_ed_report.jsonl`**
+- `data/data_example_ed_report.jsonl`
 ---
 # 🛠️ Task Configuration
 Create a JSON task file in the `tasks/` folder using the following naming format:
@@ -131,6 +131,7 @@ LLM_data_extractor_optuna_repo/
 └── README.md
 
 ```
+
 
 
 
