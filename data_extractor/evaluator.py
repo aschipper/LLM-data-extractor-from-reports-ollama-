@@ -1,5 +1,6 @@
 from sklearn.metrics import f1_score
 import pandas as pd
+import numpy as np
 from pathlib import Path
 from sklearn.preprocessing import MultiLabelBinarizer
 
@@ -16,15 +17,18 @@ class Evaluator:
 
     def evaluate(self):
         # Load ground truth and predictions
-        gt_df = pd.read_json('/home/aschipper/projects/LLM_data_extractor_optuna/data/df_llm_GT.jsonl', lines=True)
+        gt_df = pd.read_json('/home/aschipper/projects/LLM_data_extractor_optuna_hpts/data/df_llm_GT.jsonl', lines=True)
         pred_df = pd.read_json(self.predictions_path)
 
         # Merge on 'uid'
         merged_df = pd.merge(gt_df, pred_df, on='uid', suffixes=('_gt', '_pred'))
 
         # Get label fields from ground truth (excluding 'uid')
-        label_fields = [col for col in gt_df.columns if col != 'uid']
+        #label_fields = [col for col in gt_df.columns if col != 'uid']
 
+        common_cols = set(gt_df.columns) & set(pred_df.columns)
+        common_cols.discard("uid")  # haal 'uid' er nog uit
+        label_fields = list(common_cols)
         total_score = 0.0
 
         def clean_sample(sample):

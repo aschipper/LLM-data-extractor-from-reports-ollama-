@@ -1,0 +1,602 @@
+[
+    {
+        "uid": "A4E1767A2172838D395D91CEF2006719AAED9F1C",
+        "beloop klachten": [
+            "toename",
+            "afname"
+        ],
+        "abdomen drukpijn locatie": [
+            "rok"
+        ],
+        "defense musculaire": [
+            "niet gerapporteerd"
+        ]
+    },
+    {
+        "uid": "78ED8848C4B9DA50B50294E589EEA650996465DC",
+        "beloop klachten": [
+            "toename",
+            "afname"
+        ],
+        "abdomen drukpijn locatie": [
+            "diffuus"
+        ],
+        "defense musculaire": [
+            "ja"
+        ]
+    },
+    {
+        "uid": "C5F50D58EDE80C17A0F30AA9FC39EB04DBD23CE6",
+        "beloop klachten": [
+            "toename"
+        ],
+        "abdomen drukpijn locatie": [
+            "rok en lok"
+        ],
+        "defense musculaire": [
+            "nee"
+        ]
+    },
+    {
+        "uid": "577A8164CB45513543F59B9D73881DFA94309817",
+        "beloop klachten": [
+            "toename"
+        ],
+        "abdomen drukpijn locatie": [
+            "rok"
+        ],
+        "defense musculaire": [
+            "nee"
+        ]
+    },
+    {
+        "uid": "A2291D111D408236D3C7E709E750B962B86F3B1E",
+        "beloop klachten": [
+            "afname"
+        ],
+        "abdomen drukpijn locatie": [
+            "rok",
+            "rbk"
+        ],
+        "defense musculaire": [
+            "nee"
+        ]
+    },
+    {
+        "uid": "A21866261853002D8C1B024D28C6D92942AF3FAE",
+        "beloop klachten": [
+            "toename"
+        ],
+        "abdomen drukpijn locatie": [
+            "epigastrio",
+            "rok"
+        ],
+        "defense musculaire": [
+            "nee"
+        ]
+    },
+    {
+        "uid": "6D9DA4ADF164E4424104DE473A7263B2C6D3FD16",
+        "beloop klachten": [
+            "toename"
+        ],
+        "abdomen drukpijn locatie": [
+            "epigastrio",
+            "lbk"
+        ],
+        "defense musculaire": [
+            "niet gerapporteerd"
+        ]
+    },
+    {
+        "uid": "4C41D89D1D1C06225CB51028CA16D8B0CEBA9551",
+        "beloop klachten": [
+            "toename",
+            "afname"
+        ],
+        "abdomen drukpijn locatie": [
+            "rok"
+        ],
+        "defense musculaire": [
+            "nee"
+        ]
+    },
+    {
+        "uid": "2D6F0787085156EB7BCB6E072F1010CEDFD80FD2",
+        "beloop klachten": [
+            "toename"
+        ],
+        "abdomen drukpijn locatie": [
+            "rok"
+        ],
+        "defense musculaire": [
+            "nee"
+        ]
+    },
+    {
+        "uid": "7E22FD0BDD343A7D205B967AA2B1184C64BD9982",
+        "beloop klachten": [
+            "toename",
+            "afname"
+        ],
+        "abdomen drukpijn locatie": [
+            "rok"
+        ],
+        "defense musculaire": [
+            "niet gerapporteerd"
+        ]
+    },
+    {
+        "uid": "4662AD00E1897A9FC5570AC7918189566371AC7F",
+        "beloop klachten": [
+            "toename"
+        ],
+        "abdomen drukpijn locatie": [
+            "rok"
+        ],
+        "defense musculaire": [
+            "ja"
+        ]
+    },
+    {
+        "uid": "BC1835DE58C54933A95BB00211026D9695AE3F23",
+        "beloop klachten": [
+            "toename"
+        ],
+        "abdomen drukpijn locatie": [
+            "rok"
+        ],
+        "defense musculaire": [
+            "niet gerapporteerd"
+        ]
+    },
+    {
+        "uid": "BDF1405B82EA0A6E19F19412648D21D9C80A5253",
+        "beloop klachten": [
+            "toename"
+        ],
+        "abdomen drukpijn locatie": [
+            "rok"
+        ],
+        "defense musculaire": [
+            "nee"
+        ]
+    },
+    {
+        "uid": "D6419A0858A2AD2865E4EAA731A9B27A3BBC55D8",
+        "beloop klachten": [
+            "toename"
+        ],
+        "abdomen drukpijn locatie": [
+            "rok"
+        ],
+        "defense musculaire": [
+            "nee"
+        ]
+    },
+    {
+        "uid": "4171A845B97024AED85520A0E270AFAA71F0CF89",
+        "beloop klachten": [
+            "toename"
+        ],
+        "abdomen drukpijn locatie": [
+            "rbk"
+        ],
+        "defense musculaire": [
+            "nee"
+        ]
+    },
+    {
+        "uid": "1A72B51A5848C32895540F00E508BAFE3DEDA5F0",
+        "beloop klachten": [
+            "toename"
+        ],
+        "abdomen drukpijn locatie": [
+            "rok en lok"
+        ],
+        "defense musculaire": [
+            "nee"
+        ]
+    },
+    {
+        "uid": "B0E8A00B52B4126E8F7632214865013D0B41B714",
+        "beloop klachten": [
+            "toename en afname"
+        ],
+        "abdomen drukpijn locatie": [
+            "niet gerapporteerd"
+        ],
+        "defense musculaire": [
+            "niet gerapporteerd"
+        ]
+    },
+    {
+        "uid": "22A31DAC5597F92FB6BE0F056D7227F7EABD06AB",
+        "beloop klachten": [
+            "toename"
+        ],
+        "abdomen drukpijn locatie": [
+            "epigastrio en hypogastrio"
+        ],
+        "defense musculaire": [
+            "nee"
+        ]
+    },
+    {
+        "uid": "21DED51A61131E17EC6D604293E07003C9BF855A",
+        "beloop klachten": [
+            "toename"
+        ],
+        "abdomen drukpijn locatie": [
+            "diffuus",
+            "periumbilicaal"
+        ],
+        "defense musculaire": [
+            "ja"
+        ]
+    },
+    {
+        "uid": "7B02A1F3504E5A8628604F8133D180BD2BACB65C",
+        "beloop klachten": [
+            "toename"
+        ],
+        "abdomen drukpijn locatie": [
+            "rok"
+        ],
+        "defense musculaire": [
+            "ja"
+        ]
+    },
+    {
+        "uid": "B98E3C3E0632697888B0E00B50BA67119A7AB56E",
+        "beloop klachten": [
+            "toename"
+        ],
+        "abdomen drukpijn locatie": [
+            "rok"
+        ],
+        "defense musculaire": [
+            "niet gerapporteerd"
+        ]
+    },
+    {
+        "uid": "031972956070C5908562CB19EA2A5017D6350421",
+        "beloop klachten": [
+            "toename"
+        ],
+        "abdomen drukpijn locatie": [
+            "rbk"
+        ],
+        "defense musculaire": [
+            "niet gerapporteerd"
+        ]
+    },
+    {
+        "uid": "FE400923F732A2D8693120BDA3BE28D454CFA11F",
+        "beloop klachten": [
+            "toename en afname"
+        ],
+        "abdomen drukpijn locatie": [
+            "rok"
+        ],
+        "defense musculaire": [
+            "ja"
+        ]
+    },
+    {
+        "uid": "A3BB6A34F0AC43784EB2BFFB8EF09A592B023918",
+        "beloop klachten": [
+            "toename"
+        ],
+        "abdomen drukpijn locatie": [
+            "epigastrio"
+        ],
+        "defense musculaire": [
+            "niet gerapporteerd"
+        ]
+    },
+    {
+        "uid": "49F76961E1EE040CD05C8E17C70FA90778FDD5A2",
+        "beloop klachten": [
+            "toename"
+        ],
+        "abdomen drukpijn locatie": [
+            "diffuus"
+        ],
+        "defense musculaire": [
+            "nee"
+        ]
+    },
+    {
+        "uid": "12041F4DD5B99BD9889B64C10FC50CD7CE8133F3",
+        "beloop klachten": [
+            "toename"
+        ],
+        "abdomen drukpijn locatie": [
+            "rok"
+        ],
+        "defense musculaire": [
+            "nee"
+        ]
+    },
+    {
+        "uid": "A6991C12F13B33D161A29A8A516563FBA187FEFC",
+        "beloop klachten": [
+            "toename"
+        ],
+        "abdomen drukpijn locatie": [
+            "rok"
+        ],
+        "defense musculaire": [
+            "niet gerapporteerd"
+        ]
+    },
+    {
+        "uid": "43C611149E6B13D368C256D0C8B38DE851B40FA2",
+        "beloop klachten": [
+            "toename"
+        ],
+        "abdomen drukpijn locatie": [
+            "rok"
+        ],
+        "defense musculaire": [
+            "nee"
+        ]
+    },
+    {
+        "uid": "C9AA12F326C16FA8533835460535B94B46648A50",
+        "beloop klachten": [
+            "toename"
+        ],
+        "abdomen drukpijn locatie": [
+            "rok en lok"
+        ],
+        "defense musculaire": [
+            "ja"
+        ]
+    },
+    {
+        "uid": "C5F7C845935139CBC641AEBBB3972973146C7A25",
+        "beloop klachten": [
+            "toename"
+        ],
+        "abdomen drukpijn locatie": [
+            "rok"
+        ],
+        "defense musculaire": [
+            "nee"
+        ]
+    },
+    {
+        "uid": "E07C5B3707F8FF50550201DC914B97505D8D76A8",
+        "beloop klachten": [
+            "toename en afname"
+        ],
+        "abdomen drukpijn locatie": [
+            "rok en lbk"
+        ],
+        "defense musculaire": [
+            "niet gerapporteerd"
+        ]
+    },
+    {
+        "uid": "85469694A0E11F4B0B78B9DF6C1CB480A07ECDDF",
+        "beloop klachten": [
+            "toename"
+        ],
+        "abdomen drukpijn locatie": [
+            "rok"
+        ],
+        "defense musculaire": [
+            "niet gerapporteerd"
+        ]
+    },
+    {
+        "uid": "FD34AC8DA4C2A2A3AA711F4A6FEB4E01672F3002",
+        "beloop klachten": [
+            "toename"
+        ],
+        "abdomen drukpijn locatie": [
+            "rok"
+        ],
+        "defense musculaire": [
+            "niet gerapporteerd"
+        ]
+    },
+    {
+        "uid": "60CB90BEBF3FCAEB387C8014454C9B49312E3060",
+        "beloop klachten": [
+            "toename"
+        ],
+        "abdomen drukpijn locatie": [
+            "rok en lok"
+        ],
+        "defense musculaire": [
+            "ja"
+        ]
+    },
+    {
+        "uid": "F8E0DCB51E0146C0DA56837EC49C4B27E7F2B38C",
+        "beloop klachten": [
+            "toename"
+        ],
+        "abdomen drukpijn locatie": [
+            "diffuus"
+        ],
+        "defense musculaire": [
+            "niet gerapporteerd"
+        ]
+    },
+    {
+        "uid": "1D5F5FD88E0911616E433505A5FCBD1729D2A916",
+        "beloop klachten": [
+            "toename"
+        ],
+        "abdomen drukpijn locatie": [
+            "diffuus"
+        ],
+        "defense musculaire": [
+            "niet gerapporteerd"
+        ]
+    },
+    {
+        "uid": "0EC0CC9BD874D7F19A1F162EC9A3EF4B51B0AA29",
+        "beloop klachten": [
+            "toename"
+        ],
+        "abdomen drukpijn locatie": [
+            "epigastrio"
+        ],
+        "defense musculaire": [
+            "niet gerapporteerd"
+        ]
+    },
+    {
+        "uid": "32FA72459A99562ADAD68E4FED1E56BDF888ABE7",
+        "beloop klachten": [
+            "toename"
+        ],
+        "abdomen drukpijn locatie": [
+            "rok"
+        ],
+        "defense musculaire": [
+            "niet gerapporteerd"
+        ]
+    },
+    {
+        "uid": "4686E415356EA3C96AD3C0B8CEFA4839DAF72062",
+        "beloop klachten": [
+            "toename"
+        ],
+        "abdomen drukpijn locatie": [
+            "rok en lok",
+            "lbk"
+        ],
+        "defense musculaire": [
+            "nee"
+        ]
+    },
+    {
+        "uid": "7D1C88791BC4B61E74DAB25784E94D29896C3A85",
+        "beloop klachten": [
+            "onveranderd"
+        ],
+        "abdomen drukpijn locatie": [
+            "paraumbilicaal en epigastrio"
+        ],
+        "defense musculaire": [
+            "ja"
+        ]
+    },
+    {
+        "uid": "DF0612111D0DA548667AA72B140C1BF54E553CF2",
+        "beloop klachten": [
+            "toename"
+        ],
+        "abdomen drukpijn locatie": [
+            "rok"
+        ],
+        "defense musculaire": [
+            "niet gerapporteerd"
+        ]
+    },
+    {
+        "uid": "06CF92EB819DAB27CFEA13B52CD5B3DC9D44111B",
+        "beloop klachten": [
+            "toename"
+        ],
+        "abdomen drukpijn locatie": [
+            "lbk",
+            "lok"
+        ],
+        "defense musculaire": [
+            "nee"
+        ]
+    },
+    {
+        "uid": "79F58BEFED787751263E538B1E15B7E6A1497040",
+        "beloop klachten": [
+            "toename"
+        ],
+        "abdomen drukpijn locatie": [
+            "rok"
+        ],
+        "defense musculaire": [
+            "niet gerapporteerd"
+        ]
+    },
+    {
+        "uid": "CBFFB5C86DAB81F56EEA3F16004F019F6615071A",
+        "beloop klachten": [
+            "toename"
+        ],
+        "abdomen drukpijn locatie": [
+            "diffuus"
+        ],
+        "defense musculaire": [
+            "nee"
+        ]
+    },
+    {
+        "uid": "9083AE5FFEA051BE38471E1ADBFF909B3411C13A",
+        "beloop klachten": [
+            "toename"
+        ],
+        "abdomen drukpijn locatie": [
+            "rok"
+        ],
+        "defense musculaire": [
+            "niet gerapporteerd"
+        ]
+    },
+    {
+        "uid": "F6C92D5501176E8544CC33E1394BBE58B7544283",
+        "beloop klachten": [
+            "toename"
+        ],
+        "abdomen drukpijn locatie": [
+            "rbk en rok"
+        ],
+        "defense musculaire": [
+            "niet gerapporteerd"
+        ]
+    },
+    {
+        "uid": "3804C0175C9127FAC2842B96A2795B43C57D15BA",
+        "beloop klachten": [
+            "afname"
+        ],
+        "abdomen drukpijn locatie": [
+            "diffuus",
+            "rok"
+        ],
+        "defense musculaire": [
+            "niet gerapporteerd"
+        ]
+    },
+    {
+        "uid": "16F5DDC83D1D6E456DE3FB991911B962E99A5D32",
+        "beloop klachten": [
+            "toename"
+        ],
+        "abdomen drukpijn locatie": [
+            "rbk",
+            "rok"
+        ],
+        "defense musculaire": [
+            "nee"
+        ]
+    },
+    {
+        "uid": "0C3E2B506B28A8C5A856F0136ADBBF44905BC0A8",
+        "beloop klachten": [
+            "toename"
+        ],
+        "abdomen drukpijn locatie": [
+            "rok"
+        ],
+        "defense musculaire": [
+            "niet gerapporteerd"
+        ]
+    }
+]

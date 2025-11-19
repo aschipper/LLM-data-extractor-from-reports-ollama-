@@ -1,0 +1,27 @@
+{
+    "Task": "Annotate all signs and symptoms automatically in ED reports",
+    "Type": "Multi Label Named Entity Recognition",
+    "Description": "Detailed description of the task",
+    "Data_Path": "",
+    "Example_Path": "",
+    "Input_Field": "",
+    "Label_Field": "",
+    "Parser_Format": {
+        "abdomen drukpijn locatie": {
+            "type": "list",
+            "description": "Rapporteer waar er bij deze patiënt sprake is van abdomen drukpijn en, indien meerdere locaties worden genoemd, rapporteer de meest pijnlijke plek (punctum maximum/PM). Beperk je tot de volgende antwoordopties: 'rechter onderkwadrant', 'rechter bovenkwadrant', 'linker onderkwadrant', 'linker bovenkwadrant', 'hele bovenbuik', 'hele onderbuik', 'hele linkerbuik', 'hele rechterbuik', 'rondom de navel', 'bovenin de buik', 'onderin de buik', 'diffuus' of 'afwezig'. Let op, de termen worden mogelijk niet exact zo benoemd. Rechter onderkwadrant = rok, roq, McBurney. Linker onderkwadrant = lok, loq, Murphy. Rechter bovenkwadrant = rbk, rbq. Linker bovenkwadrant = lbk, lbq. Rondom de navel = periumbilicaal, para-umbilicaal. Hele rechterbuik = rechterhemiabdomen. Hele linkerbuik = linker hemiabdomen. Onderin de buik = hypogastrio, uterus, suprapubisch, boven pubis. Bovenin de buik = epigastrio, maagstreek. Diffuus = hele buik, geen specifieke locatie. Rapporteer 'afwezig' als drukpijn niet wordt vermeld of expliciet afwezig is."
+        },
+        "misselijkheid": {
+            "type": "list",
+            "description": "Rapporteer of er bij deze patiënt sprake is van misselijkheid. Negeer braken. Braken is geen misselijkheid. Beperk je tot de antwoordopties: 'ja' of 'nee'. Let op, de term wordt mogelijk niet exact zo benoemd. Ja = nausea, 'N +', 'N+'. Nee = geen nausea, 'N -', 'N-'. 'N' staat voor Nausea. 'N' komt vaak voor in combinatie met de 'V', bijvoorbeeld 'N+ V-'. + betekent misselijkheid en - betekent geen misselijkheid. Rapporteer 'nee' als misselijkheid niet wordt vermeld of expliciet afwezig is."
+        },
+        "beloop klachten": {
+            "type": "list",
+            "description": "Jij bent een medisch assistent, die helpt symptomen te identificeren en categoriseren in het spoedeisende hulp rapport van een patiënt met acute buikpijn. Rapporteer of er bij deze patiënt geschreven wordt over een verandering in het beloop van klachten. Negeer de tijdsbepaling waarop de klachten zijn ontstaan, en focus je op de verandering in het beloop van de klachten nadat ze zijn ontstaan. Beperk je tot de volgende antwoordopties: 'toename', 'afname' of 'afwezig'. Let op, de termen worden mogelijk niet exact zo benoemd. Toename = vererging, progressief. Afname = minder hevig, weggezakt, minder geworden, gister erger dan vandaag, geen pijn meer gehad. Afwezig = niet progressief, klachten blijven hetzelfde, onveranderd. Na het ontstaan van klachten kan de intensiteit in de loop van de tijd toenemen, afnemen of gelijk blijven. Als er geen verandering wordt beschreven, is de verandering ‘afwezig’. Rapporteer 'afwezig' als er geen verandering wordt vermeld of expliciet afwezig is."
+        },
+        "ontstaan klachten": {
+            "type": "list",
+            "description": "Rapporteer of er bij deze patiënt geschreven wordt over hoe de klachten zijn ontstaan. Negeer de tijdsbepaling waarop de klachten zijn ontstaan, en focus je op hoé de klachten zijn ontstaan. Beperk je tot volgende antwoordopties: 'acuut', 'geleidelijk' of 'niet gerapporteerd'. Let op, de termen worden mogelijk niet exact zo benoemd. Rapporteer 'niet gerapporteerd' als hoe de klachten zijn ontstaan niet expliciet wordt vermeld."
+        }
+    }
+}

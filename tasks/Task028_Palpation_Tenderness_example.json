@@ -1,0 +1,15 @@
+{
+    "Task": "Annotate all signs and symptoms automatically in ED reports",
+    "Type": "Multi Label Named Entity Recognition",
+    "Description": "Detailed description of the task",
+    "Data_Path": "",
+    "Example_Path": "",
+    "Input_Field": "",
+    "Label_Field": "abdomen palpatie soepel",
+    "Parser_Format": {
+        "abdomen palpatie soepel": {
+            "type": "list",
+            "description": "Rapporteer of er bij deze patiënt sprake is van soepele abdomen bij palpatie. Beperk je tot de antwoordopties: 'ja' of 'nee'. Rapporteer 'nee' als soepele abdomen bij palpatie niet wordt vermeld of expliciet afwezig is."
+        }
+    }
+}

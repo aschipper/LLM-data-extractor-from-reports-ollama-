@@ -19,7 +19,7 @@ class HyperparameterTuner:
             task_dir: Path,
             data_dir: Path,
             ground_truth_path: Path,
-            metric: str = 'macro',  # 'micro' or 'macro'
+            metric: str = 'macro',  # 'micro' or 'macro' or 'weighted'
     ):
         self.model_name = model_name
         self.task_id = task_id

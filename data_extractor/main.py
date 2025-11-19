@@ -158,7 +158,7 @@ def parse_args_extract_data() -> argparse.Namespace:
     parser.add_argument(
         "--temperature",
         type=float,
-        default=0.3,
+        default=0.1,
         help="Temperature for generation."
     )
     parser.add_argument(
@@ -244,15 +244,15 @@ def parse_args_extract_data() -> argparse.Namespace:
         "--min_p_range",
         nargs=2,
         type=float,
-        default=[0.0, 0.5],
+        default=[0.0, 0.2],
         help="Min p for hyperparameter tuning."
     )
     parser.add_argument(
         "--metric",
         type=str,
         default='macro',
-        choices=['micro', 'macro'],
-        help="Metric type for evaluation (micro or macro F1 score)."
+        choices=['micro', 'macro', 'weighted'],
+        help="Metric type for evaluation (micro or macro or weighted F1 score)."
     )
     return parser.parse_args()
 

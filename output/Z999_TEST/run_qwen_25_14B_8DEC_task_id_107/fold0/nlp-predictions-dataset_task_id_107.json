@@ -1,0 +1,5150 @@
+[
+    {
+        "uid": "A4E1767A2172838D395D91CEF2006719AAED9F1C",
+        "anamnese": {
+            "klachten": [
+                {
+                    "locatie": "epigastrium",
+                    "beschrijving": "continue pijn sinds gisterochtend met uitstraling naar beide flanken"
+                },
+                {
+                    "locatie": "middenrif",
+                    "beschrijving": "vervoerspijn+"
+                }
+            ],
+            "bijzonderheden": [
+                {
+                    "symptoom": "N+",
+                    "omschrijving": "geen nieuwe mictieklachten"
+                },
+                {
+                    "symptoom": "V-",
+                    "omschrijving": "geen eetlust"
+                },
+                {
+                    "symptoom": "defecatie",
+                    "omschrijving": "gisteren iets geel en dunner, geen bloed- of slijmbijmenging"
+                }
+            ],
+            "medische_interventies": [
+                {
+                    "datum_tijd": "gisteravond",
+                    "interventie": "HAP bezocht met diagnose omeprazol voorgeschreven"
+                },
+                {
+                    "omschrijving": "weinig effect gemerkt van de medicatie"
+                }
+            ],
+            "familiegeschiedenis": [
+                {
+                    "relatie": "vader",
+                    "diagnose": "colonca (64-jarige leeftijd)"
+                }
+            ],
+            "leven_met_ziekte": {
+                "intoxicaties": [
+                    "roken (is gestopt vanaf oktober)",
+                    "alcohol (in de weekenden bier/wijn)"
+                ],
+                "laatste_maaltijden": [
+                    {
+                        "tijd": "02:00",
+                        "voedsel": "stukje appel"
+                    }
+                ]
+            }
+        },
+        "lichamelijk_onderzoek": {
+            "algemeen": {
+                "omschrijving": "niet zieke pati\u00ebnt"
+            },
+            "controles": [
+                {
+                    "naam": "temperatuur",
+                    "waarde": "37.6\u00b0C"
+                },
+                {
+                    "naam": "hartslag",
+                    "waarde": "86/min"
+                },
+                {
+                    "naam": "bloeddruk",
+                    "waarde": "135/89mmHg"
+                },
+                {
+                    "naam": "saturatie",
+                    "waarde": "96%"
+                }
+            ],
+            "coronair_systeem": {
+                "omschrijving": "S1, S2, S-"
+            },
+            "longen": {
+                "omschrijving": "VAG zonder bijgeluiden"
+            },
+            "abdomijn": {
+                "omschrijving": [
+                    {
+                        "activiteit": "levendige peristaltiek"
+                    },
+                    {
+                        "activiteit": "WT"
+                    },
+                    {
+                        "activiteit": "druk- en loslaatpijn ROB pm McBurney"
+                    },
+                    {
+                        "activiteit": "Murphy sign negatief"
+                    },
+                    {
+                        "activiteit": "geen slagpijn nierloges"
+                    }
+                ]
+            }
+        },
+        "diagnostiek": NaN,
+        "advies": NaN,
+        "diagnose_overwegingen": NaN,
+        "aanbevolen_actie": NaN,
+        "volgende_stappen": NaN,
+        "lichamelijke_observatie": NaN,
+        "patient": NaN,
+        "klachten": NaN,
+        "recente_gebeurtenissen": NaN,
+        "aanname": NaN,
+        "vervolgadvies": NaN,
+        "aanpak": NaN,
+        "voorgeschiedenis": NaN,
+        "patient_history": NaN,
+        "symptoms": NaN,
+        "physical_examination": NaN,
+        "diagnostic_considerations": NaN,
+        "aanbevolen_aanvullende_onderzoeken": NaN,
+        "aanbevolen_behandeling": NaN,
+        "lichamelijk onderzoek": NaN,
+        "diagnostische_overwegingen": NaN,
+        "history_of_present_illness": NaN,
+        "past_medical_history": NaN,
+        "aanvullende_informatie": NaN,
+        "verleden_geschiedenis": NaN,
+        "medical_history": NaN,
+        "diagnosis_hypothesis": NaN,
+        "immediate_actions": NaN,
+        "follow_up_plan": NaN,
+        "diagnose": NaN,
+        "medische_gegevens": NaN,
+        "vervolg": NaN,
+        "diagnosis": NaN,
+        "vervolg_onderzoek_en_behandeling": NaN
+    },
+    {
+        "uid": "78ED8848C4B9DA50B50294E589EEA650996465DC",
+        "anamnese": {
+            "tijdstip_beginning_pijn": "vannacht om 2 uur",
+            "aard_pijn": "continue buikpijn, onduidelijk waar en of deze gemigreerd is",
+            "symptomen_tijdens_pijn": "lag krom van de pijn, sinds 6u iets afgezakt. Meermaals gebraakt.",
+            "eetlust": "+/-",
+            "mictie_defecatie": "onveranderd",
+            "koorts_gemeten": "nee"
+        },
+        "lichamelijk_onderzoek": {
+            "algemeen_toestand": "niet ziek, niet pijnlijdend",
+            "temperatuur": "36.5\u00b0C",
+            "abdomen": {
+                "peristaltiek": "normale peristaltiek",
+                "tympanie": "wisselende tympanie",
+                "drukgevoeligheid": "diffuus drukgevoelig mn in onderbuik en rond de navel, spierverzet in gehele buik",
+                "loslaatpijn": "geen evidente loslaatpijn",
+                "slagpijn_nierloges": "geen slagpijn nierloges"
+            }
+        },
+        "diagnostiek": {
+            "mogelijke_diagnoses": [
+                "Acute abdomen, mogelijk peritonitis of een andere buikorgaanstoornis (zoals appendicitis, cholecystitis, gastro-enteritis)"
+            ]
+        },
+        "advies": {
+            "vervolg_onderzoek": "Urgentie bezoeken voor verdere diagnostiek en behandeling. Mogelijke onderzoeken kunnen MRI of CT-scan van de buik zijn.",
+            "medische_behandeling": "Tijdelijke pijnstillers kunnen worden gegeven, maar geen zelfbehandeling zonder medisch advies."
+        },
+        "diagnose_overwegingen": NaN,
+        "aanbevolen_actie": NaN,
+        "volgende_stappen": NaN,
+        "lichamelijke_observatie": NaN,
+        "patient": NaN,
+        "klachten": NaN,
+        "recente_gebeurtenissen": NaN,
+        "aanname": NaN,
+        "vervolgadvies": NaN,
+        "aanpak": NaN,
+        "voorgeschiedenis": NaN,
+        "patient_history": NaN,
+        "symptoms": NaN,
+        "physical_examination": NaN,
+        "diagnostic_considerations": NaN,
+        "aanbevolen_aanvullende_onderzoeken": NaN,
+        "aanbevolen_behandeling": NaN,
+        "lichamelijk onderzoek": NaN,
+        "diagnostische_overwegingen": NaN,
+        "history_of_present_illness": NaN,
+        "past_medical_history": NaN,
+        "aanvullende_informatie": NaN,
+        "verleden_geschiedenis": NaN,
+        "medical_history": NaN,
+        "diagnosis_hypothesis": NaN,
+        "immediate_actions": NaN,
+        "follow_up_plan": NaN,
+        "diagnose": NaN,
+        "medische_gegevens": NaN,
+        "vervolg": NaN,
+        "diagnosis": NaN,
+        "vervolg_onderzoek_en_behandeling": NaN
+    },
+    {
+        "uid": "C5F50D58EDE80C17A0F30AA9FC39EB04DBD23CE6",
+        "anamnese": NaN,
+        "lichamelijk_onderzoek": NaN,
+        "diagnostiek": NaN,
+        "advies": NaN,
+        "diagnose_overwegingen": [
+            {
+                "overweging": "De symptomen van continue krampende pijn in de onderbuik, koud zweet en rillen, koortslage (38.5 graden), en vervoerspijn wijzen op een acute abdomen of peritonitis.",
+                "redenen": [
+                    {
+                        "reden": "Pijn is continu aanwezig in de onderbuik zonder uitstraling of bewegingsdrang, wat kenmerkend is voor acute abdomen."
+                    },
+                    {
+                        "reden": "Koorts en vervoerspijn zijn klassieke symptomen van infecties die kunnen leiden tot peritonitis."
+                    }
+                ]
+            },
+            {
+                "overweging": "Deze symptomen kunnen ook een obstetrisch probleem aangeven, zoals een eicelzwangerschap of een spontane abortus.",
+                "redenen": [
+                    {
+                        "reden": "Patronale pati\u00ebnt (11 dagen post-patrum) met nauwelijks vaginaal bloedverlies en borstvoeding."
+                    },
+                    {
+                        "reden": "Hoewel de kraambedperiode ongestoord verliep, kunnen obstetrische complicaties zich pas later voordoen."
+                    }
+                ]
+            },
+            {
+                "overweging": "Het is mogelijk dat het een gastrointestinaal probleem zoals appendicitis of diverticulitis kan zijn.",
+                "redenen": [
+                    {
+                        "reden": "Pijn in de onderbuik met vervoerspijn en koorts."
+                    },
+                    {
+                        "reden": "Lichamelijk onderzoek toont drukpijn in het suprapubische gebied, wat kan wijzen op een probleem in de buikwand of darmen."
+                    }
+                ]
+            }
+        ],
+        "aanbevolen_actie": [
+            {
+                "actie": "Direct medisch begeleiding zoeken.",
+                "redenen": [
+                    {
+                        "reden": "De symptomen wijzen op een acute situatie die snel behandeld moet worden."
+                    },
+                    {
+                        "reden": "Het is belangrijk om de oorzaak van deze symptomen te identificeren en te behandelen voordat het probleem erger wordt."
+                    }
+                ]
+            },
+            {
+                "actie": "Uitgebreide laboratoriumonderzoeken uitvoeren, inclusief bloedkweek.",
+                "redenen": [
+                    {
+                        "reden": "Laboratoriumonderzoeken kunnen helpen om de oorzaak van de infectie te bepalen."
+                    },
+                    {
+                        "reden": "Bloedkweek kan helpen bij het identificeren van bacteri\u00eble infecties."
+                    }
+                ]
+            },
+            {
+                "actie": "Ultrasonogram of CT-scan uitvoeren.",
+                "redenen": [
+                    {
+                        "reden": "Imaging onderzoeken kunnen helpen om de oorzaak van de pijn in de buik te bepalen."
+                    }
+                ]
+            },
+            {
+                "actie": "Consultatie met een gynaecoloog of chirurg.",
+                "redenen": [
+                    {
+                        "reden": "Specialisten kunnen specifieke richtlijnen en behandelingen aanbieden voor obstetrische problemen of acute abdomen."
+                    }
+                ]
+            }
+        ],
+        "volgende_stappen": [
+            {
+                "stap": "Direct medische hulp inroepen.",
+                "redenen": [
+                    {
+                        "reden": "De symptomen wijzen op een acute situatie die snel behandeld moet worden."
+                    },
+                    {
+                        "reden": "Het is belangrijk om de oorzaak van deze symptomen te identificeren en te behandelen voordat het probleem erger wordt."
+                    }
+                ]
+            },
+            {
+                "stap": "Uitgebreide laboratoriumonderzoeken uitvoeren.",
+                "redenen": [
+                    {
+                        "reden": "Laboratoriumonderzoeken kunnen helpen om de oorzaak van de infectie te bepalen."
+                    }
+                ]
+            },
+            {
+                "stap": "Ultrasonogram of CT-scan uitvoeren.",
+                "redenen": [
+                    {
+                        "reden": "Imaging onderzoeken kunnen helpen om de oorzaak van de pijn in de buik te bepalen."
+                    }
+                ]
+            },
+            {
+                "stap": "Consultatie met een gynaecoloog of chirurg."
+            }
+        ],
+        "lichamelijke_observatie": NaN,
+        "patient": NaN,
+        "klachten": NaN,
+        "recente_gebeurtenissen": NaN,
+        "aanname": NaN,
+        "vervolgadvies": NaN,
+        "aanpak": NaN,
+        "voorgeschiedenis": NaN,
+        "patient_history": NaN,
+        "symptoms": NaN,
+        "physical_examination": NaN,
+        "diagnostic_considerations": NaN,
+        "aanbevolen_aanvullende_onderzoeken": NaN,
+        "aanbevolen_behandeling": NaN,
+        "lichamelijk onderzoek": NaN,
+        "diagnostische_overwegingen": NaN,
+        "history_of_present_illness": NaN,
+        "past_medical_history": NaN,
+        "aanvullende_informatie": NaN,
+        "verleden_geschiedenis": NaN,
+        "medical_history": NaN,
+        "diagnosis_hypothesis": NaN,
+        "immediate_actions": NaN,
+        "follow_up_plan": NaN,
+        "diagnose": NaN,
+        "medische_gegevens": NaN,
+        "vervolg": NaN,
+        "diagnosis": NaN,
+        "vervolg_onderzoek_en_behandeling": NaN
+    },
+    {
+        "uid": "577A8164CB45513543F59B9D73881DFA94309817",
+        "anamnese": NaN,
+        "lichamelijk_onderzoek": NaN,
+        "diagnostiek": NaN,
+        "advies": NaN,
+        "diagnose_overwegingen": [
+            {
+                "overweging": "De pati\u00ebnt heeft een geschiedenis van diverticulose en eerder conservatief behandeld is voor diverticulitis. De huidige klachten (rechter onderbuikpijn, verminderde eetlust) kunnen indicaties zijn voor een acute episode van diverticulitis.",
+                "aanvullende_onderzoeken": [
+                    {
+                        "naam": "Laboratoriumonderzoek",
+                        "doel": "Controle van bloedparameters zoals witte bloedlichaamsaantallen, C-reactieve prote\u00efne (CRP) en sedimentatie snelheid (ESR)."
+                    },
+                    {
+                        "naam": "Radiologie",
+                        "doel": [
+                            "Abdominaal CT-scan of MRI om te bevestigen of er sprake is van acute diverticulitis, met mogelijke complicaties zoals een abscessus.",
+                            "Ultrasonografie voor hetzelfde doel."
+                        ]
+                    }
+                ],
+                "therapie": [
+                    {
+                        "naam": "Antibiotica",
+                        "doel": "Behandeling van infectie, bijvoorbeeld met amoxicilline-clavulaan of ciprofloxacine (let op de allergische reacties)."
+                    },
+                    {
+                        "naam": "Pijnstillers",
+                        "doel": "Verlichting van buikpijn."
+                    }
+                ]
+            },
+            {
+                "overweging": "De symptomen kunnen ook een andere oorzaak hebben, zoals gastrointestinale infectie of andere inflammatoire darmstoornissen.",
+                "aanvullende_onderzoeken": [
+                    {
+                        "naam": "Stoolcultuur",
+                        "doel": "Uitgesloten van bacteri\u00eble infecties."
+                    },
+                    {
+                        "naam": "Colonoscopy of sigmo\u00efdoscopie",
+                        "doel": "Controle van de buikwand en mogelijke andere oorzaken voor symptomen."
+                    }
+                ]
+            }
+        ],
+        "aanbevolen_actie": [
+            {
+                "actie": "Laboratoriumonderzoek uitvoeren om bloedparameters te controleren.",
+                "tijdsindicatie": "Direct"
+            },
+            {
+                "actie": "Radiologisch onderzoek aanvragen (CT-scan of MRI) voor bevestiging van diagnose.",
+                "tijdsindicatie": "Snel, binnen 24 uur."
+            }
+        ],
+        "volgende_stappen": NaN,
+        "lichamelijke_observatie": NaN,
+        "patient": NaN,
+        "klachten": NaN,
+        "recente_gebeurtenissen": NaN,
+        "aanname": NaN,
+        "vervolgadvies": NaN,
+        "aanpak": NaN,
+        "voorgeschiedenis": NaN,
+        "patient_history": NaN,
+        "symptoms": NaN,
+        "physical_examination": NaN,
+        "diagnostic_considerations": NaN,
+        "aanbevolen_aanvullende_onderzoeken": NaN,
+        "aanbevolen_behandeling": NaN,
+        "lichamelijk onderzoek": NaN,
+        "diagnostische_overwegingen": NaN,
+        "history_of_present_illness": NaN,
+        "past_medical_history": NaN,
+        "aanvullende_informatie": NaN,
+        "verleden_geschiedenis": NaN,
+        "medical_history": NaN,
+        "diagnosis_hypothesis": NaN,
+        "immediate_actions": NaN,
+        "follow_up_plan": NaN,
+        "diagnose": NaN,
+        "medische_gegevens": NaN,
+        "vervolg": NaN,
+        "diagnosis": NaN,
+        "vervolg_onderzoek_en_behandeling": NaN
+    },
+    {
+        "uid": "A2291D111D408236D3C7E709E750B962B86F3B1E",
+        "anamnese": {
+            "klachten": [
+                {
+                    "locatie": "rechts onder in de buik",
+                    "aard": "zeurende continue pijn",
+                    "duur": "vier dagen"
+                },
+                {
+                    "locatie": "rechter flank",
+                    "relatief": "trekt door naar",
+                    "aard": "pijn"
+                },
+                {
+                    "locatie": "rechter bovenkant van de buik",
+                    "aard": "enige drukpijn"
+                },
+                {
+                    "locatie": "rechter onderkant van de buik",
+                    "aard": "drukpijn"
+                },
+                {
+                    "relatief": "n- v+ (drie dagen geleden)"
+                },
+                {
+                    "relatief": "geen vervoerspijn"
+                }
+            ],
+            "medicatie": [
+                {
+                    "naam": "citalopram tabl omh 20mg",
+                    "doel": "antidepressiva"
+                },
+                {
+                    "naam": "thyrax duotab tabl 0,1mg",
+                    "doel": "thyreo\u00efde hormoon vervanging"
+                },
+                {
+                    "naam": "gabapentine caps 100mg",
+                    "doel": "pijnstillend"
+                },
+                {
+                    "naam": "vitamine d3",
+                    "doel": "calcium opname stimuleren"
+                },
+                {
+                    "naam": "vitamine k2",
+                    "doel": "knoophardheid regelen"
+                },
+                {
+                    "naam": "glepark",
+                    "doel": "restless legs behandeling"
+                }
+            ],
+            "medische_geschiedenis": [
+                {
+                    "jaar": 1997,
+                    "diagnose": "hyperthyreo\u00efdie",
+                    "behandeling": "Strumazol en Thyrax"
+                },
+                {
+                    "jaar": 1999,
+                    "status": "euthyreoot zonder medicatie sinds juni"
+                },
+                {
+                    "jaar": "",
+                    "diagnose": "ijzergebrek",
+                    "behandeling": "suppletie met goede verbetering"
+                },
+                {
+                    "jaar": 2008,
+                    "diagnose": "fibromyalgie en chronisch vermoeidheidssyndroom"
+                },
+                {
+                    "jaar": 2009,
+                    "diagnose": "COPD gold 0"
+                },
+                {
+                    "jaar": 2010,
+                    "diagnose": "stressincontinentie",
+                    "behandeling": "advies bekkenbodemfysiotherapie"
+                },
+                {
+                    "jaar": 2013,
+                    "diagnose": "HP positieve gastritis"
+                },
+                {
+                    "jaar": 2016,
+                    "diagnose": "DD PDS",
+                    "onderzoek": "coloscopie: uitgebreide diverticulose van zowel li- als re hemicolon"
+                }
+            ],
+            "bijzondere_gegevens": [
+                {
+                    "naam": "restless legs"
+                },
+                {
+                    "relatief": "goede eetlust"
+                }
+            ]
+        },
+        "lichamelijk_onderzoek": {
+            "algemeen": [
+                "niet ziek ogend",
+                "niet pijnlijk ogend"
+            ],
+            "controles": [
+                {
+                    "naam": "sat",
+                    "waarde": "100% bij kamerlucht"
+                },
+                {
+                    "naam": "bloeddruk",
+                    "waarde": "144/74 mmHg"
+                },
+                {
+                    "naam": "pols",
+                    "waarde": "66"
+                },
+                {
+                    "naam": "temperatuur",
+                    "waarde": "36.2"
+                }
+            ],
+            "abdomen": [
+                {
+                    "aard": "adipeus"
+                },
+                {
+                    "relatief": "spaarzame peristaltiek"
+                },
+                {
+                    "locatie": "rechter onderkant van de buik",
+                    "aard": "drukpijn"
+                },
+                {
+                    "locatie": "rechter bovenkant van de buik",
+                    "aard": "enige drukpijn"
+                },
+                {
+                    "test": "psoas sign",
+                    "resultaat": "-/-"
+                },
+                {
+                    "test": "slagpijn nierloges",
+                    "resultaat": "-/-"
+                }
+            ]
+        },
+        "diagnostiek": NaN,
+        "advies": NaN,
+        "diagnose_overwegingen": NaN,
+        "aanbevolen_actie": NaN,
+        "volgende_stappen": NaN,
+        "lichamelijke_observatie": NaN,
+        "patient": NaN,
+        "klachten": NaN,
+        "recente_gebeurtenissen": NaN,
+        "aanname": NaN,
+        "vervolgadvies": NaN,
+        "aanpak": NaN,
+        "voorgeschiedenis": NaN,
+        "patient_history": NaN,
+        "symptoms": NaN,
+        "physical_examination": NaN,
+        "diagnostic_considerations": NaN,
+        "aanbevolen_aanvullende_onderzoeken": NaN,
+        "aanbevolen_behandeling": NaN,
+        "lichamelijk onderzoek": NaN,
+        "diagnostische_overwegingen": NaN,
+        "history_of_present_illness": NaN,
+        "past_medical_history": NaN,
+        "aanvullende_informatie": NaN,
+        "verleden_geschiedenis": NaN,
+        "medical_history": NaN,
+        "diagnosis_hypothesis": NaN,
+        "immediate_actions": NaN,
+        "follow_up_plan": NaN,
+        "diagnose": NaN,
+        "medische_gegevens": NaN,
+        "vervolg": NaN,
+        "diagnosis": NaN,
+        "vervolg_onderzoek_en_behandeling": NaN
+    },
+    {
+        "uid": "A21866261853002D8C1B024D28C6D92942AF3FAE",
+        "anamnese": {
+            "klachten": [
+                {
+                    "type": "stekende pijn",
+                    "locatie": "maagstreek",
+                    "duur": "2 dagen",
+                    "aanwezigheid": "continu",
+                    "verlichting": "voorover zitten"
+                },
+                {
+                    "type": "niet uit",
+                    "locatie": "maagstreek"
+                },
+                {
+                    "type": "geen koorts gehad"
+                },
+                {
+                    "type": "geen duidelijke POB klachten"
+                },
+                {
+                    "type": "klachten worden erger door wachttijd stress"
+                }
+            ],
+            "voorgeschiedenis": [
+                {
+                    "type": "UWI behandeling"
+                },
+                {
+                    "type": "lekkerbek met graatje 3 dagen geleden",
+                    "reactie": "geen"
+                },
+                {
+                    "type": "rookt sinds 14 jaar oud"
+                }
+            ]
+        },
+        "lichamelijk_onderzoek": NaN,
+        "diagnostiek": NaN,
+        "advies": NaN,
+        "diagnose_overwegingen": NaN,
+        "aanbevolen_actie": NaN,
+        "volgende_stappen": NaN,
+        "lichamelijke_observatie": {
+            "postuur": "continu voorover gebogen in stoel",
+            "controles": "normaal",
+            "abdomen": [
+                {
+                    "locatie": "epigastrium",
+                    "aanwezigheid_in_anamnese": "pijnlijk",
+                    "fysieke_controle": "geen pijn"
+                },
+                {
+                    "locatie": "rechts onderbuik",
+                    "aanwijzingen": [
+                        "drukpijn",
+                        "geen loslaatpijn",
+                        "geen defense"
+                    ]
+                }
+            ]
+        },
+        "patient": NaN,
+        "klachten": NaN,
+        "recente_gebeurtenissen": NaN,
+        "aanname": NaN,
+        "vervolgadvies": NaN,
+        "aanpak": NaN,
+        "voorgeschiedenis": NaN,
+        "patient_history": NaN,
+        "symptoms": NaN,
+        "physical_examination": NaN,
+        "diagnostic_considerations": NaN,
+        "aanbevolen_aanvullende_onderzoeken": NaN,
+        "aanbevolen_behandeling": NaN,
+        "lichamelijk onderzoek": NaN,
+        "diagnostische_overwegingen": NaN,
+        "history_of_present_illness": NaN,
+        "past_medical_history": NaN,
+        "aanvullende_informatie": NaN,
+        "verleden_geschiedenis": NaN,
+        "medical_history": NaN,
+        "diagnosis_hypothesis": NaN,
+        "immediate_actions": NaN,
+        "follow_up_plan": NaN,
+        "diagnose": NaN,
+        "medische_gegevens": NaN,
+        "vervolg": NaN,
+        "diagnosis": NaN,
+        "vervolg_onderzoek_en_behandeling": NaN
+    },
+    {
+        "uid": "6D9DA4ADF164E4424104DE473A7263B2C6D3FD16",
+        "anamnese": {
+            "klachten": [
+                {
+                    "locatie": "epigastrium",
+                    "type": "progressieve pijn"
+                },
+                {
+                    "type": "misselijkheid"
+                },
+                {
+                    "type": "geen eetlust"
+                },
+                {
+                    "type": "eenmalig gebraakt"
+                },
+                {
+                    "type": "voedselverwerkingstoestand"
+                }
+            ],
+            "medicatie": [
+                {
+                    "naam": "naproxen",
+                    "tijd": "17 uur"
+                },
+                {
+                    "naam": "pantoprazol",
+                    "tijd": "17 uur"
+                },
+                {
+                    "naam": "PCM",
+                    "locatie": "SEH"
+                }
+            ],
+            "bijzonderheden": [
+                {
+                    "type": "regelmatige maagzuurklachten"
+                },
+                {
+                    "type": "geen vervoerspijn"
+                },
+                {
+                    "type": "geen bewegingsdrang"
+                },
+                {
+                    "type": "mictie en defecatie zonder bijzondere kenmerken"
+                },
+                {
+                    "type": "laatste ontlasting om 18 uur"
+                },
+                {
+                    "type": "geen COVID-klachten"
+                }
+            ]
+        },
+        "lichamelijk_onderzoek": {
+            "algemeen": [
+                "niet zieke man",
+                "matig pijnlijk"
+            ],
+            "abdomen": [
+                {
+                    "locatie": "epigastrium en links boven",
+                    "type": "drukpijnlijk"
+                },
+                {
+                    "locatie": "rechter onderbuik",
+                    "type": "wat drukpijnlijk"
+                }
+            ],
+            "vitale_parameters": {
+                "temperatuur": 35.9,
+                "hartslag": 45
+            }
+        },
+        "diagnostiek": NaN,
+        "advies": NaN,
+        "diagnose_overwegingen": NaN,
+        "aanbevolen_actie": NaN,
+        "volgende_stappen": NaN,
+        "lichamelijke_observatie": NaN,
+        "patient": NaN,
+        "klachten": NaN,
+        "recente_gebeurtenissen": NaN,
+        "aanname": NaN,
+        "vervolgadvies": NaN,
+        "aanpak": NaN,
+        "voorgeschiedenis": NaN,
+        "patient_history": NaN,
+        "symptoms": NaN,
+        "physical_examination": NaN,
+        "diagnostic_considerations": NaN,
+        "aanbevolen_aanvullende_onderzoeken": NaN,
+        "aanbevolen_behandeling": NaN,
+        "lichamelijk onderzoek": NaN,
+        "diagnostische_overwegingen": NaN,
+        "history_of_present_illness": NaN,
+        "past_medical_history": NaN,
+        "aanvullende_informatie": NaN,
+        "verleden_geschiedenis": NaN,
+        "medical_history": NaN,
+        "diagnosis_hypothesis": NaN,
+        "immediate_actions": NaN,
+        "follow_up_plan": NaN,
+        "diagnose": NaN,
+        "medische_gegevens": NaN,
+        "vervolg": NaN,
+        "diagnosis": NaN,
+        "vervolg_onderzoek_en_behandeling": NaN
+    },
+    {
+        "uid": "4C41D89D1D1C06225CB51028CA16D8B0CEBA9551",
+        "anamnese": NaN,
+        "lichamelijk_onderzoek": {
+            "algemeen": {
+                "toestand": "niet acuut zieke, heldere man"
+            },
+            "controles": {
+                "bloeddruk": "147/80",
+                "hartslag": "56/min",
+                "sat": "100%",
+                "ademhaling": "AH 18/min"
+            },
+            "lichamelijke_controles": [
+                {
+                    "orgaan": "borstkas",
+                    "vindstenken": [
+                        "S1S2, geen souffle"
+                    ]
+                },
+                {
+                    "orgaan": "longen",
+                    "vindstenken": [
+                        "VAG zonder bijgeluiden over alle longvelden"
+                    ]
+                },
+                {
+                    "orgaan": "buik",
+                    "vindstenken": [
+                        "NP, geen littekens op de buik, soepel, geringe drukpijn ROQ zonder actief spierverzet"
+                    ]
+                }
+            ],
+            "overige_controles": [
+                {
+                    "controle": "EMV max"
+                },
+                {
+                    "controle": "geen oedemen, soepele kuiten, geen links/rechts verschil. Geen wonden/roodheden huid"
+                }
+            ]
+        },
+        "diagnostiek": NaN,
+        "advies": NaN,
+        "diagnose_overwegingen": NaN,
+        "aanbevolen_actie": NaN,
+        "volgende_stappen": NaN,
+        "lichamelijke_observatie": NaN,
+        "patient": {
+            "geslacht": "man",
+            "leeftijd": "onbekend (maar recentelijk geweerd als business consultant dus waarschijnlijk volwassen)",
+            "klachten": [
+                {
+                    "type": "krampende en stekende pijn in de onderbuik",
+                    "duur": "plotseling, 5 dagen geleden"
+                },
+                {
+                    "type": "misselijkheid zonder braken",
+                    "duur": "plotseling, 5 dagen geleden"
+                },
+                {
+                    "type": "koude rillingen",
+                    "duur": "plotseling, 5 dagen geleden"
+                },
+                {
+                    "type": "koorts",
+                    "duur": "plotseling, 5 dagen geleden"
+                }
+            ],
+            "verloop": [
+                {
+                    "klacht": "krampende en stekende pijn in de onderbuik",
+                    "verandering": "later op de avond koorts, koude rillingen en misselijkheid"
+                },
+                {
+                    "klacht": "misselijkheid zonder braken",
+                    "verandering": "uiterst late nacht klachten verdwenen"
+                },
+                {
+                    "klacht": "prikkelbaarheid in buik ROQ",
+                    "duur": "tot op heden"
+                }
+            ],
+            "medische_geschiedenis": {
+                "VG": "blanco",
+                "operaties": "nooit aan de buik geopereerd",
+                "allergie\u00ebn": "geen",
+                "relevante_medicatie": "geen"
+            },
+            "sociaal": {
+                "beroep": "business consultant",
+                "ADL": "zelfstandig"
+            }
+        },
+        "klachten": NaN,
+        "recente_gebeurtenissen": NaN,
+        "aanname": NaN,
+        "vervolgadvies": NaN,
+        "aanpak": NaN,
+        "voorgeschiedenis": NaN,
+        "patient_history": NaN,
+        "symptoms": NaN,
+        "physical_examination": NaN,
+        "diagnostic_considerations": NaN,
+        "aanbevolen_aanvullende_onderzoeken": NaN,
+        "aanbevolen_behandeling": NaN,
+        "lichamelijk onderzoek": NaN,
+        "diagnostische_overwegingen": NaN,
+        "history_of_present_illness": NaN,
+        "past_medical_history": NaN,
+        "aanvullende_informatie": NaN,
+        "verleden_geschiedenis": NaN,
+        "medical_history": NaN,
+        "diagnosis_hypothesis": NaN,
+        "immediate_actions": NaN,
+        "follow_up_plan": NaN,
+        "diagnose": NaN,
+        "medische_gegevens": NaN,
+        "vervolg": NaN,
+        "diagnosis": NaN,
+        "vervolg_onderzoek_en_behandeling": NaN
+    },
+    {
+        "uid": "2D6F0787085156EB7BCB6E072F1010CEDFD80FD2",
+        "anamnese": NaN,
+        "lichamelijk_onderzoek": NaN,
+        "diagnostiek": NaN,
+        "advies": NaN,
+        "diagnose_overwegingen": NaN,
+        "aanbevolen_actie": NaN,
+        "volgende_stappen": NaN,
+        "lichamelijke_observatie": NaN,
+        "patient": {
+            "voorgeschiedenis": [
+                {
+                    "jaar": 1995,
+                    "omschrijving": "refluxnefropathie"
+                },
+                {
+                    "jaar": 1998,
+                    "omschrijving": "nierinsuffici\u00ebntie waarvoor peritoneaaldialyse"
+                },
+                {
+                    "jaar": 2000,
+                    "omschrijving": "nieertransplantatie (postmortaal; UMCU). Geen afstotingen."
+                },
+                {
+                    "jaar": 2002,
+                    "omschrijving": "kopnecrose linker heup bij prednison waarvoor kopprothese. Lichte kopnecrose rechter heup"
+                },
+                {
+                    "jaar": 2010,
+                    "omschrijving": "urineweginfectie"
+                },
+                {
+                    "jaar": 2011,
+                    "omschrijving": "virale gastro-enteritis; persoonlijkheidsstoornis"
+                },
+                {
+                    "jaar": 2013,
+                    "omschrijving": "Linker heupprothese geeft kobalt af; avasculaire kopnecrose rechter heup. Bovenbuiksklachten, mogelijk gastritis danwel ulcus"
+                },
+                {
+                    "jaar": 2014,
+                    "omschrijving": [
+                        "Kop-halsprothese linker heup",
+                        "geinfecteerde mediale mondbodemcyste"
+                    ]
+                },
+                {
+                    "jaar": 2015,
+                    "omschrijving": "komt vaak niet op poli afspraak. eGFR 76 ml/min"
+                },
+                {
+                    "jaar": 2016,
+                    "omschrijving": "neuscorrectie."
+                },
+                {
+                    "jaar": 2018,
+                    "omschrijving": "influenza B"
+                }
+            ],
+            "medicatie": [
+                "prograft"
+            ],
+            "allergieen": [],
+            "anamnese": {
+                "klachten": [
+                    {
+                        "datum": "vanochtend",
+                        "omschrijving": "pijn rechts onderin de buik. Geen malaise en geen koorts. Niet misselijk, niet gebraakt. Ontlasting normaal"
+                    },
+                    {
+                        "datum": "vandaag",
+                        "omschrijving": "werkte gewoon"
+                    }
+                ],
+                "bijzonderheden": [
+                    {
+                        "omschrijving": "contact met de huisarts opgenomen om de pijn persisteerde"
+                    },
+                    {
+                        "omschrijving": "geen pijn tpv de donornier"
+                    },
+                    {
+                        "omschrijving": "geen mictieklachten"
+                    }
+                ]
+            },
+            "lichamelijk_onderzoek": {
+                "algemeen": {
+                    "T": 37.1,
+                    "Sat": 100,
+                    "%RR": 138,
+                    "puls": 104
+                },
+                "abdomen": [
+                    {
+                        "omschrijving": "st na NTx (nier zit links)"
+                    },
+                    {
+                        "omschrijving": "normale peristaltiek"
+                    },
+                    {
+                        "omschrijving": "wisselende tympanie"
+                    },
+                    {
+                        "omschrijving": "buik soepel"
+                    },
+                    {
+                        "omschrijving": "milde drukpijn in rechter onderbuik zonder loslaatpijn"
+                    },
+                    {
+                        "omschrijving": "linker hemi-abdomen volstrekt soepel en niet pijnlijk"
+                    }
+                ]
+            }
+        },
+        "klachten": NaN,
+        "recente_gebeurtenissen": NaN,
+        "aanname": NaN,
+        "vervolgadvies": NaN,
+        "aanpak": NaN,
+        "voorgeschiedenis": NaN,
+        "patient_history": NaN,
+        "symptoms": NaN,
+        "physical_examination": NaN,
+        "diagnostic_considerations": NaN,
+        "aanbevolen_aanvullende_onderzoeken": NaN,
+        "aanbevolen_behandeling": NaN,
+        "lichamelijk onderzoek": NaN,
+        "diagnostische_overwegingen": NaN,
+        "history_of_present_illness": NaN,
+        "past_medical_history": NaN,
+        "aanvullende_informatie": NaN,
+        "verleden_geschiedenis": NaN,
+        "medical_history": NaN,
+        "diagnosis_hypothesis": NaN,
+        "immediate_actions": NaN,
+        "follow_up_plan": NaN,
+        "diagnose": NaN,
+        "medische_gegevens": NaN,
+        "vervolg": NaN,
+        "diagnosis": NaN,
+        "vervolg_onderzoek_en_behandeling": NaN
+    },
+    {
+        "uid": "7E22FD0BDD343A7D205B967AA2B1184C64BD9982",
+        "anamnese": {
+            "symptomen": [
+                {
+                    "periode": "half augustus",
+                    "symptoom": "flinke buikpijn in maagstreek en rechteronderbuik"
+                },
+                {
+                    "periode": "half augustus",
+                    "symptoom": "misselijkheid, geen braken"
+                },
+                {
+                    "periode": "half augustus",
+                    "symptoom": "koud gevoel maar geen koorts"
+                },
+                {
+                    "periode": "net voor ontlasting en nadien",
+                    "symptoom": "pijn in maagstreek werd erger na eten"
+                },
+                {
+                    "periode": "nu sinds 2-3 weken",
+                    "symptoom": "erg vermoeid, futloos"
+                },
+                {
+                    "periode": "nu sinds 2-3 weken",
+                    "symptoom": "koude rillingen en wisselend koorts tot 38.5 gemeten"
+                },
+                {
+                    "periode": "nu sinds 2-3 weken",
+                    "symptoom": "weeig gevoel in maag"
+                },
+                {
+                    "periode": "sinds gisteren",
+                    "symptoom": "2x dunne stopverf ontlasting gehad"
+                },
+                {
+                    "periode": "normaal",
+                    "symptoom": "1x per dag bruine stevige ontlasting, geen bloed of slijm"
+                }
+            ],
+            "algemeen": [
+                {
+                    "symptoom": "eetlust minder"
+                },
+                {
+                    "symptoom": "minimaal iets gewicht verloren"
+                },
+                {
+                    "symptoom": "bloeddruk rond 90 SBD gemeten, normaal altijd 120mmHg"
+                }
+            ],
+            "tractus_respiratorisch": [
+                {
+                    "symptoom": "gevoel van kortademigheid",
+                    "bijzonderheden": "geen hoesten"
+                }
+            ],
+            "tractus_circulatorisch": [
+                {
+                    "symptoom": "geen pijn op de borst"
+                }
+            ],
+            "tractus_urogenitaal": [
+                {
+                    "symptoom": "geen pijn bij plassen"
+                },
+                {
+                    "symptoom": "urine zag er wel donkerder uit"
+                }
+            ],
+            "intoxication": [
+                {
+                    "rookt": "-",
+                    "drinkt alcohol": "-"
+                }
+            ],
+            "allergie\u00ebn": [
+                {
+                    "jodium": "ja, ooit veel jeuk na scan (zie status interne 2016)"
+                }
+            ],
+            "medicatie": [
+                {
+                    "naam": "SERTRALINE TABL OMH 50MG",
+                    "dosis": "1.1T"
+                },
+                {
+                    "naam": "LEVOCETIRIZINE TABL FO 5MG",
+                    "dosis": "1.1T"
+                }
+            ]
+        },
+        "lichamelijk_onderzoek": {
+            "controles": [
+                {
+                    "waarde": "18/min",
+                    "type_controle": "respiratoire frequentie"
+                },
+                {
+                    "waarde": "75/min",
+                    "type_controle": "hartslag"
+                },
+                {
+                    "waarde": "100%",
+                    "type_controle": "sat"
+                },
+                {
+                    "waarde": "126/70mmHg",
+                    "type_controle": "bloeddruk"
+                },
+                {
+                    "waarde": "35.7",
+                    "type_controle": "temperatuur"
+                }
+            ],
+            "algemeen": [
+                {
+                    "symptoom": "helder, alert"
+                },
+                {
+                    "symptoom": "oogt niet acuut ziek"
+                },
+                {
+                    "symptoom": "klammig"
+                }
+            ],
+            "pulmones": [
+                {
+                    "bijzonderheden": "VAG, geen bijgeluiden"
+                }
+            ],
+            "coronarium": [
+                {
+                    "bijzonderheden": "S1,S2, geen souffle"
+                }
+            ],
+            "abdomen": [
+                {
+                    "symptoom": "np"
+                },
+                {
+                    "symptoom": "wt"
+                },
+                {
+                    "symptoom": "soepel"
+                },
+                {
+                    "symptoom": "lichte drukpijn ROB"
+                },
+                {
+                    "symptoom": "Murphy negatief"
+                },
+                {
+                    "symptoom": "geen slagpijn nierloges"
+                }
+            ],
+            "extremiteiten": [
+                {
+                    "bijzonderheid": "soepele kuiten"
+                },
+                {
+                    "bijzonderheid": "slanke enkels"
+                }
+            ]
+        },
+        "diagnostiek": NaN,
+        "advies": NaN,
+        "diagnose_overwegingen": NaN,
+        "aanbevolen_actie": NaN,
+        "volgende_stappen": NaN,
+        "lichamelijke_observatie": NaN,
+        "patient": NaN,
+        "klachten": NaN,
+        "recente_gebeurtenissen": NaN,
+        "aanname": NaN,
+        "vervolgadvies": NaN,
+        "aanpak": NaN,
+        "voorgeschiedenis": NaN,
+        "patient_history": NaN,
+        "symptoms": NaN,
+        "physical_examination": NaN,
+        "diagnostic_considerations": NaN,
+        "aanbevolen_aanvullende_onderzoeken": NaN,
+        "aanbevolen_behandeling": NaN,
+        "lichamelijk onderzoek": NaN,
+        "diagnostische_overwegingen": NaN,
+        "history_of_present_illness": NaN,
+        "past_medical_history": NaN,
+        "aanvullende_informatie": NaN,
+        "verleden_geschiedenis": NaN,
+        "medical_history": NaN,
+        "diagnosis_hypothesis": NaN,
+        "immediate_actions": NaN,
+        "follow_up_plan": NaN,
+        "diagnose": NaN,
+        "medische_gegevens": NaN,
+        "vervolg": NaN,
+        "diagnosis": NaN,
+        "vervolg_onderzoek_en_behandeling": NaN
+    },
+    {
+        "uid": "4662AD00E1897A9FC5570AC7918189566371AC7F",
+        "anamnese": {
+            "medische_geschiedenis": [
+                {
+                    "ziekte": "VG/ Artritis psoriatica",
+                    "onderhoud_bij": "Maartenskliniek Nijmegen (dr. Den Broeder)"
+                },
+                {
+                    "operatie": "Onlangs schouderoperatie"
+                },
+                {
+                    "ziekte": "2011 DHS L ivm reusceltumor bot"
+                },
+                {
+                    "ziekte": "2002 reusceltumor dig V wekedelen"
+                },
+                {
+                    "ziekte": "Baarmoederhalskanker (26 jaar geleden)"
+                },
+                {
+                    "operatie": "Scopie Knie kruisband reconstructie"
+                }
+            ],
+            "medicatie": [
+                {
+                    "naam": "MTX",
+                    "type": "antirheumatisme"
+                },
+                {
+                    "naam": "foliumzuur",
+                    "type": "antirheumatisme"
+                },
+                {
+                    "naam": "prednison",
+                    "type": "steroid"
+                }
+            ],
+            "allergie\u00ebn": [
+                {
+                    "naam": "Opioiden",
+                    "reactie": "misselijk + uitslag"
+                }
+            ]
+        },
+        "lichamelijk_onderzoek": {
+            "algemeen": [
+                "matige zieke pati\u00ebnte"
+            ],
+            "bloeddruk": {
+                "waarde": "121/74"
+            },
+            "sat": {
+                "waarde": "96%"
+            },
+            "temperatuur": {
+                "waarde": "39.3"
+            },
+            "abdomen": {
+                "normale_peristaltiek": true,
+                "druk_loslaatpijn": {
+                    "locatie": "ROB",
+                    "intensiteit": "fors"
+                },
+                "psoas_sign": "+"
+            },
+            "longen": {
+                "vindingsgebrek_aan_bijgeluiden": true
+            },
+            "slagader": {
+                "slagpijn_in_knieloges": false
+            }
+        },
+        "diagnostiek": NaN,
+        "advies": NaN,
+        "diagnose_overwegingen": NaN,
+        "aanbevolen_actie": NaN,
+        "volgende_stappen": NaN,
+        "lichamelijke_observatie": NaN,
+        "patient": NaN,
+        "klachten": {
+            "begin_datum": "2 dagen geleden",
+            "locatie": "buik, rond de navel",
+            "verandering": "sinds vannacht naar ROB (recht over boven), kon niet lopen vanwege pijn",
+            "algemene_gevoelens": [
+                "niet ziek"
+            ],
+            "voeding": {
+                "recente_eetgedrag": "naar weinig gegeten"
+            },
+            "ontlasting": {
+                "aantal_dagen_sinds_ontlasting": 4,
+                "normaal_slagtijdschema": "soms een dag overslaan",
+                "flatus": "+"
+            },
+            "mictie": {
+                "geldige_bevestiging": "gb"
+            }
+        },
+        "recente_gebeurtenissen": [
+            {
+                "datum": "afgelopen week",
+                "gebeurtenis": "prednison gebruikt ivm pijn na schouderoperatie"
+            },
+            {
+                "datum": "begin van de week",
+                "gebeurtenis": "uitstrijkje bij gynaecoloog, geen klachten en afwijkingen gevonden"
+            }
+        ],
+        "aanname": NaN,
+        "vervolgadvies": NaN,
+        "aanpak": NaN,
+        "voorgeschiedenis": NaN,
+        "patient_history": NaN,
+        "symptoms": NaN,
+        "physical_examination": NaN,
+        "diagnostic_considerations": NaN,
+        "aanbevolen_aanvullende_onderzoeken": NaN,
+        "aanbevolen_behandeling": NaN,
+        "lichamelijk onderzoek": NaN,
+        "diagnostische_overwegingen": NaN,
+        "history_of_present_illness": NaN,
+        "past_medical_history": NaN,
+        "aanvullende_informatie": NaN,
+        "verleden_geschiedenis": NaN,
+        "medical_history": NaN,
+        "diagnosis_hypothesis": NaN,
+        "immediate_actions": NaN,
+        "follow_up_plan": NaN,
+        "diagnose": NaN,
+        "medische_gegevens": NaN,
+        "vervolg": NaN,
+        "diagnosis": NaN,
+        "vervolg_onderzoek_en_behandeling": NaN
+    },
+    {
+        "uid": "BC1835DE58C54933A95BB00211026D9695AE3F23",
+        "anamnese": {
+            "voorgeschiedenis": "MCTD (Raynaud, positieve ANA, trombopenie), dd SLE.",
+            "medicatie": "Plaquenil + Vitamine D",
+            "allergie": "Geen",
+            "laatste maal eten": "14 uur geleden"
+        },
+        "lichamelijk_onderzoek": {
+            "algemeen_toestand": "Niet acuut zieke dame.",
+            "temperatuur": "37.3\u00b0C",
+            "bloeddruk": "101/74 mmHg",
+            "hartslag": "73/min",
+            "sat": "100%",
+            "abdomen": {
+                "lichaamsbouw": "Slank.",
+                "tympani": "Wisselende tympani.",
+                "buik": "Soepele buik met druk- en loslaatpijn ROK, McBurney +."
+            }
+        },
+        "diagnostiek": {
+            "aanwijzingen": [
+                "Acute appendicitis"
+            ],
+            "verder_onderzoek": [
+                "Abdominaal echo, eventueel CT-scan"
+            ]
+        },
+        "advies": NaN,
+        "diagnose_overwegingen": NaN,
+        "aanbevolen_actie": NaN,
+        "volgende_stappen": NaN,
+        "lichamelijke_observatie": NaN,
+        "patient": NaN,
+        "klachten": {
+            "pijn": "Continue, progressieve pijn die van de bovenbuik naar de rechter onderbuik migreren.",
+            "misselijkheid": "Ja, geen braken.",
+            "defecatie": "Ontlasting vandaag maar hard, afgelopen weken meer obstipatie, geen bloed/slijm.",
+            "eetlust": "Matig",
+            "mictie": "Onveranderd, geen pijn/branderigheid, geen hematurie."
+        },
+        "recente_gebeurtenissen": NaN,
+        "aanname": NaN,
+        "vervolgadvies": NaN,
+        "aanpak": NaN,
+        "voorgeschiedenis": NaN,
+        "patient_history": NaN,
+        "symptoms": NaN,
+        "physical_examination": NaN,
+        "diagnostic_considerations": NaN,
+        "aanbevolen_aanvullende_onderzoeken": NaN,
+        "aanbevolen_behandeling": NaN,
+        "lichamelijk onderzoek": NaN,
+        "diagnostische_overwegingen": NaN,
+        "history_of_present_illness": NaN,
+        "past_medical_history": NaN,
+        "aanvullende_informatie": NaN,
+        "verleden_geschiedenis": NaN,
+        "medical_history": NaN,
+        "diagnosis_hypothesis": NaN,
+        "immediate_actions": NaN,
+        "follow_up_plan": NaN,
+        "diagnose": NaN,
+        "medische_gegevens": NaN,
+        "vervolg": NaN,
+        "diagnosis": NaN,
+        "vervolg_onderzoek_en_behandeling": NaN
+    },
+    {
+        "uid": "BDF1405B82EA0A6E19F19412648D21D9C80A5253",
+        "anamnese": NaN,
+        "lichamelijk_onderzoek": NaN,
+        "diagnostiek": NaN,
+        "advies": NaN,
+        "diagnose_overwegingen": NaN,
+        "aanbevolen_actie": NaN,
+        "volgende_stappen": NaN,
+        "lichamelijke_observatie": NaN,
+        "patient": NaN,
+        "klachten": NaN,
+        "recente_gebeurtenissen": NaN,
+        "aanname": "De pati\u00ebnte lijdt aan een acute abdomen met mogelijkheidsdiagnoses van appendicitis of een andere buikorgaanstoornis (zoals cystitis of ovari\u00eble cyste) veroorzaakt door het gebruik van diclofenac.",
+        "vervolgadvies": [
+            {
+                "actie": "Urgent uitslag van bloedonderzoek",
+                "reden": "Om mogelijke infectieuze complicaties te detecteren."
+            },
+            {
+                "actie": "Ultrasonogram van de buik en bekken",
+                "reden": "Voor verdere bepaling van de aard van de ROQ-zwelling en drukpijn, mogelijk appendicitis of andere orgaanstoornissen zoals cystitis of ovari\u00eble cyste."
+            },
+            {
+                "actie": "Verhoogde pijnstillingsbehandeling",
+                "reden": "Tijdelijke verlichting van de klachten totdat de diagnose is vastgesteld en behandeling kan worden ingezet."
+            }
+        ],
+        "aanpak": NaN,
+        "voorgeschiedenis": NaN,
+        "patient_history": NaN,
+        "symptoms": NaN,
+        "physical_examination": NaN,
+        "diagnostic_considerations": NaN,
+        "aanbevolen_aanvullende_onderzoeken": NaN,
+        "aanbevolen_behandeling": NaN,
+        "lichamelijk onderzoek": NaN,
+        "diagnostische_overwegingen": NaN,
+        "history_of_present_illness": NaN,
+        "past_medical_history": NaN,
+        "aanvullende_informatie": NaN,
+        "verleden_geschiedenis": NaN,
+        "medical_history": NaN,
+        "diagnosis_hypothesis": NaN,
+        "immediate_actions": NaN,
+        "follow_up_plan": NaN,
+        "diagnose": NaN,
+        "medische_gegevens": NaN,
+        "vervolg": NaN,
+        "diagnosis": NaN,
+        "vervolg_onderzoek_en_behandeling": NaN
+    },
+    {
+        "uid": "D6419A0858A2AD2865E4EAA731A9B27A3BBC55D8",
+        "anamnese": NaN,
+        "lichamelijk_onderzoek": NaN,
+        "diagnostiek": NaN,
+        "advies": NaN,
+        "diagnose_overwegingen": NaN,
+        "aanbevolen_actie": NaN,
+        "volgende_stappen": [
+            "Laboratoriumonderzoeken uitvoeren om aanwijzingen te vinden voor infectie of ontsteking.",
+            "Ultrasonogram van de buik laten maken, met aandacht voor ovaria en appendix.",
+            "Gynaecologisch consult inroepen als het betreft mogelijke gynaecologische oorzaken.",
+            "Chirurgisch consult inroepen om te bepalen of chirurgische ingrijpende maatregelen nodig zijn."
+        ],
+        "lichamelijke_observatie": NaN,
+        "patient": NaN,
+        "klachten": NaN,
+        "recente_gebeurtenissen": NaN,
+        "aanname": NaN,
+        "vervolgadvies": NaN,
+        "aanpak": {
+            "urgente_bevindingen": [
+                "Pijn ROQ, continu aanwezig en verergerd",
+                "Koorts met maximale temperatuur van 38,9 C",
+                "Drukpijn in ROQ zonder loslaatpijn of slagpijn nierloges"
+            ],
+            "vermoedelijke_diagnoses": [
+                {
+                    "diagnose": "Appendicitis",
+                    "redenen": [
+                        "Pijn in ROQ",
+                        "Koorts"
+                    ]
+                },
+                {
+                    "diagnose": "Ovariaal cystische kwaal (zoals ovarian torsie of cystitis)",
+                    "redenen": [
+                        "Mirena, geen menstruatiebloedverlies",
+                        "Slechteziendheid kan beperken zelfonderzoek"
+                    ]
+                }
+            ],
+            "aanbevolen_acties": [
+                {
+                    "actie": "Laboratoriumonderzoeken",
+                    "details": [
+                        "CBC (complexe bloedafname)",
+                        "CRP",
+                        "ESR",
+                        "S-creatinine en S-BUN"
+                    ]
+                },
+                {
+                    "actie": "Imaging",
+                    "details": [
+                        "Ultrasonogram van de buik, met aandacht voor ovaria en appendix"
+                    ]
+                },
+                {
+                    "actie": "Consultatie",
+                    "details": [
+                        "Gynaecologisch consult",
+                        "Chirurgisch consult"
+                    ]
+                }
+            ]
+        },
+        "voorgeschiedenis": NaN,
+        "patient_history": NaN,
+        "symptoms": NaN,
+        "physical_examination": NaN,
+        "diagnostic_considerations": NaN,
+        "aanbevolen_aanvullende_onderzoeken": NaN,
+        "aanbevolen_behandeling": NaN,
+        "lichamelijk onderzoek": NaN,
+        "diagnostische_overwegingen": NaN,
+        "history_of_present_illness": NaN,
+        "past_medical_history": NaN,
+        "aanvullende_informatie": NaN,
+        "verleden_geschiedenis": NaN,
+        "medical_history": NaN,
+        "diagnosis_hypothesis": NaN,
+        "immediate_actions": NaN,
+        "follow_up_plan": NaN,
+        "diagnose": NaN,
+        "medische_gegevens": NaN,
+        "vervolg": NaN,
+        "diagnosis": NaN,
+        "vervolg_onderzoek_en_behandeling": NaN
+    },
+    {
+        "uid": "4171A845B97024AED85520A0E270AFAA71F0CF89",
+        "anamnese": NaN,
+        "lichamelijk_onderzoek": {
+            "co": [
+                "T37.1",
+                "p112/min",
+                "sat 100% zonder O2",
+                "BP 144/89mmHg"
+            ],
+            "abdomen": [
+                {
+                    "naam": "soepele buik"
+                },
+                {
+                    "naam": "druk en loslaatpijn tpv McBurney"
+                },
+                {
+                    "naam": "geen contralaterale loslaatpijn"
+                },
+                {
+                    "naam": "geen actief spierverzet"
+                }
+            ]
+        },
+        "diagnostiek": NaN,
+        "advies": NaN,
+        "diagnose_overwegingen": NaN,
+        "aanbevolen_actie": NaN,
+        "volgende_stappen": NaN,
+        "lichamelijke_observatie": NaN,
+        "patient": {
+            "symptomen": [
+                {
+                    "naam": "pijn rechts onder in de buik",
+                    "ontstaan": "vanmorgen"
+                },
+                {
+                    "naam": "overgeven",
+                    "tijdstip": "in de loop van de dag"
+                },
+                {
+                    "naam": "flauwvallen",
+                    "tijdstip": "in de loop van de dag"
+                }
+            ],
+            "diagnose_buitenlandse_zorg": "appendicitis",
+            "vervoer_naar_nederland": true,
+            "medicatie": [
+                {
+                    "naam": "orale anticonceptie",
+                    "type": "basis"
+                }
+            ],
+            "allergieen": [],
+            "laatste_maaltijd": "gister"
+        },
+        "klachten": NaN,
+        "recente_gebeurtenissen": NaN,
+        "aanname": NaN,
+        "vervolgadvies": NaN,
+        "aanpak": NaN,
+        "voorgeschiedenis": {
+            "beschrijving": "Blanco"
+        },
+        "patient_history": NaN,
+        "symptoms": NaN,
+        "physical_examination": NaN,
+        "diagnostic_considerations": NaN,
+        "aanbevolen_aanvullende_onderzoeken": NaN,
+        "aanbevolen_behandeling": NaN,
+        "lichamelijk onderzoek": NaN,
+        "diagnostische_overwegingen": NaN,
+        "history_of_present_illness": NaN,
+        "past_medical_history": NaN,
+        "aanvullende_informatie": NaN,
+        "verleden_geschiedenis": NaN,
+        "medical_history": NaN,
+        "diagnosis_hypothesis": NaN,
+        "immediate_actions": NaN,
+        "follow_up_plan": NaN,
+        "diagnose": NaN,
+        "medische_gegevens": NaN,
+        "vervolg": NaN,
+        "diagnosis": NaN,
+        "vervolg_onderzoek_en_behandeling": NaN
+    },
+    {
+        "uid": "1A72B51A5848C32895540F00E508BAFE3DEDA5F0",
+        "anamnese": NaN,
+        "lichamelijk_onderzoek": {
+            "generaal": [
+                "niet acuut ziek",
+                "wiebelend op onderzoeksbank"
+            ],
+            "controles": {
+                "P": 78,
+                "RR": 123,
+                "T": 36.8,
+                "SaO2": 100
+            },
+            "abdomen": {
+                "pfannenstiel": true,
+                "na_laparoscopie_cholecystectomie": true,
+                "peristaltiek": "normaal",
+                "tympanie": "wisselend",
+                "drukpijn": [
+                    "onder in de buik",
+                    {
+                        "rechts": "meer dan links"
+                    },
+                    "links duidelijk drukpijnlijk"
+                ],
+                "loslaatpijn": [
+                    {
+                        "locatie": "rechts onder McBurney",
+                        "aard": "loslaatpijn"
+                    }
+                ],
+                "psoas_test": "negatief"
+            }
+        },
+        "diagnostiek": NaN,
+        "advies": NaN,
+        "diagnose_overwegingen": [
+            {
+                "overweging": "Appendicitis"
+            },
+            {
+                "overweging": "Ovariaal cysteus proces of endometriose met bloedverlies"
+            },
+            {
+                "overweging": "Gastro-enteritis"
+            }
+        ],
+        "aanbevolen_actie": NaN,
+        "volgende_stappen": NaN,
+        "lichamelijke_observatie": NaN,
+        "patient": {
+            "voorgeschiedenis": [
+                {
+                    "jaar": 2016,
+                    "procedure": "Laparoscopische cholecystectomie",
+                    "reden": "Cholelithiasis"
+                },
+                {
+                    "jaar": 2017,
+                    "maand": "november",
+                    "procedure": "Sectio caesarea"
+                },
+                {
+                    "jaar": 2018,
+                    "maand": "januari",
+                    "actie": "Plaatsen IUD"
+                }
+            ],
+            "medicatie": [],
+            "allergie\u00ebn": [],
+            "laatste_maaltijd": "7:00 twee bakken koffie met melk en suiker"
+        },
+        "klachten": {
+            "begin_tijdstip": "vrijdag",
+            "locatie": [
+                "rechts onderin buik",
+                "midden in de buik"
+            ],
+            "aard": "krampend, straalde uit naar rug",
+            "bijzonderheden": [
+                {
+                    "klacht": "bewegingsdrang",
+                    "aard": "wisselend"
+                },
+                {
+                    "klacht": "misselijkheid",
+                    "frequentie": "enkele keren gebraakt"
+                },
+                {
+                    "klacht": "vaginaal bloedverlies",
+                    "opmerking": "niet normaal sinds IUD plaatsing"
+                }
+            ]
+        },
+        "recente_gebeurtenissen": NaN,
+        "aanname": NaN,
+        "vervolgadvies": NaN,
+        "aanpak": NaN,
+        "voorgeschiedenis": NaN,
+        "patient_history": NaN,
+        "symptoms": NaN,
+        "physical_examination": NaN,
+        "diagnostic_considerations": NaN,
+        "aanbevolen_aanvullende_onderzoeken": NaN,
+        "aanbevolen_behandeling": NaN,
+        "lichamelijk onderzoek": NaN,
+        "diagnostische_overwegingen": NaN,
+        "history_of_present_illness": NaN,
+        "past_medical_history": NaN,
+        "aanvullende_informatie": NaN,
+        "verleden_geschiedenis": NaN,
+        "medical_history": NaN,
+        "diagnosis_hypothesis": NaN,
+        "immediate_actions": NaN,
+        "follow_up_plan": NaN,
+        "diagnose": NaN,
+        "medische_gegevens": NaN,
+        "vervolg": NaN,
+        "diagnosis": NaN,
+        "vervolg_onderzoek_en_behandeling": NaN
+    },
+    {
+        "uid": "B0E8A00B52B4126E8F7632214865013D0B41B714",
+        "anamnese": {
+            "tijdstip_ondergaaf": "vanmiddag om 12:00",
+            "activiteit_tijd_van_pijn": "zwemmen",
+            "klachten": [
+                {
+                    "type": "heftige buikpijn",
+                    "locatie": "gelokaliseerd tot navel",
+                    "nauwe_scheiding": "+",
+                    "vervoerspijn": "+"
+                },
+                {
+                    "type": "defecatie pijn",
+                    "consistentie_voeding": "vaster"
+                }
+            ],
+            "bijzonderheden": [
+                "geen klachten meer",
+                "geen misselijkheid",
+                "pati\u00ebnt trok niet bleek weg en kromp niet in elkaar"
+            ],
+            "voorgeschiedenis": {
+                "recente_ziektegeschiedenis": "-",
+                "buikoperaties": "-"
+            },
+            "laatste_maaltijd": "vannacht om 9:30 uur",
+            "allergie\u00ebn": "-",
+            "vervalsing_gebruik": "-",
+            "navelbreukje": "-"
+        },
+        "lichamelijk_onderzoek": {
+            "algemeen_toestand": {
+                "toon": "helder",
+                "bewustzijn": "alert",
+                "gezondheidstoestand": "niet ziek"
+            },
+            "co": {
+                "temperatuur": "36.8\u00b0C",
+                "hartslag": "102/min",
+                "sat": "100%"
+            },
+            "abdomen": {
+                "peristaltiek": "normaal",
+                "tympani": "wisselend",
+                "spierspanning": "soepel",
+                "drukpijn": "-",
+                "loslaatpijn": "-"
+            },
+            "psoas_test": "-",
+            "vasalva_manoeuvre": "-",
+            "liezen": {
+                "slank": "+"
+            },
+            "testis": {
+                "ingedaald": "+",
+                "pijnlijk": "-"
+            }
+        },
+        "diagnostiek": NaN,
+        "advies": NaN,
+        "diagnose_overwegingen": NaN,
+        "aanbevolen_actie": NaN,
+        "volgende_stappen": NaN,
+        "lichamelijke_observatie": NaN,
+        "patient": NaN,
+        "klachten": NaN,
+        "recente_gebeurtenissen": NaN,
+        "aanname": NaN,
+        "vervolgadvies": NaN,
+        "aanpak": NaN,
+        "voorgeschiedenis": NaN,
+        "patient_history": NaN,
+        "symptoms": NaN,
+        "physical_examination": NaN,
+        "diagnostic_considerations": NaN,
+        "aanbevolen_aanvullende_onderzoeken": NaN,
+        "aanbevolen_behandeling": NaN,
+        "lichamelijk onderzoek": NaN,
+        "diagnostische_overwegingen": NaN,
+        "history_of_present_illness": NaN,
+        "past_medical_history": NaN,
+        "aanvullende_informatie": NaN,
+        "verleden_geschiedenis": NaN,
+        "medical_history": NaN,
+        "diagnosis_hypothesis": NaN,
+        "immediate_actions": NaN,
+        "follow_up_plan": NaN,
+        "diagnose": NaN,
+        "medische_gegevens": NaN,
+        "vervolg": NaN,
+        "diagnosis": NaN,
+        "vervolg_onderzoek_en_behandeling": NaN
+    },
+    {
+        "uid": "22A31DAC5597F92FB6BE0F056D7227F7EABD06AB",
+        "anamnese": NaN,
+        "lichamelijk_onderzoek": NaN,
+        "diagnostiek": NaN,
+        "advies": NaN,
+        "diagnose_overwegingen": NaN,
+        "aanbevolen_actie": NaN,
+        "volgende_stappen": NaN,
+        "lichamelijke_observatie": NaN,
+        "patient": NaN,
+        "klachten": NaN,
+        "recente_gebeurtenissen": NaN,
+        "aanname": NaN,
+        "vervolgadvies": NaN,
+        "aanpak": NaN,
+        "voorgeschiedenis": NaN,
+        "patient_history": {
+            "past_medical_history": [
+                {
+                    "condition": "Laparoscopische cholecystectomie met en bloc wigresectie leversegment 4/5",
+                    "date": "18/06/2018"
+                },
+                {
+                    "condition": "Sliding hernia diafragmatica"
+                },
+                {
+                    "condition": "Ijzergebreksanemie"
+                },
+                {
+                    "condition": "Langdurig bovenbuiksklachten"
+                },
+                {
+                    "condition": "Angiodysplasie\u00ebn in het coecum"
+                },
+                {
+                    "condition": "Barrett oesofagus zonder dysplasie"
+                },
+                {
+                    "condition": "Ablatio mammae bdz bij mammacarcinoom, augmentatie"
+                },
+                {
+                    "condition": "Sterilisatie"
+                }
+            ],
+            "current_medications": [
+                {
+                    "medication": "Paroxetine"
+                },
+                {
+                    "medication": "Pantoprazol"
+                }
+            ]
+        },
+        "symptoms": {
+            "acute_symptoms": [
+                "Forse pijn in de onderbuik",
+                "Misselijkheid en overgeven"
+            ],
+            "chronic_symptoms": [
+                "Bekend met misselijkheid en buikpijn in rechter buikhelft"
+            ]
+        },
+        "physical_examination": {
+            "vital_signs": {
+                "temperature": "37.3\u00b0C",
+                "saturation": "100%",
+                "respiratory_rate": "15/86mmHg",
+                "heart_rate": "93/min"
+            },
+            "abdominal_exam": [
+                {
+                    "finding": "Slanke buik"
+                },
+                {
+                    "finding": "Levendige peristaltiek, wisselende tympanie"
+                },
+                {
+                    "finding": "Drukpijn epigastrium en onderbuik net boven os pubis"
+                },
+                {
+                    "finding": "Geen loslaatpijn"
+                },
+                {
+                    "finding": "Buik volstrekt soepel"
+                },
+                {
+                    "finding": "Liezen gb"
+                },
+                {
+                    "finding": "Geen slagpijn nierloges"
+                }
+            ]
+        },
+        "diagnostic_considerations": [
+            {
+                "consideration": "Postoperative complicatie (bijv. peritonitis, anastomotische lek)"
+            },
+            {
+                "consideration": "Acute abdomenale aandoening"
+            },
+            {
+                "consideration": "Recurrente of nieuwe buikklachten"
+            }
+        ],
+        "aanbevolen_aanvullende_onderzoeken": NaN,
+        "aanbevolen_behandeling": NaN,
+        "lichamelijk onderzoek": NaN,
+        "diagnostische_overwegingen": NaN,
+        "history_of_present_illness": NaN,
+        "past_medical_history": NaN,
+        "aanvullende_informatie": NaN,
+        "verleden_geschiedenis": NaN,
+        "medical_history": NaN,
+        "diagnosis_hypothesis": NaN,
+        "immediate_actions": NaN,
+        "follow_up_plan": NaN,
+        "diagnose": NaN,
+        "medische_gegevens": NaN,
+        "vervolg": NaN,
+        "diagnosis": NaN,
+        "vervolg_onderzoek_en_behandeling": NaN
+    },
+    {
+        "uid": "21DED51A61131E17EC6D604293E07003C9BF855A",
+        "anamnese": NaN,
+        "lichamelijk_onderzoek": NaN,
+        "diagnostiek": NaN,
+        "advies": NaN,
+        "diagnose_overwegingen": [
+            {
+                "naam": "Appendicitis",
+                "overwegingen": [
+                    "Pijn rondom de navel, later uitstralend naar het linker hemiabdomen; McBurney en Murphy sign negatief kan suggesteren dat de appendiculitis niet klassiek is of in een andere fase verkeert. Psoas sign negatief.",
+                    "aanvullende_onderzoeken_aanbevolen"
+                ]
+            },
+            {
+                "naam": "Gastroenteritis",
+                "overwegingen": [
+                    "Symptomen van braken en diarree, maar temperatuur en hartslag zijn verhoogd wat minder compatibel is met een infectie die veroorzaakt wordt door een virus. Bacteri\u00eble oorzaak mogelijk.",
+                    "aanvullende_onderzoeken_aanbevolen"
+                ]
+            },
+            {
+                "naam": "Irritable Bowel Syndrome (IBS)",
+                "overwegingen": [
+                    "Ongeregeldheid in de ontlasting, slijm in de afvalstoffen en pijn rondom de navel kunnen aanwijzingen zijn voor IBS. Geen acute aandoening zoals appendicitis of een ernstige infectie.",
+                    "aanvullende_onderzoeken_aanbevolen"
+                ]
+            },
+            {
+                "naam": "Diverticulitis",
+                "overwegingen": [
+                    "Pijn rondom de navel, mogelijk uitstralend naar het linker hemiabdomen kan aanwijzing zijn voor diverticulitis. Gezien de voorgeschiedenis van miltruptuur is dit minder waarschijnlijk.",
+                    "aanvullende_onderzoeken_aanbevolen"
+                ]
+            }
+        ],
+        "aanbevolen_actie": NaN,
+        "volgende_stappen": NaN,
+        "lichamelijke_observatie": NaN,
+        "patient": NaN,
+        "klachten": NaN,
+        "recente_gebeurtenissen": NaN,
+        "aanname": NaN,
+        "vervolgadvies": NaN,
+        "aanpak": NaN,
+        "voorgeschiedenis": NaN,
+        "patient_history": NaN,
+        "symptoms": NaN,
+        "physical_examination": NaN,
+        "diagnostic_considerations": NaN,
+        "aanbevolen_aanvullende_onderzoeken": [
+            {
+                "naam": "Bloedonderzoek",
+                "doel": [
+                    "Controle van witte bloedlichaamsaantallen om te zien of er sprake is van een infectie; CRP en ESR voor inflammatieve reacties"
+                ],
+                "uitvoering": [
+                    "Labo bloedtest"
+                ]
+            },
+            {
+                "naam": "Urinonderzoek",
+                "doel": [
+                    "Controle op nier- of urinewegenproblemen"
+                ],
+                "uitvoering": [
+                    "Urine test strip, eventueel urine culture"
+                ]
+            },
+            {
+                "naam": "Abdominaal r\u00f6ntgenfoto",
+                "doel": [
+                    "Onderzoeken van blokkades in de darmen of andere acute aandoeningen"
+                ],
+                "uitvoering": [
+                    "R\u00f6ntgenfoto maken"
+                ]
+            }
+        ],
+        "aanbevolen_behandeling": [
+            {
+                "naam": "Antibiotica",
+                "doel": [
+                    "Controle van een mogelijke bacteri\u00eble oorzaak, vooral bij gastroenteritis of diverticulitis"
+                ],
+                "uitvoering": [
+                    "Oral antibiotica toedienen"
+                ]
+            },
+            {
+                "naam": "Anti-emetica",
+                "doel": [
+                    "Verlichting van braken en misselijkheid"
+                ],
+                "uitvoering": [
+                    "Orale anti-emetica voorschrijven"
+                ]
+            }
+        ],
+        "lichamelijk onderzoek": NaN,
+        "diagnostische_overwegingen": NaN,
+        "history_of_present_illness": NaN,
+        "past_medical_history": NaN,
+        "aanvullende_informatie": NaN,
+        "verleden_geschiedenis": NaN,
+        "medical_history": NaN,
+        "diagnosis_hypothesis": NaN,
+        "immediate_actions": NaN,
+        "follow_up_plan": NaN,
+        "diagnose": NaN,
+        "medische_gegevens": NaN,
+        "vervolg": NaN,
+        "diagnosis": NaN,
+        "vervolg_onderzoek_en_behandeling": NaN
+    },
+    {
+        "uid": "7B02A1F3504E5A8628604F8133D180BD2BACB65C",
+        "anamnese": {
+            "klachten": [
+                {
+                    "type": "buikpijn",
+                    "begin_tijd": "gisterenmiddag",
+                    "verloop": "toename van pijn, begon in gehele buik en nu afgezakt naar rechtsonder, continue aanwezigheid"
+                },
+                {
+                    "type": "bewegingsdrang",
+                    "aanwezigheid": "+"
+                },
+                {
+                    "type": "vervoerspijn",
+                    "aanwezigheid": "+"
+                }
+            ],
+            "bijzonderheden": [
+                {
+                    "type": "koorts",
+                    "aanwezigheid": "-"
+                },
+                {
+                    "type": "eetlust",
+                    "aanwezigheid": "-"
+                }
+            ],
+            "digesterie": {
+                "naar toilet gaan": "+",
+                "v\u00f3\u00f3r toilet gaan": "-",
+                "ontlasting": {
+                    "aantal": 4,
+                    "beschrijving": "dunner dan normaal maar niet waterdun",
+                    "bloed/slijm aanwezigheid": "-"
+                }
+            },
+            "urologie": {
+                "strangurie": "-",
+                "hematurie": "-",
+                "pollakisurie": "-"
+            },
+            "genitale organen": {
+                "abnormale afscheiding/VBV-": "-"
+            },
+            "verleden geschiedenis": [
+                "artrose heup",
+                "geen eerdere buikoperatie"
+            ],
+            "medicatie": "geen",
+            "allergie\u00ebn": "geen",
+            "laatste maaltijd": "gisteren"
+        },
+        "lichamelijk_onderzoek": NaN,
+        "diagnostiek": NaN,
+        "advies": NaN,
+        "diagnose_overwegingen": NaN,
+        "aanbevolen_actie": NaN,
+        "volgende_stappen": NaN,
+        "lichamelijke_observatie": NaN,
+        "patient": NaN,
+        "klachten": NaN,
+        "recente_gebeurtenissen": NaN,
+        "aanname": NaN,
+        "vervolgadvies": NaN,
+        "aanpak": NaN,
+        "voorgeschiedenis": NaN,
+        "patient_history": NaN,
+        "symptoms": NaN,
+        "physical_examination": NaN,
+        "diagnostic_considerations": NaN,
+        "aanbevolen_aanvullende_onderzoeken": NaN,
+        "aanbevolen_behandeling": NaN,
+        "lichamelijk onderzoek": {
+            "algemeen": {
+                "beschrijving": "niet acuut zieke vrouw"
+            },
+            "abdomen": {
+                "overig": [
+                    "slank",
+                    "spaarzame peristaltiek"
+                ],
+                "weefseltoestand": "witte tinteling",
+                "percussie": "al pijnlijk ROB",
+                "drukpijn": {
+                    "locatie": "ROB met PM McBurney, contralaterale drukpijn"
+                },
+                "loslaatpijn": "bdz geen loslaatpijn",
+                "flankpijn": "-",
+                "Murphey positief": "+"
+            },
+            "respiratoire": {
+                "respiratie": "/min 18"
+            },
+            "thermometer": {
+                "temperatuur": "\u00b0C 36,7"
+            },
+            "hartslag": {
+                "hartslagen per minuut": "bpm 78"
+            },
+            "bloedzuigapparaat": {
+                "SpO2": "% 97",
+                "NIBP": "mmHg 160/90(113)"
+            }
+        },
+        "diagnostische_overwegingen": NaN,
+        "history_of_present_illness": NaN,
+        "past_medical_history": NaN,
+        "aanvullende_informatie": NaN,
+        "verleden_geschiedenis": NaN,
+        "medical_history": NaN,
+        "diagnosis_hypothesis": NaN,
+        "immediate_actions": NaN,
+        "follow_up_plan": NaN,
+        "diagnose": NaN,
+        "medische_gegevens": NaN,
+        "vervolg": NaN,
+        "diagnosis": NaN,
+        "vervolg_onderzoek_en_behandeling": NaN
+    },
+    {
+        "uid": "B98E3C3E0632697888B0E00B50BA67119A7AB56E",
+        "anamnese": {
+            "klachtenverloop": "Sinds zondag buikpijn. Gisterenochtend plots verergering. Nu hevige pijn rechts onder.",
+            "familiegeschiedenis": "Vader heeft gecompliceerd beloop na geperforeerde appendicitis doorgemaakt."
+        },
+        "lichamelijk_onderzoek": {
+            "algemeen_toestand": "Oogt niet acuut ziek",
+            "abdomen": {
+                "beschrijving": "Diffuus pijnlijk, punctum maximum rechts onder. Geen infiltraat palpabel."
+            }
+        },
+        "diagnostiek": NaN,
+        "advies": NaN,
+        "diagnose_overwegingen": NaN,
+        "aanbevolen_actie": NaN,
+        "volgende_stappen": NaN,
+        "lichamelijke_observatie": NaN,
+        "patient": NaN,
+        "klachten": NaN,
+        "recente_gebeurtenissen": NaN,
+        "aanname": NaN,
+        "vervolgadvies": NaN,
+        "aanpak": NaN,
+        "voorgeschiedenis": NaN,
+        "patient_history": NaN,
+        "symptoms": NaN,
+        "physical_examination": NaN,
+        "diagnostic_considerations": NaN,
+        "aanbevolen_aanvullende_onderzoeken": NaN,
+        "aanbevolen_behandeling": NaN,
+        "lichamelijk onderzoek": NaN,
+        "diagnostische_overwegingen": [
+            {
+                "vermoeden": "Appendicitis",
+                "redenen": [
+                    "Hevige buikpijn rechts onder",
+                    "Familiegeschiedenis van geperforeerde appendicitis"
+                ],
+                "aanvullende_onderzoeken": [
+                    "Labo bloedonderzoek (WBC, CRP)",
+                    "Abdominaal echo of CT-scan"
+                ]
+            },
+            {
+                "vermoeden": "Andere oorzaak van acute buikpijn",
+                "redenen": [
+                    "Diffuus pijnlijk abdomen",
+                    "Geen infiltraat palpabel"
+                ],
+                "aanvullende_onderzoeken": [
+                    "Labo bloedonderzoek (WBC, CRP)",
+                    "Abdominaal echo of CT-scan"
+                ]
+            }
+        ],
+        "history_of_present_illness": NaN,
+        "past_medical_history": NaN,
+        "aanvullende_informatie": NaN,
+        "verleden_geschiedenis": NaN,
+        "medical_history": NaN,
+        "diagnosis_hypothesis": NaN,
+        "immediate_actions": NaN,
+        "follow_up_plan": NaN,
+        "diagnose": NaN,
+        "medische_gegevens": NaN,
+        "vervolg": NaN,
+        "diagnosis": NaN,
+        "vervolg_onderzoek_en_behandeling": NaN
+    },
+    {
+        "uid": "031972956070C5908562CB19EA2A5017D6350421",
+        "anamnese": NaN,
+        "lichamelijk_onderzoek": NaN,
+        "diagnostiek": NaN,
+        "advies": NaN,
+        "diagnose_overwegingen": NaN,
+        "aanbevolen_actie": NaN,
+        "volgende_stappen": NaN,
+        "lichamelijke_observatie": NaN,
+        "patient": {
+            "gender": "man",
+            "age": "onbekend (maar ouder dan 20 jaar)",
+            "chief_complaint": "Acuut braken met zwarte substantie, moeizame ontlasting in de afgelopen jaren"
+        },
+        "klachten": NaN,
+        "recente_gebeurtenissen": NaN,
+        "aanname": NaN,
+        "vervolgadvies": NaN,
+        "aanpak": NaN,
+        "voorgeschiedenis": NaN,
+        "patient_history": NaN,
+        "symptoms": NaN,
+        "physical_examination": {
+            "general_appearance": [
+                "helder en adequaat",
+                "niet bleek of icterisch"
+            ],
+            "vital_signs": [
+                {
+                    "description": "bloeddruk",
+                    "value": "104/82 mmHg"
+                },
+                {
+                    "description": "hartslag",
+                    "value": "80/min regulier"
+                },
+                {
+                    "description": "ademfrequentie",
+                    "value": "20/min"
+                },
+                {
+                    "description": "saturatie",
+                    "value": "95% bij kamerlucht"
+                },
+                {
+                    "description": "temperatuur",
+                    "value": "37.3\u00b0C"
+                }
+            ],
+            "cardiovascular_system": [
+                "S1S2S-"
+            ],
+            "respiratory_system": [
+                {
+                    "description": "VAG beiderzijds met bibasaal minimaal spoortje crepiteren"
+                }
+            ],
+            "abdominal_exam": [
+                {
+                    "description": "zeer spaarzame peristaltiek"
+                },
+                {
+                    "description": "WT, soepele buik"
+                },
+                {
+                    "description": "minimaal wat drukpijn in de rechterzijde van de buik"
+                }
+            ],
+            "extremities": [
+                "slank en warm"
+            ]
+        },
+        "diagnostic_considerations": NaN,
+        "aanbevolen_aanvullende_onderzoeken": NaN,
+        "aanbevolen_behandeling": NaN,
+        "lichamelijk onderzoek": NaN,
+        "diagnostische_overwegingen": NaN,
+        "history_of_present_illness": {
+            "start_date": "gisteren om 17:00 uur",
+            "symptoms": [
+                {
+                    "description": "braken",
+                    "frequency": "30 keer tot vanochtend om 8:00 uur"
+                },
+                {
+                    "description": "zwarte substantie in braaksel"
+                },
+                {
+                    "description": "moeilijkheden met het houden van voedsel binnen"
+                },
+                {
+                    "description": "af en toe buikpijn, niet continu aanwezig"
+                }
+            ],
+            "previous_health_issues": [
+                {
+                    "description": "moeizame ontlasting (jarenlang)"
+                },
+                {
+                    "description": "analyse in ETZ voor moeizame ontlasting, geen bijzondere vondsten"
+                },
+                {
+                    "description": "volledige colonoscopie zonder problemen"
+                }
+            ],
+            "additional_information": [
+                {
+                    "description": "geen bloed of slijm bij defaecatie"
+                },
+                {
+                    "description": "laatste BVO zonder bijzonderheden"
+                },
+                {
+                    "description": "geen ongewenst gewichtsverlies of nachtzweten"
+                }
+            ]
+        },
+        "past_medical_history": {
+            "smoking": "nee (gestopt 20-30 jaar geleden)",
+            "alcohol_consumption": "alleen bij gelegenheden",
+            "social_history": [
+                {
+                    "description": "woont samen met echtgenote"
+                },
+                {
+                    "description": "uitwonende kinderen"
+                }
+            ],
+            "occupation": "laparoscopische ingrepen bij honden"
+        },
+        "aanvullende_informatie": NaN,
+        "verleden_geschiedenis": NaN,
+        "medical_history": NaN,
+        "diagnosis_hypothesis": NaN,
+        "immediate_actions": NaN,
+        "follow_up_plan": NaN,
+        "diagnose": NaN,
+        "medische_gegevens": NaN,
+        "vervolg": NaN,
+        "diagnosis": NaN,
+        "vervolg_onderzoek_en_behandeling": NaN
+    },
+    {
+        "uid": "FE400923F732A2D8693120BDA3BE28D454CFA11F",
+        "anamnese": NaN,
+        "lichamelijk_onderzoek": NaN,
+        "diagnostiek": NaN,
+        "advies": {
+            "aanbevolen_actie": "Gezien de ernstige symptomen (hoog koorts, vervoerspijn en verplaatste buikpijn) is het aan te raden om de pati\u00ebnt onmiddellijk naar een spoedeisende hulp te sturen. Bij voorkeur wordt er een CT-scan of echografie gedaan om de oorzaak van de symptomen vast te stellen.",
+            "volgende_stappen": [
+                {
+                    "stap": "Spoedeisende Hulp",
+                    "omschrijving": "De pati\u00ebnt moet zo snel mogelijk naar spoedeisende hulp worden gebracht voor verdere evaluatie en behandeling."
+                },
+                {
+                    "stap": "Volledige bloedonderzoek",
+                    "omschrijving": "Een volledig bloedonderzoek kan helpen bij het bepalen van de oorzaak van de symptomen, zoals infectie of ontsteking."
+                }
+            ]
+        },
+        "diagnose_overwegingen": [
+            {
+                "naam": "Appendicitis",
+                "omschrijving": "De symptomen van de pati\u00ebnt (rechter onderbuikpijn die zich verplaatst heeft, McBurny+ en RBQ gevoeligheid) zijn compatibel met appendiciteit. De aanwezigheid van koorts en vervoerspijn (+) kan ook bijdragen aan deze diagnose."
+            },
+            {
+                "naam": "Gastroenteritis",
+                "omschrijving": "De pati\u00ebnt heeft al op de huisartsenpost gastroenteritis als mogelijke oorzaak gehad. De symptomen van buikpijn, misselijkheid en diarree kunnen compatibel zijn met deze diagnose."
+            },
+            {
+                "naam": "Hernia",
+                "omschrijving": "Hoewel de pati\u00ebnt geen specifieke symptomen heeft genoemd die op een hernie wijzen, is het belangrijk om deze mogelijkheid in gedachten te houden bij buikpijn."
+            },
+            {
+                "naam": "Ovariaal cyst",
+                "omschrijving": "De pati\u00ebnt is niet sexueel actief en heeft haar laatste pil genomen op zondag. Hoewel ze geen specifieke symptomen van een ovariaal cyst heeft, kan dit een mogelijke oorzaak zijn."
+            }
+        ],
+        "aanbevolen_actie": NaN,
+        "volgende_stappen": NaN,
+        "lichamelijke_observatie": NaN,
+        "patient": NaN,
+        "klachten": NaN,
+        "recente_gebeurtenissen": NaN,
+        "aanname": NaN,
+        "vervolgadvies": NaN,
+        "aanpak": NaN,
+        "voorgeschiedenis": NaN,
+        "patient_history": NaN,
+        "symptoms": NaN,
+        "physical_examination": NaN,
+        "diagnostic_considerations": NaN,
+        "aanbevolen_aanvullende_onderzoeken": NaN,
+        "aanbevolen_behandeling": NaN,
+        "lichamelijk onderzoek": NaN,
+        "diagnostische_overwegingen": NaN,
+        "history_of_present_illness": NaN,
+        "past_medical_history": NaN,
+        "aanvullende_informatie": {
+            "medicatie": [
+                {
+                    "naam": "Orale anticonceptiva",
+                    "omschrijving": "De pati\u00ebnt gebruikt orale anticonceptiva, wat een mogelijke oorzaak van ovariaal cyst kan zijn."
+                }
+            ],
+            "voorgeschiedenis": [
+                {
+                    "naam": "Recidiverende UWI's",
+                    "omschrijving": "De pati\u00ebnt heeft recidiverende ulceraatieve darmziekte, wat een mogelijke oorzaak van de symptomen kan zijn."
+                },
+                {
+                    "naam": "H. pylori",
+                    "omschrijving": "Een infectie met H. pylori kan bijdragen aan UWI's en andere buikpijnklachten."
+                },
+                {
+                    "naam": "IBS/PDS",
+                    "omschrijving": "De pati\u00ebnt heeft een diagnose van Irritable Bowel Syndrome (IBS) of Post-Dysenteric Syndrome (PDS), wat symptomen zoals diarree en misselijkheid kan veroorzaken."
+                }
+            ]
+        },
+        "verleden_geschiedenis": NaN,
+        "medical_history": NaN,
+        "diagnosis_hypothesis": NaN,
+        "immediate_actions": NaN,
+        "follow_up_plan": NaN,
+        "diagnose": NaN,
+        "medische_gegevens": NaN,
+        "vervolg": NaN,
+        "diagnosis": NaN,
+        "vervolg_onderzoek_en_behandeling": NaN
+    },
+    {
+        "uid": "A3BB6A34F0AC43784EB2BFFB8EF09A592B023918",
+        "anamnese": {
+            "medicatie": "Thuis geen vaste medicatie.",
+            "intoxication": "Roken +",
+            "klachten": [
+                {
+                    "type": "koliekaanvallen",
+                    "locatie": "rechtsbovenbuik",
+                    "duur": "wekelijks sinds 5 maanden, de laatste week dagelijks en met toename in ernst"
+                },
+                {
+                    "type": "misselijkheid",
+                    "relatief": "samenhangend met koliekaanvallen"
+                },
+                {
+                    "type": "gewichtverlies",
+                    "aantal_kilos": "-7 kilo in 1,5 week"
+                },
+                {
+                    "type": "ontlasting",
+                    "beschrijving": "donkere stinkende urine en ontkleurde ontlasting sinds een week"
+                },
+                {
+                    "type": "icterus",
+                    "status": "gezien gisteren, nu niet meer zichtbaar"
+                }
+            ],
+            "bijzonderheden": [
+                {
+                    "type": "bewegingsdrang tijdens aanvallen"
+                },
+                {
+                    "type": "klachten kunnen uren duren"
+                },
+                {
+                    "type": "geen koorts in de afgelopen 5 maanden, gisteren koud gevoel bij pijnaanval"
+                }
+            ],
+            "familiegeschiedenis": {
+                "koliek": "Geen bekende familieleden met dergelijke klachten"
+            },
+            "sociale_situatie": [
+                {
+                    "type": "jong zoontje [FIRSTNAME] 1 jaar oud"
+                },
+                {
+                    "type": "moelijk om kind achter te laten bij oma"
+                }
+            ]
+        },
+        "lichamelijk_onderzoek": NaN,
+        "diagnostiek": NaN,
+        "advies": NaN,
+        "diagnose_overwegingen": NaN,
+        "aanbevolen_actie": NaN,
+        "volgende_stappen": NaN,
+        "lichamelijke_observatie": NaN,
+        "patient": NaN,
+        "klachten": NaN,
+        "recente_gebeurtenissen": NaN,
+        "aanname": NaN,
+        "vervolgadvies": NaN,
+        "aanpak": NaN,
+        "voorgeschiedenis": NaN,
+        "patient_history": NaN,
+        "symptoms": NaN,
+        "physical_examination": NaN,
+        "diagnostic_considerations": NaN,
+        "aanbevolen_aanvullende_onderzoeken": NaN,
+        "aanbevolen_behandeling": NaN,
+        "lichamelijk onderzoek": NaN,
+        "diagnostische_overwegingen": NaN,
+        "history_of_present_illness": NaN,
+        "past_medical_history": NaN,
+        "aanvullende_informatie": NaN,
+        "verleden_geschiedenis": NaN,
+        "medical_history": NaN,
+        "diagnosis_hypothesis": NaN,
+        "immediate_actions": NaN,
+        "follow_up_plan": NaN,
+        "diagnose": NaN,
+        "medische_gegevens": NaN,
+        "vervolg": NaN,
+        "diagnosis": NaN,
+        "vervolg_onderzoek_en_behandeling": NaN
+    },
+    {
+        "uid": "49F76961E1EE040CD05C8E17C70FA90778FDD5A2",
+        "anamnese": {
+            "beginsel_pijn": "afgelopen maandag",
+            "locatie_pijn": "rond de navel, niet gemigreerd naar rechtsonder",
+            "bijzondere_symptomen": [
+                "N- (nausea)",
+                "V- (vomeren)",
+                "eetlust-",
+                "ontlasting zojuist op SEH"
+            ],
+            "urinair_systeem": {
+                "dysurie": "-",
+                "polakisurie": "-"
+            },
+            "respiratoir_systeem": {
+                "hoesten": "-",
+                "dyspnoe": "-",
+                "sputum": "-"
+            }
+        },
+        "lichamelijk_onderzoek": {
+            "algemeen": "oogt niet ziek, wel pijnlijk",
+            "respiratoir": {
+                "ademhaling": "20 /min",
+                "temperatuur": "37.7 \u00b0C",
+                "SpO2": "98 %"
+            },
+            "hart_kansel": {
+                "puls": "120 /min"
+            },
+            "buik": {
+                "algemeen": "slank, voelt warm aan, soepel",
+                "pijn": "diffuus drukpijnlijk rond de navel",
+                "loslaatpijn": "-",
+                "prikkelen": "absoluut niet geprikkeld"
+            },
+            "nieren": {
+                "slagpijn": "-"
+            },
+            "liezen": {
+                "zwellingen": "-",
+                "valsalva": "-"
+            },
+            "longen": {
+                "visueel-auditieve geschatting (VAG)": "bdz",
+                "bijgeluiden": "-"
+            }
+        },
+        "diagnostiek": NaN,
+        "advies": NaN,
+        "diagnose_overwegingen": NaN,
+        "aanbevolen_actie": NaN,
+        "volgende_stappen": NaN,
+        "lichamelijke_observatie": NaN,
+        "patient": NaN,
+        "klachten": NaN,
+        "recente_gebeurtenissen": NaN,
+        "aanname": NaN,
+        "vervolgadvies": NaN,
+        "aanpak": NaN,
+        "voorgeschiedenis": NaN,
+        "patient_history": NaN,
+        "symptoms": NaN,
+        "physical_examination": NaN,
+        "diagnostic_considerations": NaN,
+        "aanbevolen_aanvullende_onderzoeken": NaN,
+        "aanbevolen_behandeling": NaN,
+        "lichamelijk onderzoek": NaN,
+        "diagnostische_overwegingen": NaN,
+        "history_of_present_illness": NaN,
+        "past_medical_history": NaN,
+        "aanvullende_informatie": NaN,
+        "verleden_geschiedenis": {
+            "eerder_buikoperaties": "-"
+        },
+        "medical_history": NaN,
+        "diagnosis_hypothesis": NaN,
+        "immediate_actions": NaN,
+        "follow_up_plan": NaN,
+        "diagnose": NaN,
+        "medische_gegevens": NaN,
+        "vervolg": NaN,
+        "diagnosis": NaN,
+        "vervolg_onderzoek_en_behandeling": NaN
+    },
+    {
+        "uid": "12041F4DD5B99BD9889B64C10FC50CD7CE8133F3",
+        "anamnese": NaN,
+        "lichamelijk_onderzoek": NaN,
+        "diagnostiek": NaN,
+        "advies": NaN,
+        "diagnose_overwegingen": NaN,
+        "aanbevolen_actie": NaN,
+        "volgende_stappen": NaN,
+        "lichamelijke_observatie": NaN,
+        "patient": {
+            "symptoms": [
+                {
+                    "type": "abdominal pain",
+                    "location": "right lower quadrant",
+                    "duration": "4 days",
+                    "characteristics": [
+                        "progressive",
+                        "constant"
+                    ],
+                    "aggravating_factors": [
+                        "movement"
+                    ]
+                },
+                {
+                    "type": "general malaise"
+                },
+                {
+                    "type": "no fever"
+                }
+            ],
+            "vitals": {
+                "temperature": 36.6,
+                "heart_rate": 112,
+                "respiratory_rate": 13,
+                "blood_pressure": "133/80",
+                "oxygen_saturation": 100
+            },
+            "physical_exam": {
+                "abdomen": {
+                    "findings": [
+                        "median laparotomy scar",
+                        "normal peristalsis",
+                        "soft abdomen"
+                    ],
+                    "tenderness": {
+                        "location": "McBurney's point"
+                    },
+                    "masses": [
+                        {
+                            "type": "possible infiltrate",
+                            "location": "right lower quadrant"
+                        }
+                    ]
+                }
+            },
+            "recent_meal_time": "9:00 AM",
+            "bowel_movements": {
+                "characteristics": [
+                    "normal"
+                ],
+                "frequency": "less frequent than usual"
+            },
+            "urination": {
+                "status": "good"
+            }
+        },
+        "klachten": NaN,
+        "recente_gebeurtenissen": NaN,
+        "aanname": NaN,
+        "vervolgadvies": NaN,
+        "aanpak": NaN,
+        "voorgeschiedenis": NaN,
+        "patient_history": NaN,
+        "symptoms": NaN,
+        "physical_examination": NaN,
+        "diagnostic_considerations": NaN,
+        "aanbevolen_aanvullende_onderzoeken": NaN,
+        "aanbevolen_behandeling": NaN,
+        "lichamelijk onderzoek": NaN,
+        "diagnostische_overwegingen": NaN,
+        "history_of_present_illness": NaN,
+        "past_medical_history": NaN,
+        "aanvullende_informatie": NaN,
+        "verleden_geschiedenis": NaN,
+        "medical_history": NaN,
+        "diagnosis_hypothesis": NaN,
+        "immediate_actions": NaN,
+        "follow_up_plan": NaN,
+        "diagnose": NaN,
+        "medische_gegevens": NaN,
+        "vervolg": NaN,
+        "diagnosis": NaN,
+        "vervolg_onderzoek_en_behandeling": NaN
+    },
+    {
+        "uid": "A6991C12F13B33D161A29A8A516563FBA187FEFC",
+        "anamnese": {
+            "klachten": [
+                {
+                    "locatie": "rechts onderin de buik",
+                    "aard": "pijn",
+                    "duur": "circa 3 weken",
+                    "verergering": "bij mobiliseren"
+                },
+                {
+                    "symptoom": "koorts en koude rillingen",
+                    "duur": "4 dagen"
+                },
+                {
+                    "symptoom": "vrijwel geen ontlasting de afgelopen 4 dagen, vanmorgen dunne ontlasting zonder bloed of slijm"
+                }
+            ],
+            "voorgeschiedenis": [
+                "H. umbilicalis",
+                "Ulcus pepticum",
+                "Maagverkleining",
+                "Hypercholesterolemie",
+                "Lobster claw syndrome (een zeldzame autosomaal dominante hand- voet malformatie met ook orodentale kenmerken)"
+            ],
+            "medicatie": [
+                {
+                    "naam": "bloedverdunner"
+                },
+                {
+                    "naam": "maagbeschermer"
+                }
+            ],
+            "allergie\u00ebn": [
+                "jodium"
+            ],
+            "laatste maal gegeten": "09.30 uur"
+        },
+        "lichamelijk_onderzoek": {
+            "temperatuur": "37C",
+            "bloeddruk": "127/59 mmHg",
+            "hartslag": "70/min",
+            "ademhaling": "16/min",
+            "SpO2": "97% zonder zuurstof",
+            "algemeen": "niet acuut ziek",
+            "abdomen": {
+                "bol_of_gespannen": false,
+                "NP": true,
+                "WT": true,
+                "soepelheid": true,
+                "drukpijnlijk_locatie": "ROQ met loslaatpijn",
+                "flankpijn": false
+            },
+            "liezen": {
+                "zwellingen_palpabel": false,
+                "valsalva": "-"
+            }
+        },
+        "diagnostiek": NaN,
+        "advies": NaN,
+        "diagnose_overwegingen": NaN,
+        "aanbevolen_actie": NaN,
+        "volgende_stappen": NaN,
+        "lichamelijke_observatie": NaN,
+        "patient": NaN,
+        "klachten": NaN,
+        "recente_gebeurtenissen": NaN,
+        "aanname": NaN,
+        "vervolgadvies": NaN,
+        "aanpak": NaN,
+        "voorgeschiedenis": NaN,
+        "patient_history": NaN,
+        "symptoms": NaN,
+        "physical_examination": NaN,
+        "diagnostic_considerations": NaN,
+        "aanbevolen_aanvullende_onderzoeken": NaN,
+        "aanbevolen_behandeling": NaN,
+        "lichamelijk onderzoek": NaN,
+        "diagnostische_overwegingen": NaN,
+        "history_of_present_illness": NaN,
+        "past_medical_history": NaN,
+        "aanvullende_informatie": NaN,
+        "verleden_geschiedenis": NaN,
+        "medical_history": NaN,
+        "diagnosis_hypothesis": NaN,
+        "immediate_actions": NaN,
+        "follow_up_plan": NaN,
+        "diagnose": NaN,
+        "medische_gegevens": NaN,
+        "vervolg": NaN,
+        "diagnosis": NaN,
+        "vervolg_onderzoek_en_behandeling": NaN
+    },
+    {
+        "uid": "43C611149E6B13D368C256D0C8B38DE851B40FA2",
+        "anamnese": NaN,
+        "lichamelijk_onderzoek": NaN,
+        "diagnostiek": NaN,
+        "advies": NaN,
+        "diagnose_overwegingen": NaN,
+        "aanbevolen_actie": NaN,
+        "volgende_stappen": NaN,
+        "lichamelijke_observatie": NaN,
+        "patient": {
+            "gender": "Vrouw",
+            "age": "Onbekend (geen specifieke leeftijd vermeld)",
+            "pregnancy": "Ja"
+        },
+        "klachten": NaN,
+        "recente_gebeurtenissen": NaN,
+        "aanname": NaN,
+        "vervolgadvies": NaN,
+        "aanpak": NaN,
+        "voorgeschiedenis": NaN,
+        "patient_history": NaN,
+        "symptoms": {
+            "onset_time": "18.00 uur",
+            "pain_location": "Rechter onderbuik",
+            "pain_characteristics": [
+                "Toename van pijn",
+                "Continu aanwezig",
+                "Pijn reageert matig op PCM"
+            ],
+            "additional_symptoms": [
+                "Vervoerspijn+",
+                "Geen bewegingsdrang",
+                "N-, V-",
+                "Normale intake"
+            ]
+        },
+        "physical_examination": {
+            "vital_signs": {
+                "T": 36.1,
+                "Hr": 91,
+                "RR": 75,
+                "Sat": 99
+            },
+            "abdominal_exam": [
+                "NP",
+                "WT",
+                "Druk en loslaatpijn bij Mcburney",
+                "Murphey-",
+                "Slagpijn-"
+            ]
+        },
+        "diagnostic_considerations": NaN,
+        "aanbevolen_aanvullende_onderzoeken": NaN,
+        "aanbevolen_behandeling": NaN,
+        "lichamelijk onderzoek": NaN,
+        "diagnostische_overwegingen": NaN,
+        "history_of_present_illness": NaN,
+        "past_medical_history": NaN,
+        "aanvullende_informatie": NaN,
+        "verleden_geschiedenis": NaN,
+        "medical_history": {
+            "previous_episodes": "Def vorige week laatste maal, dit is normaal voor pati\u00ebnte (soms wel 3 weken zonder)",
+            "medication_taken_today": [
+                "Movicolon"
+            ],
+            "recent_illness": "Niet ziek geweest, geen koorts gehad"
+        },
+        "diagnosis_hypothesis": {
+            "initial_diagnosis": "Appendicitis",
+            "considerations": [
+                "Pijn voelt anders dan bandpijn, zwangerschap kan complicerende factor zijn"
+            ],
+            "next_steps": [
+                "Consultatie met chirurg",
+                "Ultrasonogram of MRI (afhankelijk van zwangerschapsperiode)"
+            ]
+        },
+        "immediate_actions": NaN,
+        "follow_up_plan": NaN,
+        "diagnose": NaN,
+        "medische_gegevens": NaN,
+        "vervolg": NaN,
+        "diagnosis": NaN,
+        "vervolg_onderzoek_en_behandeling": NaN
+    },
+    {
+        "uid": "C9AA12F326C16FA8533835460535B94B46648A50",
+        "anamnese": NaN,
+        "lichamelijk_onderzoek": NaN,
+        "diagnostiek": NaN,
+        "advies": NaN,
+        "diagnose_overwegingen": NaN,
+        "aanbevolen_actie": NaN,
+        "volgende_stappen": NaN,
+        "lichamelijke_observatie": NaN,
+        "patient": {
+            "age_group": "Ouderen",
+            "gender": "Vrouw",
+            "medical_history": [
+                "hypertensie",
+                "COPD III"
+            ],
+            "medication": [
+                {
+                    "name": "oxycodon"
+                },
+                {
+                    "name": "alendroninezuur"
+                },
+                {
+                    "name": "tiotropium"
+                },
+                {
+                    "name": "beclometason/formoterol"
+                },
+                {
+                    "name": "nifedipine"
+                },
+                {
+                    "name": "telmisartan/hydrochloorthiazide"
+                },
+                {
+                    "name": "omeprazol"
+                },
+                {
+                    "name": "metoprolol"
+                },
+                {
+                    "name": "salbutamol"
+                }
+            ],
+            "allergies": [
+                "diclofenac",
+                "furosemide"
+            ],
+            "symptoms": [
+                {
+                    "type": "abdominal pain",
+                    "duration": "since Saturday",
+                    "description": "progressive and continuous, dark brown vomiting (coffee-like) without blood, no bowel movements for two days, difficult before that"
+                },
+                {
+                    "type": "constipation",
+                    "duration": "last 2 weeks"
+                }
+            ],
+            "vital_signs": {
+                "respiratory_rate": 18,
+                "heart_rate": 130,
+                "oxygen_saturation": 93,
+                "blood_pressure": "114/84(94)"
+            },
+            "physical_exam": {
+                "abdomen": [
+                    "high-pitched peristalsis",
+                    "active muscle guarding, no resistance",
+                    "soft abdomen, slightly distended",
+                    "diffuse tender to palpation, maximum tenderness in lower abdomen",
+                    "swelling on right side"
+                ]
+            }
+        },
+        "klachten": NaN,
+        "recente_gebeurtenissen": NaN,
+        "aanname": NaN,
+        "vervolgadvies": NaN,
+        "aanpak": NaN,
+        "voorgeschiedenis": NaN,
+        "patient_history": NaN,
+        "symptoms": NaN,
+        "physical_examination": NaN,
+        "diagnostic_considerations": NaN,
+        "aanbevolen_aanvullende_onderzoeken": NaN,
+        "aanbevolen_behandeling": NaN,
+        "lichamelijk onderzoek": NaN,
+        "diagnostische_overwegingen": NaN,
+        "history_of_present_illness": NaN,
+        "past_medical_history": NaN,
+        "aanvullende_informatie": NaN,
+        "verleden_geschiedenis": NaN,
+        "medical_history": NaN,
+        "diagnosis_hypothesis": [
+            {
+                "condition": "Acute abdomen"
+            },
+            {
+                "condition": "Intestinal obstruction"
+            }
+        ],
+        "immediate_actions": [
+            {
+                "action": "IV access and fluid resuscitation"
+            },
+            {
+                "action": "Electrolyte panel, CBC, BMP, LFTs, amylase/lipase, urinalysis"
+            },
+            {
+                "action": "Abdominal X-ray and CT scan if stable"
+            }
+        ],
+        "follow_up_plan": [
+            {
+                "plan_item": "Admission to hospital for further evaluation and management"
+            },
+            {
+                "plan_item": "Consultation with a gastroenterologist or general surgeon"
+            }
+        ],
+        "diagnose": NaN,
+        "medische_gegevens": NaN,
+        "vervolg": NaN,
+        "diagnosis": NaN,
+        "vervolg_onderzoek_en_behandeling": NaN
+    },
+    {
+        "uid": "C5F7C845935139CBC641AEBBB3972973146C7A25",
+        "anamnese": {
+            "klachten": [
+                {
+                    "locatie": "rechter onderbuik",
+                    "duur": "3 dagen",
+                    "aard": "pijn"
+                },
+                {
+                    "locatie": "rechter onderbuik",
+                    "duur": "plotseling progressief sinds gistermiddag",
+                    "aard": "vervoerspijn"
+                },
+                {
+                    "duur": "gisteren",
+                    "aard": "misselijkheid en braken"
+                },
+                {
+                    "duur": "deze ochtend",
+                    "aard": "afwezig"
+                }
+            ],
+            "bijzonderheden": [
+                "geen bewegingsdrang",
+                "eenige eetlust",
+                "defecatie onveranderd, geen diarree/obstipatie, geen bloed- en/of slijmbijmenging",
+                "mictie onveranderd, geen hematurie, geen pijn/branderigheid"
+            ],
+            "voorgeschiedenis": "Blanco",
+            "medicatie": "Geen",
+            "allergie": "Geen",
+            "laatste maal eten": "Pati\u00ebnt is nuchter"
+        },
+        "lichamelijk_onderzoek": {
+            "algemeen": {
+                "toestand": "niet acuut zieke pati\u00ebnt",
+                "temperatuur": "36\u00b0C",
+                "sat": "100%",
+                "RR": "98/78 mmHg",
+                "puls": "63/min"
+            },
+            "abdomijn": {
+                "postuur": "normaal",
+                "peristaltiek": "normale",
+                "tympani": "wisselende",
+                "loslaatpijn": {
+                    "locatie": "rechter onderbuik",
+                    "aard": "druk en los"
+                },
+                "weerstanden": "geen abnormale"
+            },
+            "bijzonderheden": [
+                "psoassign negatief",
+                "Murphy sign negatief",
+                "geen slagpijn nierloges"
+            ]
+        },
+        "diagnostiek": NaN,
+        "advies": NaN,
+        "diagnose_overwegingen": NaN,
+        "aanbevolen_actie": NaN,
+        "volgende_stappen": NaN,
+        "lichamelijke_observatie": NaN,
+        "patient": NaN,
+        "klachten": NaN,
+        "recente_gebeurtenissen": NaN,
+        "aanname": NaN,
+        "vervolgadvies": NaN,
+        "aanpak": NaN,
+        "voorgeschiedenis": NaN,
+        "patient_history": NaN,
+        "symptoms": NaN,
+        "physical_examination": NaN,
+        "diagnostic_considerations": NaN,
+        "aanbevolen_aanvullende_onderzoeken": NaN,
+        "aanbevolen_behandeling": NaN,
+        "lichamelijk onderzoek": NaN,
+        "diagnostische_overwegingen": NaN,
+        "history_of_present_illness": NaN,
+        "past_medical_history": NaN,
+        "aanvullende_informatie": NaN,
+        "verleden_geschiedenis": NaN,
+        "medical_history": NaN,
+        "diagnosis_hypothesis": NaN,
+        "immediate_actions": NaN,
+        "follow_up_plan": NaN,
+        "diagnose": NaN,
+        "medische_gegevens": NaN,
+        "vervolg": NaN,
+        "diagnosis": NaN,
+        "vervolg_onderzoek_en_behandeling": NaN
+    },
+    {
+        "uid": "E07C5B3707F8FF50550201DC914B97505D8D76A8",
+        "anamnese": NaN,
+        "lichamelijk_onderzoek": {
+            "algemeen": {
+                "toestand": "alerte, matig zieke jongen",
+                "temperatuur": "36.6\u00b0C",
+                "hartslag": "77 bpm",
+                "ademhalingsfrequentie": "130/88",
+                "saturatie": "100%"
+            },
+            "pulmonaal": {
+                "beschrijving": "VAG bdz, geen bijgeluiden"
+            },
+            "abdominaal": {
+                "beschrijving": [
+                    "soepele buik",
+                    "WT",
+                    "NP",
+                    "diffuus drukpijnlijk in alle kwadranten (rechter hemiabdomen > links)",
+                    "loslaatpijn dubieus positief over alle kwadranten",
+                    "Murphy's negatief",
+                    "geen flankpijn",
+                    "geen slagpijn"
+                ]
+            }
+        },
+        "diagnostiek": {
+            "aanwijzingen": [
+                "plotselinge buikpijn met diffuus drukpijnlijkheid in het hele abdomen, rechter hemiabdomen > links"
+            ],
+            "mogelijke_diagnoses": [
+                {
+                    "naam": "appendicitis",
+                    "aanwijzingen": [
+                        "plotselinge buikpijn",
+                        "rechter hemiabdomen > links"
+                    ]
+                },
+                {
+                    "naam": "gastroenteritis",
+                    "aanwijzingen": [
+                        "plotselinge buikpijn",
+                        "brijige ontlasting",
+                        "diffuus drukpijnlijkheid in het hele abdomen"
+                    ]
+                }
+            ]
+        },
+        "advies": NaN,
+        "diagnose_overwegingen": NaN,
+        "aanbevolen_actie": NaN,
+        "volgende_stappen": NaN,
+        "lichamelijke_observatie": NaN,
+        "patient": {
+            "geslacht": "jongen",
+            "leeftijd": "onbekend (maar jong)",
+            "klachten": [
+                {
+                    "type": "plotselinge buikpijn",
+                    "tijdstip": "vanochtend half 5",
+                    "duur": "meerdere uur",
+                    "locatie": "rondom de navel, net links van de navel",
+                    "aard": "stekend/krampend"
+                },
+                {
+                    "type": "ontlasting",
+                    "frequentie": "niet dagelijks",
+                    "beschrijving": "brijig, geen diarree of bijmenging"
+                }
+            ],
+            "verleden": [
+                {
+                    "klacht": "plotselinge buikpijn 2 maanden geleden",
+                    "duur": "30 minuten",
+                    "uitkomst": "zelfde overging"
+                },
+                {
+                    "klacht": "plotselinge buikpijn vandaag",
+                    "duur": "meerdere uur",
+                    "verloop": "kort klachtenvrij, maar pijn kwam terug"
+                }
+            ],
+            "bijzonderheden": [
+                {
+                    "type": "tr. resp",
+                    "beschrijving": "geen hoesten, geen dyspnoe, geen POB"
+                },
+                {
+                    "type": "uro",
+                    "beschrijving": "geen dysurie, gb."
+                }
+            ]
+        },
+        "klachten": NaN,
+        "recente_gebeurtenissen": NaN,
+        "aanname": NaN,
+        "vervolgadvies": NaN,
+        "aanpak": NaN,
+        "voorgeschiedenis": NaN,
+        "patient_history": NaN,
+        "symptoms": NaN,
+        "physical_examination": NaN,
+        "diagnostic_considerations": NaN,
+        "aanbevolen_aanvullende_onderzoeken": NaN,
+        "aanbevolen_behandeling": NaN,
+        "lichamelijk onderzoek": NaN,
+        "diagnostische_overwegingen": NaN,
+        "history_of_present_illness": NaN,
+        "past_medical_history": NaN,
+        "aanvullende_informatie": NaN,
+        "verleden_geschiedenis": NaN,
+        "medical_history": NaN,
+        "diagnosis_hypothesis": NaN,
+        "immediate_actions": NaN,
+        "follow_up_plan": NaN,
+        "diagnose": NaN,
+        "medische_gegevens": NaN,
+        "vervolg": NaN,
+        "diagnosis": NaN,
+        "vervolg_onderzoek_en_behandeling": NaN
+    },
+    {
+        "uid": "85469694A0E11F4B0B78B9DF6C1CB480A07ECDDF",
+        "anamnese": NaN,
+        "lichamelijk_onderzoek": NaN,
+        "diagnostiek": NaN,
+        "advies": NaN,
+        "diagnose_overwegingen": NaN,
+        "aanbevolen_actie": [
+            {
+                "actie": "Urgent abdominale chirurgische consult",
+                "reden": "McBurney positief en plotselinge toenemende pijn in rechter onderbuik wijst op acute appendicitis."
+            },
+            {
+                "actie": "Labo: Bloedonderzoek (WBC, CRP), urineonderzoek",
+                "reden": "Om te bevestigen of er een infectieuze component aanwezig is en om mogelijke complicaties uit te sluiten."
+            },
+            {
+                "actie": "IV-antibiotica starten",
+                "reden": "Tijdelijke behandeling totdat chirurgische consult plaatsvindt, vooral gezien de plotselinge aard van de klachten en het risico op acute appendicitis."
+            },
+            {
+                "actie": "Monitorering van vitalen en pijn",
+                "reden": "Onderhoud van toestand en mogelijke verschuiving naar een ernstiger stadium."
+            }
+        ],
+        "volgende_stappen": NaN,
+        "lichamelijke_observatie": NaN,
+        "patient": NaN,
+        "klachten": NaN,
+        "recente_gebeurtenissen": NaN,
+        "aanname": NaN,
+        "vervolgadvies": NaN,
+        "aanpak": NaN,
+        "voorgeschiedenis": NaN,
+        "patient_history": NaN,
+        "symptoms": NaN,
+        "physical_examination": NaN,
+        "diagnostic_considerations": NaN,
+        "aanbevolen_aanvullende_onderzoeken": NaN,
+        "aanbevolen_behandeling": NaN,
+        "lichamelijk onderzoek": NaN,
+        "diagnostische_overwegingen": NaN,
+        "history_of_present_illness": NaN,
+        "past_medical_history": NaN,
+        "aanvullende_informatie": NaN,
+        "verleden_geschiedenis": NaN,
+        "medical_history": NaN,
+        "diagnosis_hypothesis": NaN,
+        "immediate_actions": NaN,
+        "follow_up_plan": NaN,
+        "diagnose": "Appendicitis",
+        "medische_gegevens": {
+            "anamnese": {
+                "klachten": [
+                    "plotseling toenemende pijn rechter onderbuik",
+                    "voelt zich niet ziek"
+                ],
+                "bijzonderheden": [
+                    "N- V-",
+                    "urine en defecatie normaal"
+                ]
+            },
+            "voorgeschiedenis": [
+                "hypertensie",
+                "AF (aanwezigheid van ASD)"
+            ],
+            "laatste_medische_behandelingen": [
+                "Apixaban gebruikt tot laatste tablet"
+            ]
+        },
+        "vervolg": NaN,
+        "diagnosis": NaN,
+        "vervolg_onderzoek_en_behandeling": NaN
+    },
+    {
+        "uid": "FD34AC8DA4C2A2A3AA711F4A6FEB4E01672F3002",
+        "anamnese": {
+            "klachten": [
+                "Pijn in de ROB (rechter onderbuik) sinds begin van de week",
+                "Milde pijn bij bepaalde bewegingen zoals bukken, niet continue aanwezig"
+            ],
+            "overige_informatie": [
+                "Geen andere klachten",
+                "Normale intake en N-V- (normaal voedselverdien)",
+                "Defecatie: dagelijks, normale consistentie",
+                "Mictie: geen klachten en normaal aspect"
+            ],
+            "aanleiding_bezoek_huisarts": "Bang voor appendicitis en met feestdagen in het vooruitzicht niet wilde wachten."
+        },
+        "lichamelijk_onderzoek": {
+            "algemeen_toeval": "Niet zieke of pijnlijdende pt",
+            "bloeddruk": "165/87 mmHg",
+            "hartslag": "90 per minuut, regulier",
+            "sat": "97%",
+            "ademhaling": "Rustige ademhaling",
+            "abdomen": {
+                "beschrijving": [
+                    "Adipeus",
+                    "Geen herniaties",
+                    "Normale peristaltiek",
+                    "Wisselende tympanie"
+                ],
+                "specifieke_vindsten": [
+                    "Drukpijn thv McBurney (rechter onderbuik)",
+                    "Geen geprikkelde buik"
+                ]
+            }
+        },
+        "diagnostiek": NaN,
+        "advies": NaN,
+        "diagnose_overwegingen": {
+            "mogelijke_diagnoses": [
+                "Appendicitis",
+                "Onderbuikontsteking",
+                "Mucositis (inflammatoire darmziekte)"
+            ],
+            "aanbevolen_actie": "Verder onderzoek nodig, mogelijk een beeldvormende diagnose zoals een MRI of CT-scan om de exacte oorzaak van de pijn te bepalen."
+        },
+        "aanbevolen_actie": NaN,
+        "volgende_stappen": NaN,
+        "lichamelijke_observatie": NaN,
+        "patient": NaN,
+        "klachten": NaN,
+        "recente_gebeurtenissen": NaN,
+        "aanname": NaN,
+        "vervolgadvies": NaN,
+        "aanpak": NaN,
+        "voorgeschiedenis": NaN,
+        "patient_history": NaN,
+        "symptoms": NaN,
+        "physical_examination": NaN,
+        "diagnostic_considerations": NaN,
+        "aanbevolen_aanvullende_onderzoeken": NaN,
+        "aanbevolen_behandeling": NaN,
+        "lichamelijk onderzoek": NaN,
+        "diagnostische_overwegingen": NaN,
+        "history_of_present_illness": NaN,
+        "past_medical_history": NaN,
+        "aanvullende_informatie": NaN,
+        "verleden_geschiedenis": NaN,
+        "medical_history": NaN,
+        "diagnosis_hypothesis": NaN,
+        "immediate_actions": NaN,
+        "follow_up_plan": NaN,
+        "diagnose": NaN,
+        "medische_gegevens": NaN,
+        "vervolg": NaN,
+        "diagnosis": NaN,
+        "vervolg_onderzoek_en_behandeling": NaN
+    },
+    {
+        "uid": "60CB90BEBF3FCAEB387C8014454C9B49312E3060",
+        "anamnese": NaN,
+        "lichamelijk_onderzoek": {
+            "algemeen": [
+                "oogt niet acuut ziek of pijnlijk"
+            ],
+            "vitalen": [
+                {
+                    "item": "RR",
+                    "waarde": "105/65"
+                },
+                {
+                    "item": "P",
+                    "waarde": "97/min"
+                },
+                {
+                    "item": "Sat",
+                    "waarde": "98%"
+                },
+                {
+                    "item": "Temp",
+                    "waarde": "37"
+                }
+            ],
+            "abdomen": [
+                {
+                    "item": "spaarzame peristaltiek, niet hoogklinkend"
+                },
+                {
+                    "item": "soepele buik"
+                },
+                {
+                    "item": "drukpijn gehele onderbuik"
+                },
+                {
+                    "item": "slaat arm weg bij drukken op rechter onderbuik"
+                }
+            ],
+            "liezen": [
+                "goede pulsaties bdz"
+            ],
+            "testis": [
+                {
+                    "item": "beiderzijds ingedaald"
+                },
+                {
+                    "item": "geen roodheid"
+                }
+            ]
+        },
+        "diagnostiek": NaN,
+        "advies": NaN,
+        "diagnose_overwegingen": NaN,
+        "aanbevolen_actie": NaN,
+        "volgende_stappen": NaN,
+        "lichamelijke_observatie": NaN,
+        "patient": {
+            "aanhef": "[FIRSTNAME]",
+            "geslacht": "man",
+            "leeftijd": "onbekend (gebaseerd op voorgeschiedenis en medische behandelingen)",
+            "medische_historie": [
+                {
+                    "item": "mentale retardatie"
+                },
+                {
+                    "item": "ADHD"
+                },
+                {
+                    "item": "2016: hydrocele rechts wv correctie + vasectomie"
+                }
+            ],
+            "medicatie": [
+                {
+                    "item": "Risperidon"
+                },
+                {
+                    "item": "Concerta"
+                },
+                {
+                    "item": "Methylphenidate"
+                }
+            ],
+            "allergie\u00ebn": [
+                "geen bekend"
+            ]
+        },
+        "klachten": {
+            "begin_tijd": "15:30 uur",
+            "locatie_pijn": "onderbuik, rechterzijde",
+            "bijzondere_gebeurtenissen": [
+                {
+                    "item": "gisteravond gebraakt"
+                },
+                {
+                    "item": "thuis temp van 38 gemeten"
+                }
+            ],
+            "symptomen": [
+                {
+                    "item": "matige eetlust"
+                },
+                {
+                    "item": "onduidelijk of vandaag ontlasting gehad, gister in ieder geval wel (onveranderd)"
+                },
+                {
+                    "item": "normale kleur mictie, zou pijn hebben bij het plassen"
+                }
+            ]
+        },
+        "recente_gebeurtenissen": NaN,
+        "aanname": NaN,
+        "vervolgadvies": NaN,
+        "aanpak": NaN,
+        "voorgeschiedenis": NaN,
+        "patient_history": NaN,
+        "symptoms": NaN,
+        "physical_examination": NaN,
+        "diagnostic_considerations": NaN,
+        "aanbevolen_aanvullende_onderzoeken": NaN,
+        "aanbevolen_behandeling": NaN,
+        "lichamelijk onderzoek": NaN,
+        "diagnostische_overwegingen": NaN,
+        "history_of_present_illness": NaN,
+        "past_medical_history": NaN,
+        "aanvullende_informatie": NaN,
+        "verleden_geschiedenis": NaN,
+        "medical_history": NaN,
+        "diagnosis_hypothesis": NaN,
+        "immediate_actions": NaN,
+        "follow_up_plan": NaN,
+        "diagnose": NaN,
+        "medische_gegevens": NaN,
+        "vervolg": NaN,
+        "diagnosis": NaN,
+        "vervolg_onderzoek_en_behandeling": NaN
+    },
+    {
+        "uid": "F8E0DCB51E0146C0DA56837EC49C4B27E7F2B38C",
+        "anamnese": NaN,
+        "lichamelijk_onderzoek": NaN,
+        "diagnostiek": NaN,
+        "advies": NaN,
+        "diagnose_overwegingen": NaN,
+        "aanbevolen_actie": NaN,
+        "volgende_stappen": NaN,
+        "lichamelijke_observatie": NaN,
+        "patient": {
+            "anamnese": {
+                "medische_gebruiksvermelding": "/VG/",
+                "diagnoses": [
+                    "Dementie CDR1",
+                    "Diverticulose",
+                    "PCI (percutaneous coronary intervention)",
+                    "Barret-oesophagus"
+                ],
+                "medicatie": [
+                    "Acetylsalicylzuur",
+                    "PPI (proton pump inhibitor)"
+                ],
+                "allergieen": [],
+                "laatste_meeting_tijd": "13:00"
+            },
+            "klachten": {
+                "algemene_malaise": "Sinds een week",
+                "buikpijn": "Onduidelijk of stekend/zeurende pijn rond de navel, niet continu aanwezig. Bewegingsdrang of vervoerspijn onduidelijk.",
+                "nausea_en_vomiting": "Vandaag (+)",
+                "eetlust": "Verminderd",
+                "activiteit": "Loopt weinig, zit vaak in rolstoel",
+                "ontlasting": "Moeizaam, soms bloed bij ontlasting (bekend met aambeien), 2 dagen geleden laatste ontlasting. Fecaal braken 2 dagen geleden.",
+                "mictie": "Geen problemen, recent blaasontsteking"
+            },
+            "lichamelijk_onderzoek": {
+                "controles": [
+                    "T37",
+                    "AHF 20/min",
+                    "SpO2 93%",
+                    "P99",
+                    "RR 97/66"
+                ],
+                "abdomen": {
+                    "spierweerstand": "SP",
+                    "grootste_goedkeuring": "Gene duidelijk gootsteengeruis.",
+                    "tender_points": "WT, Diffuus drukpijnlijk. Geen duidelijk punctum maximum.",
+                    "muphy_sign": "-",
+                    "slagpijn_nierloges": "-"
+                }
+            },
+            "aanbevelingen": [
+                {
+                    "type": "verder onderzoek",
+                    "omschrijving": "Ultrasonogram van de buik, bloedonderzoek (complexe bloedtesten) om mogelijke infecties of ontstekingen te detecteren."
+                },
+                {
+                    "type": "medicatie_aanpassing",
+                    "omschrijving": "Overweeg aanvullende medicatie voor buikpijn en moeizaamheid van de ontlasting, bijvoorbeeld een laxeermiddel of een andere maag-darm middel."
+                },
+                {
+                    "type": "volgen_op",
+                    "omschrijving": "Volgende beoordeling na het resultaat van verder onderzoek en mogelijke aanpassing van de medicatie."
+                }
+            ]
+        },
+        "klachten": NaN,
+        "recente_gebeurtenissen": NaN,
+        "aanname": NaN,
+        "vervolgadvies": NaN,
+        "aanpak": NaN,
+        "voorgeschiedenis": NaN,
+        "patient_history": NaN,
+        "symptoms": NaN,
+        "physical_examination": NaN,
+        "diagnostic_considerations": NaN,
+        "aanbevolen_aanvullende_onderzoeken": NaN,
+        "aanbevolen_behandeling": NaN,
+        "lichamelijk onderzoek": NaN,
+        "diagnostische_overwegingen": NaN,
+        "history_of_present_illness": NaN,
+        "past_medical_history": NaN,
+        "aanvullende_informatie": NaN,
+        "verleden_geschiedenis": NaN,
+        "medical_history": NaN,
+        "diagnosis_hypothesis": NaN,
+        "immediate_actions": NaN,
+        "follow_up_plan": NaN,
+        "diagnose": NaN,
+        "medische_gegevens": NaN,
+        "vervolg": NaN,
+        "diagnosis": NaN,
+        "vervolg_onderzoek_en_behandeling": NaN
+    },
+    {
+        "uid": "1D5F5FD88E0911616E433505A5FCBD1729D2A916",
+        "anamnese": {
+            "klachten": "Vrouw met chronische buikpijn sinds 1 jaar, recente aanval van continue zeurende buikpijn gedurende de afgelopen 6 uur.",
+            "bijzonderheden": [
+                "Aanvallen nemen toe in frequentie",
+                "Pijn is anders dan normaal en heeft geleid tot bezoek aan huisarts",
+                "Misselijkheid zonder braken",
+                "Normale ontlasting, geen bloed of slijm",
+                "Geen mictietering problemen"
+            ],
+            "medicatie": [
+                "Ibuprofen",
+                "Omeprazol",
+                "Movicolon"
+            ],
+            "allergie\u00ebn": "Geen",
+            "laatste maaltijd": "13 uur geleden"
+        },
+        "lichamelijk_onderzoek": {
+            "vitalen": [
+                {
+                    "naam": "SpO2",
+                    "waarde": "100%"
+                },
+                {
+                    "naam": "HR",
+                    "waarde": "86 bpm"
+                },
+                {
+                    "naam": "NIBP",
+                    "waarde": "146/99(115) mmHg"
+                },
+                {
+                    "naam": "Temp",
+                    "waarde": "37 \u00b0C"
+                }
+            ],
+            "algemeen_toestand": "Matig pijnlijk, niet ziek",
+            "abdomen": {
+                "beschrijving": [
+                    "Adipeus buik",
+                    "Normale peristaltiek",
+                    "Wisselende tympanie"
+                ],
+                "aanvullend": [
+                    "Diffuus enige drukpijn, PM ROQ (rechter onder quadrant)",
+                    "McBurney negatief",
+                    "Psoassign negatief",
+                    "Geen slagpijn nierloges"
+                ]
+            }
+        },
+        "diagnostiek": {
+            "aanwijzingen": [
+                "Chronische buikpijn met recente verandering in karakter en frequentie van aanvallen",
+                "Continue zeurende pijn gedurende de afgelopen 6 uur",
+                "Diffuus drukpijn PM ROQ"
+            ],
+            "vermoedelijke_diagnose": "Chronische buikpijn met mogelijke acute verandering (bijvoorbeeld: appendicitis, gastrointestinaal probleem of andere buikorgaanstoornis)"
+        },
+        "advies": {
+            "volgende_stappen": [
+                "Verder onderzoek nodig om de oorzaak van de recente symptomen te bepalen",
+                "Mogelijk een CT-scan van het abdomen",
+                "Consultatie met een gastroenteroloog of chirurg"
+            ]
+        },
+        "diagnose_overwegingen": NaN,
+        "aanbevolen_actie": NaN,
+        "volgende_stappen": NaN,
+        "lichamelijke_observatie": NaN,
+        "patient": NaN,
+        "klachten": NaN,
+        "recente_gebeurtenissen": NaN,
+        "aanname": NaN,
+        "vervolgadvies": NaN,
+        "aanpak": NaN,
+        "voorgeschiedenis": NaN,
+        "patient_history": NaN,
+        "symptoms": NaN,
+        "physical_examination": NaN,
+        "diagnostic_considerations": NaN,
+        "aanbevolen_aanvullende_onderzoeken": NaN,
+        "aanbevolen_behandeling": NaN,
+        "lichamelijk onderzoek": NaN,
+        "diagnostische_overwegingen": NaN,
+        "history_of_present_illness": NaN,
+        "past_medical_history": NaN,
+        "aanvullende_informatie": NaN,
+        "verleden_geschiedenis": NaN,
+        "medical_history": NaN,
+        "diagnosis_hypothesis": NaN,
+        "immediate_actions": NaN,
+        "follow_up_plan": NaN,
+        "diagnose": NaN,
+        "medische_gegevens": NaN,
+        "vervolg": NaN,
+        "diagnosis": NaN,
+        "vervolg_onderzoek_en_behandeling": NaN
+    },
+    {
+        "uid": "0EC0CC9BD874D7F19A1F162EC9A3EF4B51B0AA29",
+        "anamnese": NaN,
+        "lichamelijk_onderzoek": NaN,
+        "diagnostiek": NaN,
+        "advies": NaN,
+        "diagnose_overwegingen": [
+            {
+                "diagnose": "Acute cholecystitis",
+                "redenen": [
+                    "Epigastrique pijn, pijn in de rechter schouder (Kehr's sign), geen obstipatie of andere buikproblemen zoals maagzuur of misselijkheid"
+                ]
+            },
+            {
+                "diagnose": "Acute pancreatitis",
+                "redenen": [
+                    "Epigastrique pijn, pijn in de rechter schouder, geen obstipatie of andere buikproblemen zoals maagzuur of misselijkheid. Hoewel er geen specifieke symptomen zijn die acute pancreatitis suggereren, is het een mogelijke diagnose gegeven de aanwezigheid van DM II."
+                ]
+            },
+            {
+                "diagnose": "Gastro-oesofageale reflux",
+                "redenen": [
+                    "Hoewel de pati\u00ebnt geen maagzuur of misselijkheid heeft gemeld, kan alcohol consumptie deze symptomen maskeren. De pijn in het epigastrium kan ook zijn veroorzaakt door gastro-oesofageale reflux."
+                ]
+            }
+        ],
+        "aanbevolen_actie": NaN,
+        "volgende_stappen": NaN,
+        "lichamelijke_observatie": NaN,
+        "patient": NaN,
+        "klachten": NaN,
+        "recente_gebeurtenissen": NaN,
+        "aanname": NaN,
+        "vervolgadvies": NaN,
+        "aanpak": NaN,
+        "voorgeschiedenis": NaN,
+        "patient_history": NaN,
+        "symptoms": NaN,
+        "physical_examination": NaN,
+        "diagnostic_considerations": NaN,
+        "aanbevolen_aanvullende_onderzoeken": NaN,
+        "aanbevolen_behandeling": NaN,
+        "lichamelijk onderzoek": NaN,
+        "diagnostische_overwegingen": NaN,
+        "history_of_present_illness": NaN,
+        "past_medical_history": NaN,
+        "aanvullende_informatie": NaN,
+        "verleden_geschiedenis": NaN,
+        "medical_history": NaN,
+        "diagnosis_hypothesis": NaN,
+        "immediate_actions": NaN,
+        "follow_up_plan": NaN,
+        "diagnose": NaN,
+        "medische_gegevens": NaN,
+        "vervolg": [
+            {
+                "actie": "Laboratoriumonderzoek",
+                "redenen": [
+                    "Bloedtesten zoals amylase, lipase en bilirubine om acute pancreatitis te bevestigen of uitsluiten. Ook bloedtesten voor cholesterolverhooging (LDL) en triglyceriden om de risico's van acute cholecystitis te evalueren."
+                ]
+            },
+            {
+                "actie": "Imaging",
+                "redenen": [
+                    "Ultrasonogram van het abdomen om acute cholecystitis of andere buikproblemen zoals een obstructief proces in de galblaas te bevestigen of uitsluiten. Als nodig, kan een CT-scan worden overwogen."
+                ]
+            },
+            {
+                "actie": "Pijnbeheersing",
+                "redenen": [
+                    "Gezien het intense pijnverhaal is het aanbevolen om de pati\u00ebnt pijnstillende medicatie te geven zoals paracetamol of een NSAID (als er geen contraindicaties zijn)."
+                ]
+            },
+            {
+                "actie": "Hydratering",
+                "redenen": [
+                    "Gezien de alcoholconsumptie en het potentieel voor acute pancreatitis is het belangrijk om de pati\u00ebnt goed te hydrateren."
+                ]
+            }
+        ],
+        "diagnosis": NaN,
+        "vervolg_onderzoek_en_behandeling": NaN
+    },
+    {
+        "uid": "32FA72459A99562ADAD68E4FED1E56BDF888ABE7",
+        "anamnese": {
+            "klachten": [
+                {
+                    "type": "pijn",
+                    "locatie": "gehele buik",
+                    "aard": "zeurend met stekende pieken",
+                    "verloop": "progressief"
+                },
+                {
+                    "type": "nausea en overgeven"
+                }
+            ],
+            "bijzonderheden": [
+                {
+                    "activiteit": "lopen geeft verlichting",
+                    "bewegingsdrang": "geen",
+                    "vervoerspijn": "geen",
+                    "pijn na eten": "niet toegenomen"
+                },
+                {
+                    "defecatie": "normaal dagelijks, bruin van kleur, normale consistentie, geen bloed/slijm"
+                },
+                {
+                    "mictie": "geen klachten"
+                },
+                {
+                    "gynaecologisch": "Mirena, geen menstruatie"
+                },
+                {
+                    "roken": "-"
+                }
+            ],
+            "allergie\u00ebn": [
+                "citrusvruchten",
+                "chocola"
+            ],
+            "medicatie": [],
+            "verleden medische geschiedenis": [
+                {
+                    "jaar": 2007,
+                    "ziekte": "tendinitis van de extensorpees rechts"
+                },
+                {
+                    "jaar": 2007,
+                    "ziekte": "cyste adnex"
+                }
+            ],
+            "laatste maal eten/drinken": "10.00 uur"
+        },
+        "lichamelijk_onderzoek": NaN,
+        "diagnostiek": NaN,
+        "advies": NaN,
+        "diagnose_overwegingen": NaN,
+        "aanbevolen_actie": NaN,
+        "volgende_stappen": NaN,
+        "lichamelijke_observatie": NaN,
+        "patient": NaN,
+        "klachten": NaN,
+        "recente_gebeurtenissen": NaN,
+        "aanname": NaN,
+        "vervolgadvies": NaN,
+        "aanpak": NaN,
+        "voorgeschiedenis": NaN,
+        "patient_history": NaN,
+        "symptoms": NaN,
+        "physical_examination": NaN,
+        "diagnostic_considerations": NaN,
+        "aanbevolen_aanvullende_onderzoeken": NaN,
+        "aanbevolen_behandeling": NaN,
+        "lichamelijk onderzoek": {
+            "algemeen": "pijnlijk ogend",
+            "controles": {
+                "sat": "100%",
+                "bloeddruk": "130/81",
+                "hartslag": "97",
+                "temperatuur": "37.3"
+            },
+            "abdomen": {
+                "peristaltiek": "levendig",
+                "weerstand": "tegen",
+                "drukpijn": {
+                    "locatie": "mcburney",
+                    "aard": "stekende pieken"
+                },
+                "loslaatpijn": "geen",
+                "spoassing": {
+                    "locatie": "links",
+                    "aard": "+"
+                },
+                "slagpijn nierloges": "geen"
+            }
+        },
+        "diagnostische_overwegingen": NaN,
+        "history_of_present_illness": NaN,
+        "past_medical_history": NaN,
+        "aanvullende_informatie": NaN,
+        "verleden_geschiedenis": NaN,
+        "medical_history": NaN,
+        "diagnosis_hypothesis": NaN,
+        "immediate_actions": NaN,
+        "follow_up_plan": NaN,
+        "diagnose": {
+            "vermoedelijke diagnose": "appendicitis",
+            "aanbevolen actie": [
+                "urgente consult uroloog of chirurg",
+                "eventuele blootstelling aan infectieuze ziekte onderzoeken"
+            ]
+        },
+        "medische_gegevens": NaN,
+        "vervolg": NaN,
+        "diagnosis": NaN,
+        "vervolg_onderzoek_en_behandeling": NaN
+    },
+    {
+        "uid": "4686E415356EA3C96AD3C0B8CEFA4839DAF72062",
+        "anamnese": {
+            "initial_visit_doctor": "M. [FIRSTNAME] Veen (co-assistent SEH)",
+            "vital_signs": "VG/ blanco",
+            "medication": "Medicatie/ geen",
+            "allergies": "All/ geen",
+            "last_meal": "19:00 pizza"
+        },
+        "lichamelijk_onderzoek": NaN,
+        "diagnostiek": NaN,
+        "advies": NaN,
+        "diagnose_overwegingen": NaN,
+        "aanbevolen_actie": NaN,
+        "volgende_stappen": NaN,
+        "lichamelijke_observatie": NaN,
+        "patient": {
+            "name": "[FIRSTNAME]",
+            "gender": "Vrouw",
+            "age": "Niet vermeld"
+        },
+        "klachten": NaN,
+        "recente_gebeurtenissen": NaN,
+        "aanname": NaN,
+        "vervolgadvies": NaN,
+        "aanpak": NaN,
+        "voorgeschiedenis": NaN,
+        "patient_history": NaN,
+        "symptoms": {
+            "onset_time": "Rond 18:00",
+            "pain_characteristics": "Bukpijn, mild aard, stekend, meer maagstreek. Na eten verergering naar onderbuik.",
+            "additional_symptoms": [
+                "Nausie (+), Vomiting (+)",
+                "Eetlust verminderd",
+                "Ontlasting vandaag nog gehad, dunner aard"
+            ],
+            "temperature": "38.5 gemeten bij HA",
+            "transport_pain": "+",
+            "movement_drives": "-",
+            "urination_complaints": "-"
+        },
+        "physical_examination": {
+            "general_appearance": "Niet ziek, helder, alert",
+            "vital_signs": {
+                "temperature": "37.4",
+                "oxygen_saturation": "100%",
+                "blood_pressure": "129/69 mmHg",
+                "heart_rate": "99 bpm"
+            },
+            "respiratory_system": "Vesiculair ademgeruis, geen bijgeluiden",
+            "cardiovascular_system": "S1S2, geen souffles",
+            "abdominal_examination": {
+                "findings": [
+                    "Soepele buik",
+                    "Normale peristaltiek",
+                    "Wisselende tympanie",
+                    "Drukpijnlijk thv de gehele onderbuik met punctum maximum McBurney",
+                    "Geen evidente loslaatpijn"
+                ],
+                "psoas_test": "-"
+            }
+        },
+        "diagnostic_considerations": NaN,
+        "aanbevolen_aanvullende_onderzoeken": NaN,
+        "aanbevolen_behandeling": NaN,
+        "lichamelijk onderzoek": NaN,
+        "diagnostische_overwegingen": NaN,
+        "history_of_present_illness": NaN,
+        "past_medical_history": NaN,
+        "aanvullende_informatie": NaN,
+        "verleden_geschiedenis": NaN,
+        "medical_history": {
+            "gynecological_history": {
+                "cycle_status": "Normale cyclus, op moment geen mensis."
+            }
+        },
+        "diagnosis_hypothesis": {
+            "primary_diagnosis": "Appendicitis (vermoedelijk)",
+            "additional_considerations": [
+                "Gastro-enteritis",
+                "Onderbuikspierinfectie"
+            ]
+        },
+        "immediate_actions": NaN,
+        "follow_up_plan": NaN,
+        "diagnose": NaN,
+        "medische_gegevens": NaN,
+        "vervolg": NaN,
+        "diagnosis": NaN,
+        "vervolg_onderzoek_en_behandeling": NaN
+    },
+    {
+        "uid": "7D1C88791BC4B61E74DAB25784E94D29896C3A85",
+        "anamnese": {
+            "voorgeschiedenis": [
+                {
+                    "datum": "16-3-21",
+                    "omschrijving": "Diagnostische laparoscopie bij verdenking hernia epigastrica, hier echter geen evident beeld van"
+                },
+                {
+                    "datum": "03-02",
+                    "omschrijving": "presentatie SEH ivm herkenbare koliekaanvallen DD pijn bij buikwanddefect zonder herniatie"
+                },
+                {
+                    "datum": "15-01-2021",
+                    "omschrijving": "presentatie SEH met koliekpijnen boven de navel DD ACNES/functioneel/obstipatie"
+                },
+                {
+                    "jaar": 2014,
+                    "omschrijving": "matige linker ventrikelfunctie 59%"
+                },
+                {
+                    "jaar": 2015,
+                    "omschrijving": "ERCP + papillotomie"
+                },
+                {
+                    "jaar": 2015,
+                    "omschrijving": "Laparoscopische cholecystectomie bij symp galsteenlijden"
+                },
+                {
+                    "jaar": 2018,
+                    "omschrijving": "proximale humerus fractuur"
+                },
+                {
+                    "jaar": 2019,
+                    "omschrijving": "lumbaal radiculair syndroom"
+                }
+            ],
+            "medicatie": [
+                "morfine",
+                "diclofenac",
+                "buscopan",
+                "pregabaline"
+            ],
+            "symptomen": {
+                "pijn": "de hele dag al pijn onderin de buik, komt in aanvallen",
+                "misselijkheid": true,
+                "braak": false,
+                "opboeren": true
+            },
+            "defecatie": {
+                "vanmorgen harde def gehad, geen bloed/slijm. Heeft normaal 3x per week def.": true
+            },
+            "medicatiewijziging": {
+                "recente_wijziging": "enkele weken geen diclofenac, buscopan en oxynorm (kortwerkend) genomen",
+                "huidige_medicatie": [
+                    "oxycodon 5m 2x",
+                    "oxycodon 10mg",
+                    "diclofenac 2x",
+                    "pregabaline 1x",
+                    "buscopan 1x",
+                    "movicolon 1x",
+                    "PCM maximaal",
+                    "bromazepam 2x"
+                ]
+            }
+        },
+        "lichamelijk_onderzoek": {
+            "controles": {
+                "RR": "110/75",
+                "pols": "80/min",
+                "temp": "36",
+                "sat": "97%",
+                "AHF": "15/min"
+            },
+            "algemeen": [
+                "rillerig met de benen, geen koude rillingen, niet acuut ziek, helder en alert"
+            ],
+            "abd": [
+                {
+                    "omschrijving": "operatie litteken oogt rustig"
+                },
+                {
+                    "omschrijving": "induratie om litteken heen"
+                },
+                {
+                    "omschrijving": "geen tekenen van -itis"
+                },
+                {
+                    "omschrijving": "normale peristaltiek"
+                },
+                {
+                    "omschrijving": "wisselende tympanie"
+                },
+                {
+                    "omschrijving": "soepele buik"
+                },
+                {
+                    "omschrijving": "geen loslaatpijn"
+                },
+                {
+                    "omschrijving": "actief spierverzet"
+                },
+                {
+                    "omschrijving": "pijn para-umbilicaal en epigastrio"
+                },
+                {
+                    "omschrijving": "indolente nierloges"
+                }
+            ]
+        },
+        "diagnostiek": NaN,
+        "advies": NaN,
+        "diagnose_overwegingen": NaN,
+        "aanbevolen_actie": NaN,
+        "volgende_stappen": NaN,
+        "lichamelijke_observatie": NaN,
+        "patient": NaN,
+        "klachten": NaN,
+        "recente_gebeurtenissen": NaN,
+        "aanname": NaN,
+        "vervolgadvies": NaN,
+        "aanpak": NaN,
+        "voorgeschiedenis": NaN,
+        "patient_history": NaN,
+        "symptoms": NaN,
+        "physical_examination": NaN,
+        "diagnostic_considerations": NaN,
+        "aanbevolen_aanvullende_onderzoeken": NaN,
+        "aanbevolen_behandeling": NaN,
+        "lichamelijk onderzoek": NaN,
+        "diagnostische_overwegingen": NaN,
+        "history_of_present_illness": NaN,
+        "past_medical_history": NaN,
+        "aanvullende_informatie": NaN,
+        "verleden_geschiedenis": NaN,
+        "medical_history": NaN,
+        "diagnosis_hypothesis": NaN,
+        "immediate_actions": NaN,
+        "follow_up_plan": NaN,
+        "diagnose": NaN,
+        "medische_gegevens": NaN,
+        "vervolg": NaN,
+        "diagnosis": NaN,
+        "vervolg_onderzoek_en_behandeling": NaN
+    },
+    {
+        "uid": "DF0612111D0DA548667AA72B140C1BF54E553CF2",
+        "anamnese": {
+            "klachten": [
+                "Acute pijn in ROB (rechter onderbuik) sinds vandaag, continue aanwezig",
+                "Normale mictie zonder dysurie of polyurie"
+            ],
+            "medische geschiedenis": [
+                "Niet zwanger en geen veranderde vaginale fluor",
+                "Geen hartkloppingen, pijn op de borst of pijn bij het ademhalen",
+                "Niet ziek geweest in de afgelopen tijd"
+            ]
+        },
+        "lichamelijk_onderzoek": {
+            "vitale_parameters": {
+                "temperatuur": "36.4\u00b0C",
+                "hartslag": "62 bpm",
+                "saturatie": "100%",
+                "bloeddruk": "113/72 mmHg"
+            },
+            "abdomen": [
+                "Slank, spaarzame peristaltiek, wisselende tympanie",
+                "Soepel abdomen met drukpijn in McBurney's punt (rechter onderbuik)",
+                "Loslaat pijn aanwezig",
+                "Murphy sign negatief",
+                "Geen slagpijn nierlodges"
+            ]
+        },
+        "diagnostiek": NaN,
+        "advies": NaN,
+        "diagnose_overwegingen": NaN,
+        "aanbevolen_actie": NaN,
+        "volgende_stappen": NaN,
+        "lichamelijke_observatie": NaN,
+        "patient": NaN,
+        "klachten": NaN,
+        "recente_gebeurtenissen": NaN,
+        "aanname": NaN,
+        "vervolgadvies": NaN,
+        "aanpak": NaN,
+        "voorgeschiedenis": NaN,
+        "patient_history": NaN,
+        "symptoms": NaN,
+        "physical_examination": NaN,
+        "diagnostic_considerations": NaN,
+        "aanbevolen_aanvullende_onderzoeken": NaN,
+        "aanbevolen_behandeling": NaN,
+        "lichamelijk onderzoek": NaN,
+        "diagnostische_overwegingen": NaN,
+        "history_of_present_illness": NaN,
+        "past_medical_history": NaN,
+        "aanvullende_informatie": NaN,
+        "verleden_geschiedenis": NaN,
+        "medical_history": NaN,
+        "diagnosis_hypothesis": NaN,
+        "immediate_actions": NaN,
+        "follow_up_plan": NaN,
+        "diagnose": NaN,
+        "medische_gegevens": NaN,
+        "vervolg": NaN,
+        "diagnosis": NaN,
+        "vervolg_onderzoek_en_behandeling": NaN
+    },
+    {
+        "uid": "06CF92EB819DAB27CFEA13B52CD5B3DC9D44111B",
+        "anamnese": NaN,
+        "lichamelijk_onderzoek": NaN,
+        "diagnostiek": NaN,
+        "advies": NaN,
+        "diagnose_overwegingen": NaN,
+        "aanbevolen_actie": NaN,
+        "volgende_stappen": NaN,
+        "lichamelijke_observatie": NaN,
+        "patient": {
+            "name": "[FIRSTNAME]",
+            "age": "Niet vermeld",
+            "gender": "Niet vermeld",
+            "medical_history": [
+                {
+                    "condition": "Schizofrenie",
+                    "treatment_location": "Arkel"
+                },
+                {
+                    "condition": "DM type II"
+                },
+                {
+                    "condition": "Coronairlijden (2017)"
+                },
+                {
+                    "condition": "Ileus op basis van clozapinegebruik (2017), conservatief beleid"
+                },
+                {
+                    "condition": "Asymptomatische occlusie AIE rechts met een significante stenose in AFC rechts (2017), expectatief beleid"
+                },
+                {
+                    "condition": "Parti\u00eble nefrectomie bij oncocytoom (januari 2018)"
+                },
+                {
+                    "condition": "Aneurysma aortae abdominalis (28mm) (march 2018), expectatief beleid"
+                }
+            ],
+            "medication": [
+                {
+                    "drug": "Clozapine"
+                },
+                {
+                    "drug": "Colecalciferol"
+                },
+                {
+                    "drug": "Ferrofumaraat"
+                },
+                {
+                    "drug": "Isosorbidemononitraat"
+                },
+                {
+                    "drug": "Lactulose"
+                },
+                {
+                    "drug": "Lorazepam"
+                },
+                {
+                    "drug": "Simvastatin"
+                },
+                {
+                    "drug": "Temazepam"
+                }
+            ],
+            "allergies": [],
+            "last_meal": "Gisteravond"
+        },
+        "klachten": NaN,
+        "recente_gebeurtenissen": NaN,
+        "aanname": NaN,
+        "vervolgadvies": NaN,
+        "aanpak": NaN,
+        "voorgeschiedenis": NaN,
+        "patient_history": NaN,
+        "symptoms": {
+            "abdominal_pain": "Continu aanwezig en progressief, sinds gisteren ook misselijkheid en braken",
+            "bowel_movement": "Twee dagen geleden voor het laatst ontlasting (brijig, normale kleur, geen bloedbijmenging), nu een week wat dun"
+        },
+        "physical_examination": {
+            "vital_signs": {
+                "respiratory_rate": "25/min",
+                "temperature": "36.5g",
+                "heart_rate": "116/min",
+                "oxygen_saturation": "92%",
+                "blood_pressure": "135/92mmHg"
+            },
+            "general_appearance": "Niet ziek",
+            "abdominal_exam": {
+                "description": "Bolle buik, spaarzame hoogklinkende peristaltiek, hypertympane percussie. Linker hemiabdomen diffuus drukpijnlijk zonder punctuum maximum. Geen loslaatpijn, soepele buik. Liezen gb. Geen slagpijn nierloges."
+            }
+        },
+        "diagnostic_considerations": NaN,
+        "aanbevolen_aanvullende_onderzoeken": NaN,
+        "aanbevolen_behandeling": NaN,
+        "lichamelijk onderzoek": NaN,
+        "diagnostische_overwegingen": NaN,
+        "history_of_present_illness": NaN,
+        "past_medical_history": NaN,
+        "aanvullende_informatie": NaN,
+        "verleden_geschiedenis": NaN,
+        "medical_history": NaN,
+        "diagnosis_hypothesis": NaN,
+        "immediate_actions": NaN,
+        "follow_up_plan": NaN,
+        "diagnose": NaN,
+        "medische_gegevens": NaN,
+        "vervolg": NaN,
+        "diagnosis": {
+            "suspected_conditions": [
+                "Ileus",
+                "Mogelijke obstructie"
+            ],
+            "additional_notes": "Anamnese volgens begeleidster niet geheel betrouwbaar, zou mogelijk al langere tijd geen ontlasting hebben gehad."
+        },
+        "vervolg_onderzoek_en_behandeling": NaN
+    },
+    {
+        "uid": "79F58BEFED787751263E538B1E15B7E6A1497040",
+        "anamnese": NaN,
+        "lichamelijk_onderzoek": NaN,
+        "diagnostiek": NaN,
+        "advies": NaN,
+        "diagnose_overwegingen": NaN,
+        "aanbevolen_actie": NaN,
+        "volgende_stappen": NaN,
+        "lichamelijke_observatie": NaN,
+        "patient": {
+            "age": "1900",
+            "gender": "Vrouw",
+            "medical_history": [
+                {
+                    "condition": "Essenti\u00eble hypertensie",
+                    "year": "2017"
+                },
+                {
+                    "procedure": "Cholecystectomie",
+                    "year": "2010"
+                }
+            ],
+            "current_symptoms": {
+                "abdominal_pain": "Progressieve pijn in de buik, rechts verschoven van centraal",
+                "nausea": "Ja",
+                "appetite": "Verminderd",
+                "defecation": "Geen ontlasting deze nacht, licht en gele kleur",
+                "urination": "Kleine hoeveelheden urine, geen dysurie"
+            },
+            "vital_signs": {
+                "blood_pressure": "120/75 mmHg",
+                "heart_rate": "80 bpm",
+                "oxygen_saturation": "100%",
+                "temperature": "36.7\u00b0C"
+            },
+            "physical_exam": {
+                "cardiovascular_system": {
+                    "description": "S1, S2 aanwezig, geen bijgeluiden"
+                },
+                "respiratory_system": {
+                    "description": "Vag, geen bijgeluiden"
+                },
+                "abdominal_exam": {
+                    "peristalsis": "Sparzaam",
+                    "tenderness": "Drukpijn in onderbuik rechts"
+                },
+                "extremities": {
+                    "description": "Slank"
+                }
+            },
+            "medications": [
+                {
+                    "name": "Metroprolol",
+                    "dose": "100 mg",
+                    "frequency": "2x per dag"
+                },
+                {
+                    "name": "Hydrochloorthiazide",
+                    "dose": "12.5 mg",
+                    "frequency": "1x per dag"
+                }
+            ],
+            "lifestyle": {
+                "smoking": "Nee",
+                "alcohol_consumption": "Sporadisch"
+            },
+            "social_context": {
+                "occupation": "Administratie voor bedrijven",
+                "caregiver_role": "Mantelzorger van inwonende moeder"
+            }
+        },
+        "klachten": NaN,
+        "recente_gebeurtenissen": NaN,
+        "aanname": NaN,
+        "vervolgadvies": NaN,
+        "aanpak": NaN,
+        "voorgeschiedenis": NaN,
+        "patient_history": NaN,
+        "symptoms": NaN,
+        "physical_examination": NaN,
+        "diagnostic_considerations": NaN,
+        "aanbevolen_aanvullende_onderzoeken": NaN,
+        "aanbevolen_behandeling": NaN,
+        "lichamelijk onderzoek": NaN,
+        "diagnostische_overwegingen": NaN,
+        "history_of_present_illness": NaN,
+        "past_medical_history": NaN,
+        "aanvullende_informatie": NaN,
+        "verleden_geschiedenis": NaN,
+        "medical_history": NaN,
+        "diagnosis_hypothesis": NaN,
+        "immediate_actions": NaN,
+        "follow_up_plan": NaN,
+        "diagnose": NaN,
+        "medische_gegevens": NaN,
+        "vervolg": NaN,
+        "diagnosis": NaN,
+        "vervolg_onderzoek_en_behandeling": NaN
+    },
+    {
+        "uid": "CBFFB5C86DAB81F56EEA3F16004F019F6615071A",
+        "anamnese": NaN,
+        "lichamelijk_onderzoek": NaN,
+        "diagnostiek": NaN,
+        "advies": NaN,
+        "diagnose_overwegingen": NaN,
+        "aanbevolen_actie": NaN,
+        "volgende_stappen": NaN,
+        "lichamelijke_observatie": NaN,
+        "patient": NaN,
+        "klachten": NaN,
+        "recente_gebeurtenissen": NaN,
+        "aanname": NaN,
+        "vervolgadvies": NaN,
+        "aanpak": NaN,
+        "voorgeschiedenis": NaN,
+        "patient_history": NaN,
+        "symptoms": NaN,
+        "physical_examination": NaN,
+        "diagnostic_considerations": NaN,
+        "aanbevolen_aanvullende_onderzoeken": NaN,
+        "aanbevolen_behandeling": NaN,
+        "lichamelijk onderzoek": NaN,
+        "diagnostische_overwegingen": NaN,
+        "history_of_present_illness": NaN,
+        "past_medical_history": NaN,
+        "aanvullende_informatie": NaN,
+        "verleden_geschiedenis": NaN,
+        "medical_history": NaN,
+        "diagnosis_hypothesis": NaN,
+        "immediate_actions": NaN,
+        "follow_up_plan": NaN,
+        "diagnose": NaN,
+        "medische_gegevens": NaN,
+        "vervolg": NaN,
+        "diagnosis": NaN,
+        "vervolg_onderzoek_en_behandeling": NaN
+    },
+    {
+        "uid": "9083AE5FFEA051BE38471E1ADBFF909B3411C13A",
+        "anamnese": NaN,
+        "lichamelijk_onderzoek": NaN,
+        "diagnostiek": NaN,
+        "advies": NaN,
+        "diagnose_overwegingen": [
+            {
+                "overweging": "Deze pati\u00ebnt heeft een geschiedenis van meerdere abdominale chirurgische ingrepen, waaronder buikwandcorrectie plastische chirurgie en hervisies. De plotselinge pijn in de rechter onderbuik kan verschillende oorzaken hebben.",
+                "mogelijke_diagnoses": [
+                    {
+                        "diagnose": "Appendicitis",
+                        "omschrijving": "Hoewel de pati\u00ebnt een geschiedenis heeft van abdominale chirurgie, is appendicitis altijd een overweging bij acute pijn in de rechter onderbuik. De aanwezige symptomen zoals plotseling beginnende pijn en drukpijnlijkheid zijn compatibel met deze diagnose."
+                    },
+                    {
+                        "diagnose": "Adhesieproblemen",
+                        "omschrijving": "Gegeven de geschiedenis van meerdere abdominale chirurgische ingrepen, is het mogelijk dat adhesies zijn gevormd die nu problemen veroorzaken. Dit kan leiden tot acute pijn en andere symptomen."
+                    },
+                    {
+                        "diagnose": "Ovarien cyst",
+                        "omschrijving": "Hoewel de pati\u00ebnt een geschiedenis heeft van uterusextirpatie, kunnen overgebleven ovarische structuren problemen veroorzaken zoals cysten die pijn kunnen veroorzaken."
+                    },
+                    {
+                        "diagnose": "Infectieuze buikzwelling",
+                        "omschrijving": "Een infectie in de rechter onderbuik kan ook een mogelijke oorzaak zijn, hoewel dit minder waarschijnlijk is gegeven het aanwezige lichamelijk onderzoek."
+                    }
+                ]
+            },
+            {
+                "overweging": "De pati\u00ebnt heeft een geschiedenis van angio-oedeem en reageert mogelijk slecht op NSAID's. Dit moet in acht worden genomen bij de behandeling van pijn.",
+                "mogelijke_diagnoses": [
+                    {
+                        "diagnose": "Angio-oedeem",
+                        "omschrijving": "De pati\u00ebnt heeft een geschiedenis van angio-oedeem, wat kan verergeren door bepaalde medicatie of allergische reacties. Dit moet worden overwogen bij het beoordelen van de pijn en symptomen."
+                    }
+                ]
+            },
+            {
+                "overweging": "De pati\u00ebnt heeft een geschiedenis van bloedverdunnende medicijnen, hoewel hij momenteel geen gebruikt.",
+                "mogelijke_diagnoses": [
+                    {
+                        "diagnose": "Hernie",
+                        "omschrijving": "Een ingesloten of ingeketend buikholthernia kan een mogelijke oorzaak zijn van acute pijn in de rechter onderbuik, vooral bij pati\u00ebnten met een geschiedenis van abdominale chirurgie."
+                    }
+                ]
+            },
+            {
+                "overweging": "De pati\u00ebnt heeft een geschiedenis van plastische chirurgie.",
+                "mogelijke_diagnoses": [
+                    {
+                        "diagnose": "Problemen met het litteken",
+                        "omschrijving": "Het is mogelijk dat er problemen zijn ontstaan met de littekens van de voorgaande operaties, zoals een infectie of een absces."
+                    }
+                ]
+            },
+            {
+                "overweging": "De pati\u00ebnt heeft plotseling pijn gekregen en het lichamelijk onderzoek toont aan dat er drukpijnlijkheid is in de rechter onderbuik.",
+                "mogelijke_diagnoses": [
+                    {
+                        "diagnose": "Acute abdomen",
+                        "omschrijving": "Gegeven de plotselinge aard van de symptomen en het lichamelijk onderzoek, moet acute abdomen worden overwogen."
+                    }
+                ]
+            },
+            {
+                "overweging": "De pati\u00ebnt heeft een geschiedenis van plastische chirurgie.",
+                "mogelijke_diagnoses": [
+                    {
+                        "diagnose": "Problemen met de buikwandcorrectie",
+                        "omschrijving": "Het is mogelijk dat er problemen zijn ontstaan met de buikwandcorrectie, zoals een loslaat of een infectie."
+                    }
+                ]
+            },
+            {
+                "overweging": "De pati\u00ebnt heeft plotseling pijn gekregen en het lichamelijk onderzoek toont aan dat er"
+            }
+        ],
+        "aanbevolen_actie": NaN,
+        "volgende_stappen": NaN,
+        "lichamelijke_observatie": NaN,
+        "patient": NaN,
+        "klachten": NaN,
+        "recente_gebeurtenissen": NaN,
+        "aanname": NaN,
+        "vervolgadvies": NaN,
+        "aanpak": NaN,
+        "voorgeschiedenis": NaN,
+        "patient_history": NaN,
+        "symptoms": NaN,
+        "physical_examination": NaN,
+        "diagnostic_considerations": NaN,
+        "aanbevolen_aanvullende_onderzoeken": NaN,
+        "aanbevolen_behandeling": NaN,
+        "lichamelijk onderzoek": NaN,
+        "diagnostische_overwegingen": NaN,
+        "history_of_present_illness": NaN,
+        "past_medical_history": NaN,
+        "aanvullende_informatie": NaN,
+        "verleden_geschiedenis": NaN,
+        "medical_history": NaN,
+        "diagnosis_hypothesis": NaN,
+        "immediate_actions": NaN,
+        "follow_up_plan": NaN,
+        "diagnose": NaN,
+        "medische_gegevens": NaN,
+        "vervolg": NaN,
+        "diagnosis": NaN,
+        "vervolg_onderzoek_en_behandeling": NaN
+    },
+    {
+        "uid": "F6C92D5501176E8544CC33E1394BBE58B7544283",
+        "anamnese": {
+            "klachten": [
+                {
+                    "type": "moeizame ontlasting",
+                    "duur": "4-5 dagen",
+                    "details": "gestart met pruimen/druiven"
+                },
+                {
+                    "type": "stekende pijn in buik",
+                    "details": "gehele buik, opgeblazen gevoel"
+                },
+                {
+                    "type": "nauwelijks urine produceren",
+                    "details": "vaak mictie, geen kleine beetjes of dysurie"
+                }
+            ],
+            "bijzonderheden": [
+                {
+                    "type": "N+",
+                    "details": "vanochtend eenmaal gebraakt"
+                },
+                {
+                    "type": "eetlust",
+                    "details": "afgelopen dagen minder, hiervoor prima"
+                },
+                {
+                    "type": "allergie",
+                    "details": "-"
+                },
+                {
+                    "type": "medicatie",
+                    "details": "clopidogrel"
+                }
+            ]
+        },
+        "lichamelijk_onderzoek": {
+            "algemeen": {
+                "status": "niet ziek",
+                "temperatuur": "36.5\u00b0C",
+                "hartslag": "100/min"
+            },
+            "abdominaal": [
+                {
+                    "type": "peristaltiek",
+                    "details": "spaarzaam"
+                },
+                {
+                    "type": "percussie",
+                    "details": "WT maar gedempte percussie linker hemiabdomen"
+                },
+                {
+                    "type": "drukpijn",
+                    "details": "minimale drukpijn RBQ"
+                },
+                {
+                    "type": "loslaatpijn",
+                    "details": "-"
+                },
+                {
+                    "type": "slagpijn nierloges",
+                    "details": "-"
+                }
+            ]
+        },
+        "diagnostiek": NaN,
+        "advies": NaN,
+        "diagnose_overwegingen": NaN,
+        "aanbevolen_actie": NaN,
+        "volgende_stappen": NaN,
+        "lichamelijke_observatie": NaN,
+        "patient": NaN,
+        "klachten": NaN,
+        "recente_gebeurtenissen": NaN,
+        "aanname": NaN,
+        "vervolgadvies": NaN,
+        "aanpak": NaN,
+        "voorgeschiedenis": NaN,
+        "patient_history": NaN,
+        "symptoms": NaN,
+        "physical_examination": NaN,
+        "diagnostic_considerations": NaN,
+        "aanbevolen_aanvullende_onderzoeken": NaN,
+        "aanbevolen_behandeling": NaN,
+        "lichamelijk onderzoek": NaN,
+        "diagnostische_overwegingen": NaN,
+        "history_of_present_illness": NaN,
+        "past_medical_history": NaN,
+        "aanvullende_informatie": NaN,
+        "verleden_geschiedenis": NaN,
+        "medical_history": NaN,
+        "diagnosis_hypothesis": NaN,
+        "immediate_actions": NaN,
+        "follow_up_plan": NaN,
+        "diagnose": NaN,
+        "medische_gegevens": NaN,
+        "vervolg": NaN,
+        "diagnosis": NaN,
+        "vervolg_onderzoek_en_behandeling": NaN
+    },
+    {
+        "uid": "3804C0175C9127FAC2842B96A2795B43C57D15BA",
+        "anamnese": {
+            "klachtenduur": "3 dagen",
+            "hoofdprobleem": "krampende buikpijn rond de navel die sinds vandaag af is gezakt naar de rechter onderbuik, continue pijn in rust NRS 6 en bij bewegen NRS 8, vervoerspijn-",
+            "GI": {
+                "eetlust": "wel eetlust",
+                "N+V": "-",
+                "ontlasting": "sinds zondag minder ontlasting met diaree, vandaag geen diaree maar zachte ontlasting, geen bloed of slijm"
+            },
+            "Uroi": {
+                "dysuri": "-",
+                "pollakisuri": "-",
+                "geur en kleur": "normaal"
+            },
+            "Gyn": {
+                "ongesteldheid": "vorige week ongesteld",
+                "anticonceptiepil": "gebruikt",
+                "sexueel actief": "ja",
+                "afscheiding": "aanwezig, soms ruikt anders dan normaal"
+            },
+            "allergische geschiedenis": {
+                "amoxicilline": "huiduitslag als kind"
+            }
+        },
+        "lichamelijk_onderzoek": NaN,
+        "diagnostiek": NaN,
+        "advies": NaN,
+        "diagnose_overwegingen": NaN,
+        "aanbevolen_actie": NaN,
+        "volgende_stappen": NaN,
+        "lichamelijke_observatie": NaN,
+        "patient": NaN,
+        "klachten": NaN,
+        "recente_gebeurtenissen": NaN,
+        "aanname": NaN,
+        "vervolgadvies": NaN,
+        "aanpak": NaN,
+        "voorgeschiedenis": NaN,
+        "patient_history": NaN,
+        "symptoms": NaN,
+        "physical_examination": NaN,
+        "diagnostic_considerations": NaN,
+        "aanbevolen_aanvullende_onderzoeken": NaN,
+        "aanbevolen_behandeling": NaN,
+        "lichamelijk onderzoek": {
+            "algemeen": {
+                "blosjes": "ja",
+                "niet ziek, niet pijnlijk": "abdomen en buikpijn plaatsing en kenmerken van de pijn: slank, NP, WT, soepel, drukpijn diffuus in de buik, pm ROQ, McBurney+, Murpheys sign -, geen loslaatpijn, geen slagpijn nierloges",
+                "liezen": {
+                    "zwelling": "-",
+                    "drukpijn rechter lies": "+"
+                }
+            },
+            "diagnose": "Een mogelijke acute apendicitis wordt geopperd op basis van de symptomen en het lichamelijk onderzoek. De McBurney punt pijn is een kenmerkende vondst voor apendicitis.",
+            "vervolgadvies": {
+                "urgente beademing": "Ja, omdat er sprake is van een mogelijke acute apendicitis die mogelijk chirurgische ingreep vereist."
+            }
+        },
+        "diagnostische_overwegingen": NaN,
+        "history_of_present_illness": NaN,
+        "past_medical_history": NaN,
+        "aanvullende_informatie": NaN,
+        "verleden_geschiedenis": NaN,
+        "medical_history": NaN,
+        "diagnosis_hypothesis": NaN,
+        "immediate_actions": NaN,
+        "follow_up_plan": NaN,
+        "diagnose": NaN,
+        "medische_gegevens": NaN,
+        "vervolg": NaN,
+        "diagnosis": NaN,
+        "vervolg_onderzoek_en_behandeling": NaN
+    },
+    {
+        "uid": "16F5DDC83D1D6E456DE3FB991911B962E99A5D32",
+        "anamnese": {
+            "klachten": [
+                {
+                    "locatie": "buik",
+                    "beschrijving": "pijn rond navel/ROB, continu aanwezig"
+                },
+                {
+                    "beschrijving": "misselijkheid"
+                },
+                {
+                    "aantal_keer": 2,
+                    "beschrijving": "gebraakt"
+                },
+                {
+                    "beschrijving": "rillerig"
+                }
+            ],
+            "defecatie": {
+                "normaal_dagelijks": true,
+                "bloed_of_slijm_bijmenging": false
+            },
+            "urine": {
+                "pollakisurie": false,
+                "dysurie": false
+            },
+            "andere_klachten": [
+                {
+                    "beschrijving": "geen hoesten of benauwdheid"
+                },
+                {
+                    "beschrijving": "geen POB"
+                }
+            ],
+            "laatste_medicatie": "gisteravond"
+        },
+        "lichamelijk_onderzoek": {
+            "algemeen": {
+                "acuut_ziek": false,
+                "helder_en_adequaat": true
+            },
+            "fysieke_toestand": {
+                "beschrijving": "opgetrokken knie\u00ebn"
+            },
+            "vitalen": [
+                {
+                    "naam": "T",
+                    "waarde": 37
+                },
+                {
+                    "naam": "HR",
+                    "waarde": 75,
+                    "eenheid": "/min"
+                },
+                {
+                    "naam": "RR",
+                    "waarde": 131,
+                    "eenheid": "/85"
+                },
+                {
+                    "naam": "SpO2",
+                    "waarde": 96
+                }
+            ],
+            "abdomen": {
+                "peristaltiek": "normale",
+                "tympaan": "wisselend",
+                "drukpijn": [
+                    "tpv McBurney en rond navel"
+                ],
+                "loslaatpijn": false,
+                "soepelheid": "soepele buik",
+                "psoas_test": "negatief",
+                "slagpijn_nierloges": false
+            }
+        },
+        "diagnostiek": NaN,
+        "advies": NaN,
+        "diagnose_overwegingen": [
+            {
+                "beschrijving": "Acute appendicitis"
+            },
+            {
+                "beschrijving": "Gastroenteritis"
+            }
+        ],
+        "aanbevolen_actie": NaN,
+        "volgende_stappen": NaN,
+        "lichamelijke_observatie": NaN,
+        "patient": NaN,
+        "klachten": NaN,
+        "recente_gebeurtenissen": NaN,
+        "aanname": NaN,
+        "vervolgadvies": NaN,
+        "aanpak": NaN,
+        "voorgeschiedenis": NaN,
+        "patient_history": NaN,
+        "symptoms": NaN,
+        "physical_examination": NaN,
+        "diagnostic_considerations": NaN,
+        "aanbevolen_aanvullende_onderzoeken": NaN,
+        "aanbevolen_behandeling": NaN,
+        "lichamelijk onderzoek": NaN,
+        "diagnostische_overwegingen": NaN,
+        "history_of_present_illness": NaN,
+        "past_medical_history": NaN,
+        "aanvullende_informatie": NaN,
+        "verleden_geschiedenis": NaN,
+        "medical_history": NaN,
+        "diagnosis_hypothesis": NaN,
+        "immediate_actions": NaN,
+        "follow_up_plan": NaN,
+        "diagnose": NaN,
+        "medische_gegevens": NaN,
+        "vervolg": NaN,
+        "diagnosis": NaN,
+        "vervolg_onderzoek_en_behandeling": {
+            "onderzoek": [
+                "bloedonderzoek",
+                "urineonderzoek"
+            ],
+            "behandeling": [
+                {
+                    "beschrijving": "Pijnstillers toedienen"
+                },
+                {
+                    "beschrijving": "Spoor acuut ziektebeeld en mogelijk operatief ingrijpen in geval van appendicitis"
+                }
+            ]
+        }
+    },
+    {
+        "uid": "0C3E2B506B28A8C5A856F0136ADBBF44905BC0A8",
+        "anamnese": {
+            "klachten": [
+                {
+                    "locatie": "onderste rug",
+                    "duur": "3 weken",
+                    "aard": "aanvalsgewijze pijn"
+                },
+                {
+                    "locatie": "rechts onderbuik",
+                    "duur": "2 dagen",
+                    "aard": "aanvalsgewijze pijn"
+                }
+            ],
+            "bijzonderheden": [
+                "geen koorts",
+                "geen overgeven of misselijkheid",
+                "geen vervoerspijn",
+                "bewegingsdrang aanwezig",
+                "regelmatige bruine, dunne ontlasting (tot 7x per dag) gedurende de afgelopen 1.5 jaar",
+                "ontlasting nu weer dun en stinkend, maar wel bruin",
+                "mictie zonder branderigheid, kleine hoeveelheden urine",
+                "koperspiraal in situatie",
+                "wisselende menstruatiecyclus"
+            ],
+            "medicatie": [],
+            "allergische reacties": []
+        },
+        "lichamelijk_onderzoek": {
+            "algemeen": {
+                "toestand": "helder en alert"
+            },
+            "fysieke_controles": [
+                {
+                    "parameter": "temperatuur",
+                    "waarde": "36.8\u00b0C"
+                },
+                {
+                    "parameter": "spo2",
+                    "waarde": "97% zonder zuurstof"
+                },
+                {
+                    "parameter": "hartslag",
+                    "waarde": "74 bpm"
+                },
+                {
+                    "parameter": "bloeddruk",
+                    "waarde": "101/86 mmHg"
+                }
+            ],
+            "abdomen": {
+                "overzicht": [
+                    "slank, soepel"
+                ],
+                "specifieke_vindigheden": [
+                    {
+                        "locatie": "rechter onderbuik (ROQ)",
+                        "vindigheid": "drukpijnlijk"
+                    },
+                    {
+                        "locatie": "nieren",
+                        "vindigheid": "rechts gevoelig, geen evidente slagpijn; links geen slagpijn"
+                    }
+                ]
+            }
+        },
+        "diagnostiek": {
+            "aanwijzingen": [
+                "aanvalsgewijze pijn in de onderste rug en rechter onderbuik",
+                "drukpijnlijk ROQ op lichamelijk onderzoek",
+                "gevoeligheid van het rechter nierloges"
+            ],
+            "vermoedelijke_diagnose": "appendicitis of nierstentorijn (pyelonefritis)"
+        },
+        "advies": {
+            "aanbevolen_actie": "urgente beademing en verdere diagnostiek, mogelijk CT-scan van de buik",
+            "medische_interventie": "eventuele antibiotica voor infectie, eventueel chirurgische ingreep"
+        },
+        "diagnose_overwegingen": NaN,
+        "aanbevolen_actie": NaN,
+        "volgende_stappen": NaN,
+        "lichamelijke_observatie": NaN,
+        "patient": NaN,
+        "klachten": NaN,
+        "recente_gebeurtenissen": NaN,
+        "aanname": NaN,
+        "vervolgadvies": NaN,
+        "aanpak": NaN,
+        "voorgeschiedenis": NaN,
+        "patient_history": NaN,
+        "symptoms": NaN,
+        "physical_examination": NaN,
+        "diagnostic_considerations": NaN,
+        "aanbevolen_aanvullende_onderzoeken": NaN,
+        "aanbevolen_behandeling": NaN,
+        "lichamelijk onderzoek": NaN,
+        "diagnostische_overwegingen": NaN,
+        "history_of_present_illness": NaN,
+        "past_medical_history": NaN,
+        "aanvullende_informatie": NaN,
+        "verleden_geschiedenis": NaN,
+        "medical_history": NaN,
+        "diagnosis_hypothesis": NaN,
+        "immediate_actions": NaN,
+        "follow_up_plan": NaN,
+        "diagnose": NaN,
+        "medische_gegevens": NaN,
+        "vervolg": NaN,
+        "diagnosis": NaN,
+        "vervolg_onderzoek_en_behandeling": NaN
+    }
+]
